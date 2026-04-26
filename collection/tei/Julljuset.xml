@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         
+        <div>
+        <pb n="3"/>
+        <lg type="poem">
+        <head>Julljusen</head>
+         <lg type="stanza">
+            <l>Signade tid, då juleljusen</l>
+            <l>tändas i de skumma husen!</l>
+            <l>Mödans barn med hårda sinnen</l>
+            <l>tina vid gamla juleminnen.</l>
+            <l>Juletid! Signade tid,</l>
+            <l>född av ljus och sänd till frid!</l>
+         </lg>   
+         <lg type="stanza">
+               <l>Julljus lysa vid kyrkogången</l>
+               <l>till den arla ottesången.</l>
+               <l>Och när helga psalmer tona,</l>
+               <l>juleljus från gren och krona</l>
+               <l>stråla in i hjäregrund</l>
+               <l>i den sköna morgonstund.</l>
+            </lg>
+          <lg type="stanza">
+             <l>Signade julljus! Strålen! Brinnen!</l>
+             <l>Värmen alla frusna sinnen!</l>
+             <l>Lysen i årets mörka tid!</l>
+             <l>Bringen jorden julens frid!</l>
+          </lg>
+           <signed>Nils Ludvig</signed>
+        </lg>
+        </div>
+         
+         <div>
+         <pb n="4"/>
+         <lg type="poem">
+         <head type="dedication">Till Sfinxen</head>
+         <lg type="stanza">
+            <l>Djupt ur öknarnas sand med skelande ögon</l>
+            <l>stirrar du ännu. Åldrar växa omkring dig,</l>
+            <l>tyna och dö och samma kallnade blickar</l>
+            <l>möta de endast.</l>
+           </lg>
+         <lg type="stanza">
+            <l>Är du död, eller andas liv bakom stenen?</l>
+            <l>Grubblar du på varats osägliga gåta?</l>
+            <l>Skall du stirra i fjärran och grubbla så i</l>
+            <l>kommande sekler?</l>
+         </lg>
+         <lg type="stanza">
+            <l>Hur vi längta att se i slocknande ögon</l>
+            <l>de förlösande glimtar, då hemligheten</l>
+            <l>uppenbarats för dig och trött du vill luta</l>
+            <l>pannan mot sanden.</l>
+         </lg>
+         <lg type="stanza">
+            <l>Eller skall du för alla människors släkten</l>
+            <l>bliva en röst åt Gud, som ropar i öknen:</l>
+            <l>“Varat är liv och liv är viljornas härdning</l>
+            <l>Gud till ära.”</l>
+         </lg>
+         <signed>Karl Bengtson</signed>
+         </lg>
+         </div>
+         
+         <div>
+         <pb n="7"/>
+         <head>Några skolminnen</head>
+            <p>De sista åren i folkskolan hade jag ofta fått i-
+            <lb break="no"/>akttaga vilket uppresande det väckte bland mina kam-
+            <lb break="no"/>rater, när min bror med sina tre gula ränder om
+            <lb/>mössan kom hem från elementarskolan om efter-
+            <lb break="no"/>middagarna. Jag kände mig riktigt högfärdig över
+            <lb/>släktskapet med den lärde mannen, och önskade
+            <lb/>att bli lika mångkunnig som han. Ränderna till-
+            <lb break="no"/>talade mig dock mest. Med en dylik dekoration
+            <lb/>skulle jag nog kunna förskaffa mig samma aktning
+            <lb/>som han hos jämnåriga i byn.</p>
+            
+            <p>Höstterminen 1906 blev min längtan upp-
+            <lb break="no"/>fylld. Jag inskrevs då i Höörs Samskola och fick
+            <lb/>min första rand om mössan. Till skolan kom jag
+            <lb/>med en lika hög respekt för institutionen som dess
+            <lb/>murar höjde MARK (ett extra “höjde” överstruket) sig över grannskapet. Denna re-
+            <lb break="no"/>spekt har aldrig förminskats. Jag blev inskriven i
+            <lb/>“tredje”. Vid inträdesprovet hade jag nämligen så
+            <lb/>väl lyckats dölja min okunnighet att jag ansågs
+            <lb/>mogen för denna klass. I framtiden skulle jag dock
+            <lb/>icke bli fullt så framgångsrik i mitt utan tvivel 
+            <lb/>alltjämt lika ärliga uppsåt att skyla över bristerna
+            <lb/>i mitt vetande, som jag var då, då detta första
+            <lb/>gången allvarligt rannsakades. Detta sorgliga fak-
+            <lb break="no"/>tum gäller speciellt räkning, ty där misslyckades jag
+            <lb/>kapitalt redan vid ingången. Jag reparerade väl så
+            <lb/>småningom skadan men hur detta gick till är må-
+            <lb break="no"/>hända inte särskilt uppfostrande - jag är nu teo-
+            <lb break="no"/>log - att sörja för dem av mina efterträdare från sam-
+            <lb break="no"/>ma bänk och i samma klass, som nu är i samma för-
+            <lb break="no"/>dömelse, som jag var då. I ömmande fall skulle jag
+            <lb/>dock kunna göra det privatim, ty jag unnar rakt icke
+            <lb/>läraren i detta ämne, eller lärarinnan, om hon är 
+            <lb/>aldrig så söt, att få reda på knepet. -</p>
+            <p>Vår rektor, det var den tiden en manlig
+            <lb/>sådan, och ännu icke modernt att pojkarna skulle</p>
+         </div>
+            
+        <div>
+          <pb n="8"/>   
+            <p>femininiseras, undervisade i nödfall med samma oförskräckt-
+            <lb break="no"/>het i vilket ämne som helst. Dock tror jag icke, att
+            <lb/>biologin förmådde entusiasmera honom särskilt. Det
+            <lb/>föreföll åtminstone så. Detta har sannerligen icke
+            <lb/>heller i ringaste mån kunnat minska den djupa akt-
+            <lb break="no"/>ning, jag ännu har för honom. Han hade under lek-
+            <lb break="no"/>tionerna den synnerligen hemtrevliga och i varje fall
+            <lb/>ur hygienisk synpunkt MARK (“ingalunda” infällt) klandervärda vanan att då
+            <lb/>och då avbryta sina ideliga promenader över golvet,
+            <lb/>öppna kaminluckan samt med starkt eftertryck av-
+            <lb break="no"/>leverera en överflödig sats saliv mot ugnens fräsan-
+            <lb break="no"/>de innandöme och därmed dämpa den mestadels
+            <lb/>alltför högljutt sprakade tjärvedsbrasan. Rektor höll
+            <lb/>nämligen styvt på en ljudlös tystnad i skolrummet.
+            <lb/>Som han en längre stund plägade med synbart väl-
+            <lb break="no"/>behag dröja kvar framför kaminen och betrakta kas-
+            <lb break="no"/>kadens inverkan på elden, tjänade detta för mig ett
+            <lb/>tvåfaldigt ändamål: det svalkade min ryggtavla, som
+            <lb/>annars jämt var utsatt för den starka hettan från
+            <lb/>den alldeles intill stående eldstaden, med det be-
+            <lb break="no"/>redde mig också ett välkommet tillfälle till en något
+            <lb/>djupare orientering i myrslokens då att tycka onö-
+            <lb break="no"/>digt komplicerade kroppsbyggnad. Om värdet av en
+            <lb/>dylikt rätt ofta återkommande idyll i skolrummet
+            <lb/>kunna måhända modernare pedagoger döma nå-
+            <lb break="no"/>got annorlunda, än vi. För mig stod det emellertid
+            <lb/>klart och fick vid terminens slut sin manifestering
+            <lb/>i ett godt betyg i naturkunnighet. Ertappades någon -
+            <lb break="no"/>min metod praktiserades allmänt i klassen - under
+            <lb/>sina, vad rum och tid beträffar, olämpligt valda
+            <lb/>ögonblick att stilla sin kunskapstörst, belönades han
+            <lb/>för sitt äventyrliga nit med en ingalunda smek-
+            <lb break="no"/>samt utdelad örfil. Men det fanns då ännu inga
+            <lb/>anmärkningsböcker, (då de en gång komma mottoges
+            <lb/>de under stark protest) vadan man en följande lek-
+            <lb break="no"/>tion själv kunde gottgöra sin brottslighet utan
+            <lb/>att behöva utsätta sig för förödmjukelsen att</p>
+         </div>          
+           
+        <div>
+          <pb n="9"/>
+            <p>allt efter föreseelsens art gå till Far eller Mor för
+            <lb/>att få absolution på ett papper.</p>
+           
+            <p>Skolrummet var tack vare sin goda värme
+            <lb/>ett gärna uppsökt tillhåll för flugor, den vanliga trev -
+            <lb break="no"/>liga husflugan. Då Rektor en gång lade ett av sina ef-
+            <lb break="no"/>terlängtade och alltid med klassens djupa sympatier
+            <lb/>följda besök vid kaminen, fann en av hans arma sede-
+            <lb break="no"/>samma alumner på orådet att så ljudlöst som
+            <lb/>möjligt äntra upp i fönsterkarmen och därifrån an-
+            <lb break="no"/>ställa en spännande jakt på det vilt surrande ville-
+            <lb break="no"/>brådet. Hans fågel, som nyss berövats friheten i Eka-
+            <lb break="no"/>stiga skogar, kunde nämligen endast hållas i live genom
+            <lb/>att matas med animalisk föda av nämnda slag.
+            <lb/>Vår Nimrod halkade emellertid vid nedstigandet, med
+            <lb/>påföljd att både jaktbytet, som förvarades i en flaska, 
+            <lb/>och vapenutrustningen, en linjal, under fallet förirrade
+            <lb/>sig ända bort till Rektor och avbröt honom i medita-
+            <lb break="no"/>tionerna framför brasan. Vår duktige jägare skulle
+            <lb/>nog vetat att själv förtälja hur saken avlopp, om
+            <lb/>han icke nu för alltid vore borta. Efter ett kortare uppe-
+            <lb break="no"/>håll på Kanarieöarna för hälsans vårdande och för att
+            <lb/>njuta av skönare toner än de hans egen lilla älskade
+            <lb/>flugsnappare kunde framlocka, jagar han nu sedan
+            <lb/>ett par år på sällare jaktmarker än de fönsterrutor-
+            <lb break="no"/>na i “trean” bjödo honom. Vare sällheten honom Gud!-</p>
+           
+           <p>Vår Rektor, som för det mesta var den strängt
+           <lb/>allvarlige mannen beredde oss ibland med små överrasknin-
+           <lb break="no"/>gar och avvikelser från ämnet. Vi läste en gång
+           <lb/>om hackspetten. Den fågeln har som bekant en lång
+           <lb/>och kraftig näbb. Detta tog Rektor till anledning att 
+           <lb/>föranstalta en långvarig och ingående examinering
+           <lb/>av våra luktorgan. Var och en följde med bävan un-
+           <lb break="no"/>dersökningens gång och avvaktade med spänning resul-
+           <lb break="no"/>tatet. Efter att ha återvänt till katedern kungjorde 
+           <lb/>Rektor detta i ungefär följande ordalag: “Efter den
+           <lb/>undersökning, jag nu med stor sakkunnighet slutfört,
+           <lb/>ser jag mig i stånd att meddela följande: era “kranar”</p>
+       </div>
+         
+       <div>
+         <pb n="10"/>
+          <p>ha i allmänhet ett normalt utseende, och konstruktion
+          <lb/>utom din Jules. Den röjer en för din ålder enorm
+          <lb/>utveckling. “ Härmed var undersökningen, som säker-
+          <lb break="no"/>ligen iscensatts mer till Rektors egen än vår munter- 
+          <lb break="no"/>het, slut. “Jula” var en av de bästa kamrater jag nå- 
+          <lb break="no"/>gonsin haft, och jag märkte varken då eller sedan nå- 
+          <lb break="no"/>got egendomligt med hans “kran”. Men det gjorde det-
+          <lb break="no"/>samma, han fick lång tid åtnöjas med benämningen:
+          <lb/>“han med kranen”.</p>
+          
+          <p>Jag kunde kanske berätta ett par episoder
+          <lb/>från skollivet utanför skolväggarna, några av dem,
+          <lb/>som i hastigheten med särskild styrka leta sig väg
+          <lb/>genom minnets virrvarr. När man från stationen
+          <lb/>på väg till skolan vek om “Lindahls hörna”, kom man in på
+          <lb/>“Kärleksstigen”. Den påstodo nämligen ofta uppsökas av
+          <lb/>älskande unga. Jag har emellertid aldrig lyckats över-
+          <lb break="no"/>raska någon där. Alltnog! Nu har den trefliga stigen
+          <lb/>gjorts rät och bred, vad ojämnt var har blivit slät mark.
+          <lb/>Men den poesi, som vilade över den, har därmed bli-
+          <lb break="no"/>vit prosa. Stigen har blivit gata, och bär det klangfulla
+          <lb/>namnet Eriksgatan, måhända uppkallad efter den 
+          <lb/>som skriver detta. Så påstår i varje fall malicen.</p>
+          
+          <p>Strax nedanför skolan, till höger om stigen,
+          <lb/>låg då ett par icke särskilt prydliga kåkar. Mot de,
+          <lb/>kanske i likhet med flertalet av deras kön, inte alltid 
+          <lb/>så fridsamma kvinnliga invånarna i dessa, lågo vi
+          <lb/>pojkar en tid i ständig harnesk. Hade vi å vår sida
+          <lb/>varit en smula mera ridderliga än vi i vårt oförstånd 
+          <lb/>voro, hade kanske likväl konflikterna icke behövt bli 
+          <lb/>så permanenta, som de blevo. Vi intresserade oss bl. a. 
+          <lb/>väl kraftigt för sammansättningen av deras matsedel. 
+          <lb/>På en stege, som alltid stod lutad mot den låga tak-
+          <lb break="no"/>åsen, kunde man utan svårighet praktisera sig upp
+          <lb/>till skorstenen, varifrån man kunde få en begrän-
+          <lb break="no"/>sad bild av köket och återvända med  rapport om
+          <lb/>menuens utseende till grabbarna nedanför. En dag
+          <lb/>lär något särskilt uppseendeväckande ha tilldragit sig</p>
+       </div>
+         
+       <div>
+          <pb n="11"/>
+          <p>här. Jag var emellertid icke själv tillstädes då, och
+          <lb/>kan sålunda icke konstatera riktigheten av det berätta-
+          <lb break="no"/>de. Min sagesman gäller dock icke för att vara nå-
+          <lb break="no"/>gon professionerad lögnare. Den yngling, på vars lott 
+          <lb/>det fallit att av ångorna från skorstenen sluta sig 
+          <lb/>till middagsmålets kvalitet, skall ha nedsläppt ett 
+          <lb/>hårt föremål, som funnit vila i matgrytan. Då 
+          <lb/>gumman vid middagen gick löst på detta, skall hon 
+          <lb/>fått plikta för denna sin glupskhet  med förlusten av 
+          <lb/>sin framtand, det sista minnesmärket från ett fordom
+          <lb/>komplett matsalsmöblemang. Jag vill icke kompromette-
+          <lb break="no"/>ra den skyldige med att nämna vare sig hans namn 
+          <lb/>eller straffets valör. -</p> 
+          
+          <p>Dammen framför skolan, den s. k. Prästa-
+          <lb break="no"/>dammen, har nu genom pietetslösa människors
+          <lb/>förvållande blivit torrlagd. Platsen är dock kär
+          <lb/>för erinringen.  Där blev jag såväl som flertalet
+          <lb/>nyanlända elever vederbörligen vederdöpt, och där-
+          <lb break="no"/>efter högtidligen upptagen i kamratkretsen. Cere-
+          <lb break="no"/>monin tillgick så, att den, som skulle döpas, blev 
+          <lb/>av officianten, överöst med det ofta starkt otempere-
+          <lb break="no"/>rade vattnet, varunder han fick ett benämne, som
+          <lb/>han sen måste behålla. Den, som icke ville under- 
+          <lb break="no"/>kasta sig den pinsamt omständliga proceduren, 
+          <lb/>blev förklarad varg i veum. En yngling, som nu-
+          <lb break="no"/>mera lyckliggjorts med en fager tärna, som fästmö,
+          <lb/>erhöll i detta dop det för våra öron icke särskilt
+          <lb/>väl klingande namnet Bobrikow. Mannen klaga-
+          <lb break="no"/>de också, fast utan att något avseende fästes där- 
+          <lb break="no"/>vid. Jag borde kanske hållit inne med detta, av
+          <lb/>omsorg om min f.d. kamrats framtida lycka. Ty
+          <lb/>kanske befarar fästmön att en gång komma under
+          <lb/>samma våldsregemente, som fästmannens grym- 
+          <lb break="no"/>me namne på sin tid utövade i Finland. Jag har 
+          <lb/>emellertid icke gjort det av avundsjuka - jag har
+          <lb/>aldrig varit hans rival. Och antagligen kommer det
+          <lb/>jag här skrivit icke heller under hans flickas skö-</p>
+       </div>
+         
+       <div>
+          <pb n="12"/>
+          <p>na, ögon. -</p>
+          
+          <p>Ja detta var några spridda drag från skol-
+          <lb break="no"/>livet under gamle Rektorns tid. Vid honom var 
+          <lb/>vi i grunden alla djupt fästade, ty vi kände, att
+          <lb/>han aldrig velat annat än sina pojkars bästa. 
+          <lb/>Jag glömmer aldrig heller det ögonblick, då han
+          <lb/>tog farväl av oss, och sin läraregärning. Med
+          <lb/>tårar i ögonen räckte han handen åt var och en
+          <lb/>med ett: Gud signe dig, käre vän! Så hade
+          <lb/>vi aldrig sett vår Rektor före, och vi kände, vad 
+          <lb/>stunden betydde för både honom och oss.</p>
+          
+          <p>Sen finge vi kvinnliga rektorer. Vad den nu-
+          <lb break="no"/>varande betytt för skolans utveckling, är överflö- 
+          <lb break="no"/>digt att uppehålla sig vid. Några skolhistorier
+          <lb/>från den tid, jag hade Fröken Nilsson som Rektor,
+          <lb/>vågar jag icke “dra”. Jag riskerar då, att hon vid
+          <lb/>julfesten tog sin långa skolepåg vid, örat, och
+          <lb/>offentligen gav honom den välförtjänta bestraffning,
+          <lb/>han tidigare lyckats klara sig ifrån. Jag har också
+          <lb/>redan varit både för långtrådig, och långtråkig.</p>
+          
+          <p>Till slut vill jag frambära mitt hjärtliga
+          <lb/>tack till både lärare och lärarinnor, som haft det
+          <lb/>mödosamma arbetet att sivilisera mig. Ha
+          <lb/>de misslyckats, är skulden icke deras.</p>
+          <signed>Erik Göransson</signed>
+        </div> 
+         
+        <div>
+           <pb n="14"/>
+           <lg type="poem">
+           <head>Julnatt</head>
+              <lg type="stanza">
+                 <l>Vetung, är jorden i julenatt,</l>		
+                 <l>stilla i trånad den vilar,</l>			
+                 <l>skådar i fjärran, ett paradisland.</l>	
+                 <l>Fagert i drömmen det ilar</l>			
+                 <l>jorden i möte.</l>
+              </lg>
+              <lg type="stanza">
+                 <l>Skänker det bär i sitt rika sköt,</l>
+                 <l>jorden, och mänskan till fromma.</l>	
+                 <l>Strängar, som brustit, nu helas igen,</l>
+                 <l>hjärtan, som voro så tomma,</l>
+                 <l>fyllas av kärlek.</l>
+              </lg>
+              <lg type="stanza">
+                 <l>Vit vilar jorden, vitare dock</l>
+                 <l>skimrar det landet i fjärran.</l>
+                 <l>Strängar som bleknar vid himmelens rand</l>
+                 <l>bär, ock ett bud ifrån Herran:</l>			
+                 <l>dagen, är nära.</l>
+              </lg>
+              <lg type="stanza">
+                 <l>Seklerna skrida sin tysta gång,</l>		
+                 <l>ännu är natt över jorden.</l>
+                 <l>Drömmen, som drömdes i gryningens stund,</l>
+                 <l>släktenas längtan, är vorden.</l>
+                 <l>Kommer ej dagen?</l>
+              </lg>
+              <signed>Greta Dahlman</signed>
+            </lg>
+        </div>
+         
+        <div>
+           <pb n="15"/>
+           <head>Den fattiga sömerskan som
+           <lb/>längtade till stjärnorna</head>
+           
+           <p>Ett mellanting mellan fröken och piga, för ringa att
+           <lb/>umgås med traktens kunskap och för fördomsfull, eller 
+           <lb/>vad man skall kalla det, att hålla sig till tjänstefolket, 
+           <lb/>var hon ingenstädes på sin plats. Hon var ensam.</p> 
+           
+           <p>- <said>Hör nu Katrina</said>, utbrast prostinnan, som var
+           <lb/>arbetsgiverska för tillfället,<said>det här linnet har visst Katri-
+           <lb break="no"/>na fördärvat. Hon har klippt ett hål bredvid sömmen.</said>
+           <lb/>Sömmerskans ögon, ansträngt skimrande bakom
+           <lb/>brillor, fingo för en sekund ett förfärat uttryck.<said>Förlåt
+           <lb/>mig för all del, goda prostinnan</said>, ljöd det sprött. <said>Jag
+           <lb/>vill allt så gärna betala det</said>, tillade hon mera hopp- 
+           <lb/>fullt.</p>
+              
+           <p>Hon smög sig till ett ögonkast bakom rullgardi-
+           <lb break="no"/>nen. Där ute var hennes livs kärlek, trösten i hennes
+           <lb/>ensamhet. Aldebaran skimrade med ädelstensglans,
+           <lb/>hon trodde sig skåda solarnas dans på Sirius: rött,
+           <lb/>grönt, blått, vitt, rött, grönt, blått, vitt. Mellan vin-
+           <lb break="no"/>tergatans stjärnedrivor tillryggalade en lysande pla-
+           <lb break="no"/>net sin gåtfulla bana.</p>
+           
+           <p>Suckande återtog hon sitt arbete. Men så svallade
+           <lb/>hennes hjärta över. Hon måste ge ord åt vad hon kände.
+           <lb/>- <said>Ja. Hm. Ja tänk. Stjärnorna jå!</said> Hon uttalade
+           <lb/>ordet med en vårdsamhet som underligt bröt av mot
+           <lb/>hennes vanliga dialektfärgning.</p>
+             
+           <p>Pigan vid kakelugnen slog sig på knäna under
+           <lb/>ett demonstrativt fnitter. Prostinnan gäspade. Katrina
+           <lb/>ansågs för särskilt tråkig, när hon började tala astro-
+           <lb break="no"/>nomi. Men så tyckte hon, att hon ändå borde säga
+           <lb/>något.</p>
+           
+           <p>- <said>Ja, det är allt bra konstigt med dem.</said>
+           <lb/>- <said>Ja. Tänk. Jag må undra, om det finns män-
+           <lb break="no"/>niskor på dem?</said></p>
+        </div>         
+        
+        <div>
+           <pb n="16"/>
+           <p>- <said>Ja det är inte så gott att veta. Inte en gång
+           <lb/>de lärdaste astronomer känner till den saken. Ack al-
+           <lb break="no"/>drig kan någon få reda på det heller.</said></p>
+           
+           <p>- <said>Nä tänk bara? Kan inte en gång astronomer-
+           <lb break="no"/>na få reda på det? Tänk. Det måtte vara bra
+           <lb/>sorgligt att forska i stjärnorna, och ändå veta med
+           <lb/>sig, att en aldrig kan få reda på</said>…</p>
+           
+           <p>- <said>Förlåt snälla Katrina, bli inte ond på mig,
+           <lb/>men Katrina får allt vara snäll och skynda sig med
+           <lb/>min klänning</said>, inföll husets yngsta dotter. <said>Jag
+           <lb/>skall ju ha den i övermorgon, vet jag. Katrina blir
+           <lb/>väl inte ond på mig</said>?</p>
+           
+           <p>- <said>Gud bevare mig då, nej visst inte. Förlåt
+           <lb/>mig, som inte sköter vad jag ska.</said>
+           <lb/>- Och så sträcksydde de gamla darrande fing-
+           <lb break="no"/>rarna i två timmar, och tystnaden bröts inte förrän
+           <lb/>matbud gavs.</p>
+           
+           <p>I sin egenskap af halvfröken var Katrina med
+           <lb/>vid herrskapets måltider. Vid smörgåsbordet om-
+           <lb break="no"/>tuggade prosten ett par gamla anekdoter, vid 
+           <lb/>varmrätten häcklades nästan, och vid teet, som
+           <lb/>förekom för stadsfrämmandets skull, berättade
+           <lb/>sonen läkaren om en aeroplanflygning.</p>
+           
+           <p>Då blev sömmerskan uppmärksam. Hon riktigt
+           <lb/>sög i sig vart ord, ända tills ämnet tycktes tryta.
+           <lb/> - <said>Nä men tänk bara? Är det möjligt? Å det
+           <lb/>har doktorn själv sett?</said>
+           <lb/>- <said>Jaa då, Katrina.</said>
+           <lb/>- <said>Nä tänk bara! Tänk! De där luftskeppen,
+           <lb/>tänk att de ska ha såna! Men de kan väl al- 
+           <lb break="no"/>drig ta sig upp ända till stjärnorna?</said>
+           <lb/>Sällskapet gjorde sig inte möda att dölja sin
+           <lb/>skrattlust. Prosten sade lite illmarigt: - <said>Katrina
+           <lb/>måtte visst längta dit</said>?
+           <lb/>- <said>Nä Gud bevare mig, så förmäten kan väl
+           <lb/>ingen vara</said>, utbrast den gamla förskräckt. <said>Det
+           <lb/>vore ju riktigt syndigt</said>.</p>
+      </div>
+      
+      <div>
+         <div>
+          <pb n="17"/>
+          <p>Men när man läst från maten och Katrina
+          <lb/>skulle upp till sitt, bröt hon i alla fall ut, full-
+          <lb break="no"/>komligt mot sin vilja:
+          <lb/> - <said>Tänk ändå, att ingen människa nånsin
+          <lb/> ska kunna komma till stjärnorna</said>.
+          <lb/> Då ropade läkareherrskapets dotter, en liten
+          <lb/> dam på nio år: 
+          <lb/> - <said>Isch va Katrina ä dum</said>!
+          <lb/> - <said>Min lilla flicka, så säger man inte</said>, sade
+          <lb/> modern stillsamt.
+          <lb/>- <said>Ja men det låter så urfånigt när Katrina
+          <lb/>pratar</said>, förklarade det älskliga barnet.
+          <lb/>Doktorinnan suckade resignerat. Aga eller skar-
+          <lb break="no"/>pa tillrättavisningar kommer ej i fråga på grund
+          <lb/> av nerver och uppfostringsprinciper. Men farfar
+          <lb/> brusade upp, fick tösen i armen och slängde in
+          <lb/> henne i det mörka ämbetsrummet. Ingen knota-
+          <lb break="no"/>de, ty den gamla prosten visste vad han ville.
+          <lb/> Katrina hade knappt lagt märke till vad
+          <lb/> som skett. Hur skulle människor kunna såra en som
+          <lb/> längtar till stjärnor?</p>
+          <signed>T.G.</signed>
+         </div>      
+         <div>    
+          <lg type="epigram">
+             <head>Epigram</head>
+             <lg type="stanza">
+                <l>När allt som nyss var stort och viktigt</l>
+                <l>nu ej är värt en trasig sko,</l>
+                <l>då tappar man så lätt sin tro</l>
+                <l>på vad som förr hölls gott och riktigt.</l>
+             </lg>
+             <lg type="stanza">
+                <l>Då bör det vårt bekymmer lätta</l>
+                <l>att, hur allt annat häcklas må,</l>
+                <l>har ännu ingen klagat på</l>
+                <l>sin egen insikt i det rätta</l>
+             </lg>
+          </lg>
+             <signed>Gunnar Fraudenthal.</signed>
+          </div>
+      </div>
+         
+      <div>
+        <pb n="19"/>
+         <lg type="poem">
+         <head>Grisen gråter</head>
+            <lg type="stanza">
+              <l>Fåfänglighet, förgänglighet</l>
+              <l>är denna världens väsen.</l>
+              <l>Vad gagnar godo, vad gagnar gull,</l>
+              <l>och, allt mitt kära goda hull?</l>
+              <l>Allt fläsk är såsom jordens mull</l>
+              <l>och vissnar bort som gräsen.</l>
+              <l>Fåfänglighet! Förgänglighet!</l>
+           </lg>
+           <lg type="stanza"> 
+              <l>Jag såg från stians mörka skjul</l>
+              <l>ibland små stjärnor vinka.</l>
+              <l>Då glömde jag att jag var ful</l>
+              <l>då drömde jag, att det var jul</l>
+              <l>och gladdes, åt det goda sul</l>
+              <l>jag bar i bog, och skinka.</l>
+              <l>Fåfänglighet! Förgänglighet!</l>
+           </lg>
+           <lg type="stanza"> 
+              <l>Mitt liv var som en adventspsalm,</l>
+              <l>en julens profetia.</l>
+              <l>Jag längtade från boss och kvalm</l>
+              <l>och såg emot en bättre halm</l>
+              <l>i himmelns sälla stia.</l>
+              <l>Jag log med allt mitt tryne.</l>
+              <l>Men - ack, jag såg i syne!</l>
+              <l>Fåfänglighet! Förgänglighet!</l>
+           </lg>
+           <lg type="stanza">
+              <l>Att drömma är för svin ett brott</l>
+              <l>vi leva för att äta.</l>
+              <l>Att bliva feta är den lott,</l>
+              <l>som vi av ödets  glaltor fått.</l>
+              <l>Till himmelen har ingen gått</l>
+              <l>från stians smuts och väta.</l>
+              <l>Fåfänglighet! Förgänglighet!</l>
+           </lg>
+           <lg type="stanza">   
+              <l>Vad båtar väl att vara god</l>
+              <l>i stians mörka häkte?</l>
+           </lg>
+           </lg>
+      </div> 
+      
+      <div>
+         <pb n="20"/>
+         <lg type="poem">
+         <lg type="stanza">
+            <l>En visshet kyler jämt min blod:</l>
+            <l>till satans skumma slaktarbod</l>
+            <l>går svinens feta släkte</l>
+            <l>Ej något kval oss nekas,</l>
+            <l>vi styckas, saltas, stekas.</l>
+            <l>Fåfänglighet! Förgänglighet!</l>
+         </lg>
+         <lg type="stanza">
+            <l>Sen kryddar man vårt feta stoft</l>
+            <l>och smälter ner vårt ister.</l>
+            <l>Då stiger emot himmelns loft</l>
+            <l>en flottig, os, och fläskig doft.</l>
+            <l>Så ätes jag till sister</l>
+            <l>utav mitt livs välgörare</l>
+            <l>och hungriga förstörare</l>
+            <l>Fåfänglighet! Förgänglighet!</l>
+         </lg>
+         <lg type="stanza"> 
+            <l>Farväl då, jul, du sköna hopp,</l>
+            <l>min levnads bråda ände!</l>
+            <l>Dig, offrar jag min gödda kropp</l>
+            <l>och ståndar stekt på bordet opp.</l>
+            <l>Då slutar grisens korta lopp</l>
+            <l>och allt hans liv elände.</l>
+            <l>Fåfänglighet! Förgänglighet!</l>
+         </lg>
+         </lg>   
+         <signed>Nils Ludvig</signed>  
+         </div>   
+         
+      <div>
+        <pb n="21"/>
+         <lg type="poem">
+          <head>Ode till den
+          <lb/>ogifta kvinnan.</head>
+          <lg type="stanza">
+             <l>O Du,</l>
+             <l>ogifta kvinna!</l>
+             <l>Skaparetankens fullhet</l>
+             <l>lekamligen</l>
+             <l>är Du,</l>
+             <l>ansikts-väna, ögontjusande</l>
+             <l>sinnenas gudinna!</l>
+             <l>Oåtkomlig, gäckande,</l>
+             <l>som en drömsyn svävar du</l>
+             <l>för min heta åtrå.</l>
+             <l>Du väcker mannens</l>
+             <l>eviga hunger</l>
+             <l>och ljuvliga kärleks ve.</l>
+             <l>Ty du är sfinxen,</l>
+             <l>skaparetankens fullhet,</l>
+             <l>lekamligen.</l>
+          </lg>
+          <lg type="stanza"> 
+             <l>Se, mitt hjärta var</l>
+             <l>såsom avgrundens rymder;</l>
+             <l>mörker och skymmande kval</l>
+             <l>bodde på djupet.</l>
+             <l>Men din vindlika</l>
+             <l>väna stämmas ande</l>
+             <l>svävade däröver.</l>
+             <l>Då bröt en stråle</l>
+             <l>av himlarnas ljus</l>
+             <l>till mitt arma suckande hjärta</l>
+             <l>och genom nattsvart töcken</l>
+             <l>skönjde jag</l>
+             <l>Din mun</l>
+             <l>kransad med leende,</l>
+             <l>lockande, skälmska löften</l>
+             <l>och däröver</l>
+             <l>Din näsa</l>
+          </lg>   
+          </lg>      
+      </div>     
+            
+      <div>   
+          <pb n="22"/>
+          <lg type="poem">
+             <lg type="stanza">  
+                <l>O Du!</l>
+                <l>Du har en näsa</l>
+                <l>i former skiftande,</l>
+                <l>desslikes i behag</l>
+                <l>och färger.</l>
+                <l>Din stämma klingar</l>
+                <l>bevekande</l>
+                <l>som silverne strängar</l>
+                <l>på kärlekens flämtande</l>
+                <l>strängaspel.</l>
+                <l>Men Din näsa,</l>
+                <l>O, den höjer sig</l>
+                <l>högt över munnens</l>
+                <l>röda linjer</l>
+                <l>och ljuveliga tal.</l>
+                <l>Ja, Du har en näsa.</l>
+            </lg>   
+            <lg type="stanza">    
+               <l>O, Du!</l>
+               <l>Du har två skulderblad,</l>
+               <l>fordom anade</l>
+               <l>av männens trånande,</l>
+               <l>otyglade blickar.</l>
+               <l>Sällan döljer Du</l>
+               <l>nu</l>
+               <l>Din ryggs prydnad</l>
+               <l>bakom plaggens stympade</l>
+               <l>förlåt.</l>
+               <l>I dagen träder den</l>
+               <l>och jag ser</l>
+               <l>med nyktra ögon</l>
+               <l>att Du har</l>
+               <l>två skulderblad.</l>
+               <l>O, Du!</l>
+            </lg>
+          </lg>      
+      </div>
+         
+      <div>   
+         <pb n="23"/>
+           <lg type="poem">
+               <lg type="stanza"> 
+                  <l>O, Du!</l>
+                  <l>Du har tio tår,</l>
+                  <l>tio älskeliga</l>
+                  <l>trippande tår!</l>
+                  <l>Du gömmer dem än</l>
+                  <l>under strumpornas</l>
+                  <l>genombrutna väv</l>
+                  <l>och fräcka skomakares</l>
+                  <l>djurhuds-alster!</l>
+                  <l>Men jag är trygg</l>
+                  <l>och jublande i anden,</l>
+                  <l>ty jag vet,</l>
+                  <l>jag vet</l>
+                  <l>att de finnas där,</l>
+                  <l>Dina tio</l>
+                  <l>tår.</l>
+               </lg>   
+              <lg type="stanza">
+                 <l>O, Du!</l>
+                 <l>Du har mycket mer.</l>
+                 <l>Men ännu saknar Du</l>
+                 <l>rösträtt.</l>
+                 <l>O, Du!</l>
+                 <l>Vårda din själ</l>
+                 <l>för detta stoft!</l>
+                 <l>Även Du är en</l>
+                 <l>människa</l>
+                 <l>äter såsom vi</l>
+                 <l>och bär kläder såsom vi</l>
+                 <l>ännu.</l>
+                 <l>Men i åthävor</l>
+                 <l>vart Du alltid funnen</l>
+                 <l>såsom en ängel,</l>
+                 <l>såsom en gåtfull,</l>
+                 <l>outgrundlig skickelse</l>
+                 <l>ifrån de</l>
+                 <l>menlösa</l>
+                 <l>Barnens dag!</l>
+              </lg>
+           </lg>      
+      </div>
+                    
+      <div>   
+         <pb n="24"/>
+           <lg type="poem">
+              <lg type="stanza"> 
+                 <l>Därföre:</l>
+                 <l>Skaparetankens fullhet,</l>
+                 <l>lekamligen</l>
+                 <l>är Du.</l>
+                 <l>Men Din själ,</l>
+                 <l>o, vårda den,</l>
+                 <l>om den finns där!</l>
+                 <l>Låt den frigjord</l>
+                 <l>stiga ur lindan</l>
+                 <l>Liksom guldsvanssvärmaren</l>
+                 <l>ur puppan!</l>
+                 <l>Se ut över vidderna!</l>
+                 <l>Därute finns</l>
+                 <l>mera än</l>
+                 <l>Du!</l>
+                 <l>Världen är stor,</l>
+                 <l>men människan</l>
+                 <l>är liten.</l>
+                 <l>Stor är Du,</l>
+                 <l>ty dig återstår</l>
+                 <l>giftas.</l>
+                 <l>Dit sträcker sig</l>
+                 <l>Din osläckeliga längtan.</l>
+                 <l>Där lever</l>
+                 <l>Din åstundan.</l>
+                 <l>Från de tunga,</l>
+                 <l>tysta och ensliga</l>
+                 <l>jungfrudrömmarnas vånda</l>
+                 <l>längtar Du</l>
+                 <l>till de saligas hemvist,</l>
+                 <l>äktenskapet.</l>
+                 <l>O, Du.</l>
+                 <l>Ogifta kvinna!</l>
+              </lg>
+           </lg>   
+         <signed>N.O.</signed>  
+      </div> 
+         
+      <div>
+        <pb n="26"/>
+         <head>En dröm</head>    
+         <p>Jag låg väl ombonad i min hyrda säng för
+         <lb/>att sova, kanske också drömma. Författaren
+         <lb/>drömmer nämligen mest i sömnen, och ej vakan-
+         <lb break="no"/>de under de djupa tankarna, såsom somliga
+         <lb/>hava för vana. Och jag kom att tänka på
+         <lb/>hur mycket, det drömmes på det yttersta i
+         <lb/>dessa dagar. Även vårt lilla idylliska sam-
+         <lb break="no"/>hälle har sina drömmar, vakna såväl som
+         <lb/>sovande. En drömmer om en egen liten
+         <lb/>skinka till jul, en annan om värmande
+         <lb/>julglögg, en annan om ett d:o hjärta i
+         <lb/>kyliga vårnätter, andra åter om ett piano
+         <lb/>eller om framtiden. Och framtiden är väl
+         <lb/>så god som något annat, särskilt för den
+         <lb/>som har henne för sig. En del påstå att den
+         <lb/>är över, men får man blott leva, och ha
+         <lb/>hälsan, är hon ganska viss. Vad den bär i
+         <lb/>sitt sköte är däremot ej så gott att taga
+         <lb/>reda på. Och det är kanske nu värre än nå-
+         <lb break="no"/>gonsin, då tronar ramla och kungar å väl-
+         <lb break="no"/>digheter rikenas juveler lämna sina gemåler
+         <lb/>i bolsjevikbevakade gemak, då för att tala
+         <lb/>med den gamle filosofen: allt jäser . Månne
+         <lb/>det även jäsa i vårt lugna men framåtgåen-
+         <lb break="no"/>de samhälle? Att det jäser hos samhällets
+         <lb/>bagare, är ju ett länge bekant faktum. Det
+         <lb/>märkes ju, och på brödets behagliga syra, vil-
+         <lb break="no"/>ket i sin ordning osökt för tanken hän på 
+         <lb/>den gamla surdegen med vars tillhjälp en
+         <lb/>gång en ensam kvinna genomsyrade tre säckar
+         <lb/>mjöl, till dess det blev alltsammans surt.</p>
+            
+         <p>Och som den ena tanken försvann och
+            <lb/>en andra kom, tyckte jag mig med ens förflyt-
+            <lb break="no"/>tad till en mera framskriden tidsålder.
+            <lb/>Ett lätt och svävande väsen av obestämbart</p>
+      </div>
+         
+      <div>
+         <pb n="27"/>
+         <p>genus tog mig vid handen och sade: “Kom ska
+            <lb/>du få se vårt nya samhälle!” Jag följde, och
+            <lb/>vi kommo ut på den torra och rena i elekt-
+            <lb break="no"/>riskt ljus badande gatan. Över rådens hus
+            <lb/>vajade den eviga ungdomens och den absolu-
+            <lb break="no"/>ta oskuldens symbol, den gröna fanan. Ett
+            <lb/>brus som från ett avlägset vattenfall strömma-
+            <lb break="no"/>de ut från huset och nådde mitt förvånade
+            <lb/>öra. “Men vad är detta?” utropade jag häpen.
+            <lb/>“Det är det nya samhällets alla råd, som äro
+            <lb/>samlade på sina lokaler för att rådpläga om
+            <lb/>samhällets bästa” svarade väsendet. “Vilka äro
+            <lb/>medlemmar av dessa råd?” frågade jag. “Alla 
+            <lb/>till världen födda medborgare”, blev svaret. “Kom
+            <lb/>gå vi in, och ta några av de mest bemärkta rå-
+            <lb break="no"/>den i beaktande.” Och så svävade vi in i lokalen.
+            <lb/>På en anslagstavla läste vi att de gamla
+            <lb/>otidsenliga arbetare- och soldatråden avskaffats och ersatts
+            <lb/>med medborgarråd, representerande olika yr-
+            <lb break="no"/>kesgrupper, åldrar eller kön av medborgare, som
+            <lb/>t. x. jobbare-rådet, brand-rådet, träskopost-rå
+            <lb break="no"/>det, lärarerådet, skolpojks- och flick-rådet, de
+            <lb/>ungas råd, de gamlas råd, kvinnorådet, späd-
+            <lb break="no"/>menlösa- och spädbarnsrådet o. a. Jobbarerå-
+            <lb break="no"/>dets lokal låg närmast ingången på höger hand
+            <lb/>och vi gjorde en titt in. Där var dock föga
+            <lb/>av intresse att studera. Några äldre män,
+            <lb/>som tydligen sett s. k. bättre dagar voro inbe-
+            <lb break="no"/>gripna i en viskande debatt om bästa sättet
+            <lb/>att i rasslande valuta omsätta de nu av
+            <lb/>Brattsystemet utgivna motböckerna på helfet
+            <lb/>mjölk. De hesa rösterna kommo oss att rysa,
+            <lb/>och vi skyndade därifrån till kvinnorådet mitt
+            <lb/>emot till vänster.</p>
+            
+         <p>Där var liv ska jag säga! Brusande vil-
+            <lb break="no"/>da ström av tusentals röster. Här och var
+            <lb/>skar en skarp alt, eller klingande sopran</p>
+      </div>    
+            
+      <div>
+         <pb n="28"/>          
+           <p>igenom den underbara symfonin. Grundmo-
+               <lb break="no"/>tivet i denna var, huruvida manfolken skulle
+               <lb/>vara klädda i byxor eller kjol. De flesta
+               <lb/>talarinnorna tycktes förfäkta den senare idén,
+               <lb/>för att det sista yttre tecknet på mannens
+               <lb/>sociala särställning måtte försvinna, och full
+               <lb/>rättvisa bli härskande i det nya samhället.
+               <lb/>Fruktande det värsta för mina välpressade
+               <lb/>benkläder, hastade jag iväg, följd av min
+               <lb/>skyddsande.</p>       
+         
+         <p>Mellan de ungas och de gamlas råd på-
+            <lb break="no"/>gick en häftig strid som skakade samhället i
+            <lb/>dess grundvalar. De unga ville så gott som
+            <lb/>avskaffa ålderdomen, genom att höja ungdoms-
+            <lb break="no"/>strecket till 75 år, medan de gamla sökte häv-
+            <lb break="no"/>da att vid 15 år borde ungdomen vara så pass
+            <lb/>förståndig, att den borde uppgå i ålderdomen.
+            <lb/>I tongivande kretsar påstods, att frågan kommo
+            <lb/>att lösas genom en kompromiss.</p>
+         
+         <p>Om brandrådet, som ersatt den gamla
+            <lb/>brandkåren, och dit jag ej gärna ville inträda
+            <lb/>upplyste det ledsagande väsendet att det på
+            <lb/>initiativ av den nye inergiske brandkommi-
+            <lb break="no"/>sarien lärare Olsson genomförts genomgripande
+            <lb/>reformer. Så t. x. skulle alla brandövningar
+            <lb/>lämpligen ske under form av en uppfriskande
+            <lb/>promenad och eventuella eldsvådor förläggas
+            <lb/>till Orup.</p>
+             
+         <p>Funderande över innebörden av dessa re-
+            <lb break="no"/>former, vars stora fördelar jag dock anade,
+            <lb/>hamnade jag mitt i skolpojks- och flickrådet.
+            <lb/>Jag vill ej ens försöka att för läsarna uttrycka 
+            <lb/>det larm, som här brusade mig till möte.
+            <lb/>Allas munnar gingo, ben och armar viftade,
+            <lb/>kinderna glödde, och ögonen tindrade av
+            <lb/>förtjusning över reformerna de lyckats genom-
+            <lb break="no"/>föra på skolväsendets område. En ung elev</p>
+      </div>
+      
+      <div>
+        <pb n="29"/>
+         <p>vid Kommunala Högskolan var genast villig
+            <lb/>att redogöra för dessa vad hans skola be-
+            <lb break="no"/>träffade. Av största betydelse för släktets fy-
+            <lb break="no"/>siska och andliga hälsa ansåg han vara, att
+            <lb/>det införts obligatorisk skubbning från bön
+            <lb/>och gymnastik. Lektionerna varade nu 8 mi-
+            <lb break="no"/>nuter och rasterna 45. Införandet av obliga-
+            <lb break="no"/>toriskt prat efter ringningen fyllde ett sedan 
+            <lb/>länge känt behov. Under lektionen var det
+            <lb/>däremot förbjudet att såväl tänka som yttra
+            <lb/>sig. Lärarna skulle stilla föreläsa något trev-
+            <lb break="no"/>ligt så att de ej störde den fridfulla vilan.
+            <lb/>Rasterna skulle så vitt möjligt tillbringas i
+            <lb/>korridoren, där det utom det obligatoriska pratet
+            <lb/>borde förekomma danslekar, som “Gläd dig
+            <lb/>du Skåning” eller “Ingefära och pepparrot”. Min
+            <lb/>sagesman hoppades också, att inom en ej allt-
+            <lb break="no"/>för avlägsen framtid en Bio skulle inrättas
+            <lb/>på skolan så att man även på f. m. kunde
+            <lb/>använda sig av detta bildningsmedel, och
+            <lb/>att “stepp” skulle införas som obligatoriskt äm-
+            <lb break="no"/>ne. Så kunde man, förklarade han, bli mera
+            <lb/>tränad, att deltaga i denna ädla idrott,
+            <lb/>som av ungdomen varje dag idkades på ga-
+            <lb break="no"/>torna och torgen. “Men vad säga då lärarin-
+            <lb break="no"/>norna och lärarna om dessa uppfostringsme-
+            <lb break="no"/>toder?” “Ja det kan han fråga dem själv, där bor-
+            <lb break="no"/>ta kommer en dylik” ropade ynglingen, och
+            <lb/>larmet blev värre än någonsin.</p>
+         
+         <p>Jag skyndade efter den framilande
+            <lb/>läraren, och bad om ett samtal. Han bad
+            <lb/>mig följa med MARK (infälld text: “till”) lärarrådets rum, där det enligt
+            <lb/>hans mening borde vara något lugnare. Då 
+            <lb/>vi inträtt, bad han mig slå mig ned i soffan,
+            <lb/>vilket jag efter någon tvekan gjorde. “Hur 
+            <lb/>ställa sig lärarna till den nya tiden?” fråga-
+            <lb break="no"/>de jag. “Ja, vi ha på det hela taget utan knot</p>
+      </div>          
+      
+      <div>
+         <pb n="30"/> 
+         <p>fogat oss i de nya förhållandena för att leda utvecklin-
+            <lb break="no"/>gen i rätt riktning. Inseende sanningen i den
+            <lb/>nya tidens valspråk “Kunskap är vanmakt”, söka
+            <lb/>vi lägga undervisningen så, att de unga ej få för
+            <lb/>mycket för det praktiska livet skadliga kunskaper
+            <lb/>att bära på, vilket kan menligt inverka deras fram-
+            <lb break="no"/>tid. Samtliga lärare ha ingått i den syndikalistiska
+            <lb/>organisationen och tillämpa dess metoder s. k. sabbotage
+            <lb/>vid undervisningen. Vi söka alltså fylla lärjungar-
+            <lb break="no"/>nas medvetande med oviktiga och förvrängda fak-
+            <lb break="no"/>ta, vilket effektivt torde hindra dem att inhäm-
+            <lb break="no"/>ta de för den nya tiden fördärvliga kunskaper-
+            <lb break="no"/>na. Här skall ni få se en historisk läsebok
+            <lb/>i vilka de nya metoderna på ett utmärkt
+            <lb/>sätt tillämpas.”Han gav mig boken, och jag fick
+            <lb/>upp ett stycke, som handlade om Napoleon I som 
+            <lb/>läste:</p> 
+            
+         <p>Napoleon den I föddes på ön Hisingen tro-
+            <lb break="no"/>ligen den 12 maj 1496. Föräldrarna voro Hans Luther
+            <lb/>och Margareta Lejonhuvud. Efter någon tid kom han
+            <lb/>till Kommunala Mellanskolan i Kungahälla. Där
+            <lb/>var en lärarinna vid namn Sigrid Segersäll, vil-
+            <lb break="no"/>ken på grund av sitt manhaftiga lynne av lärjun-
+            <lb break="no"/>garna kallades Storråda. En gång fick Napoleon,
+            <lb/>som var av ett vilt, och obändigt lynne stut av
+            <lb/>henne, men han kastade så sin vante i ansiktet på
+            <lb/>lärarinnan och ropade: “Tvi skulle jag gifta mig
+            <lb/>med dig, din hundhedning” Hon var nämligen
+            <lb/>känd för svag kristendomskunskap. Napoleon fick 
+            <lb/>emellertid anmärkning i sin anmärkningsbok och
+            <lb/>blev däröver så uppretad att han stack sin penn-
+            <lb break="no"/>kniv rätt genom denna och utropade: “Hej! jag
+            <lb/>ger allt skolan tusan!” varefter han gav sig iväg.
+            <lb/>Därefter höll han sig någon tid dold på en
+            <lb/>hans svåger Johan Banér tillhörig gård Grävs-
+            <lb break="no"/>näs nära Katrineholm. Därefter irrade han,
+            <lb/>iklädd bondekläder, och förvirrad till sina sin-</p>
+      </div>    
+      
+     <div>
+       <pb n="31"/> 
+        <p>nen nedåt Småland. Här gjorde han på en mark-
+           <lb break="no"/>nad i Värnamo bekantskap med Desideria Clary,
+           <lb/>en rik köpmansdotter från Marseille, och en afton-
+           <lb break="no"/>stund ingänge de förlovning, vilket så målande
+           <lb/>blivit skildrat i skalden Carl Milles vackra dikt
+           <lb/>“På Värnamo marknad”. Den väna köpmansdot-
+           <lb break="no"/>tern hade emellertid en annan beundrare i bon-
+           <lb break="no"/>den Nils Dacke. Denne och några likasinnade beslö-
+           <lb break="no"/>to att röja Napoleon ur vägen. Aftonen den 16 mars
+           <lb/>var en maskerad anordnad på Stora Hotellet i Vär-
+           <lb break="no"/>namo. Här omgavs Napoleon snart av svarta masker. 
+           <lb/>Dessa utropade: “Elden är lös!” och rusade mot dörrarna 
+           <lb/>men dessa stängdes, och de närvarandes namn anteck-
+           <lb break="no"/>nades. Därefter följde ett stort slagsmål på torget
+           <lb/>som räckte i tre dagar, och i vilket Napoleon avgick 
+           <lb/>med segern. Slaget kallades sedan allmänt den stora
+           <lb/>folkslaktningen. Smålänningarna blevo så intagna 
+           <lb/>i Napoleon, att de för att göra ryska kejsarinnan till
+           <lb/>viljes valde honom till tronföljare, och kallade honom 
+           <lb/>Karl August. Såsom sådan ryckte han härjande in
+           <lb/>i Skåne medförande en del kärrbyssor. Svårigheten 
+           <lb/>var att med dessa rycka över den stora höjdsträck-
+           <lb break="no"/>ning, som går tvärs över landskapet, och kallas Präst-
+           <lb break="no"/>åsen. Napoleon lät emellertid soldaterna göra halt
+           <lb/>och red därefter i dimman utefter leden, tog de
+           <lb/>modfällda under hakan och sade: “Jesu hjälp mig
+           <lb/>i dag strida till ditt heliga namns ära!” och kommen-
+           <lb break="no"/>derade därpå framåt i noggrann marsch och under
+           <lb/>avsjungande av en gammal beväringsvisa kallad
+           <lb/>“Raskens trall”, vilken visa sedan blivit mera känd
+           <lb/>under namnet “Napoleons marsch över Präståsen”
+           <lb/>stormades höjden och hären kom ned i det bördiga
+           <lb/>landet på andra sidan. Då han sedermera skulle
+           <lb/>rida över den närbelägna Ringsjöns is, brast denna
+           <lb/>under honom, och han föll i vattnet men uppdrogs
+           <lb/>av en trogen soldat. “Aldrig har jag varit i ett he-
+           <lb break="no"/>tare bad” yttrade konungen. Därefter plundrades</p>
+     </div>    
+         
+     <div>
+       <pb n="32"/>  
+        <p>och brändes staden Lund, som på den tiden
+           <lb/>ägde 24 kyrkor, och kloster.</p>
+        
+        <p>Danske konungen Kristofer Polhem hade
+           <lb/>emellertid gått över sundet med en väldig här,
+           <lb/>utrustad med ett slags nya bössor, som kallades
+           <lb/>snapphanar, samt lägrat sig på höjderna norr
+           <lb/>om Lund. Ridande på en eldig springare, som
+           <lb/>på grund av ett egenartat sätt att vifta med
+           <lb/>svansen kallades Brandklipparen störtade Na-
+           <lb break="no"/>poleon med sin här mot danskarna. Hälften  av
+           <lb/>de stridande blevo liggande på slagfältet. Resten
+           <lb/>av danskarna skyndade under ropet “Je suis sauvé”
+           <lb/>tillbaka till sitt land igen och hava sedan dess
+           <lb/>aldrig som fiender övergått sundet.</p>
+           
+        <p>Jag fick även se en räknelära, där jag fick tag
+           <lb/>på följande exempel:
+           <lb/>I ett tresiffrigt tal är siffersummorna 67,5.
+           <lb/>Entalssiffran är 20½ gånger större än 10-tals-
+           <lb break="no"/>siffran, och denna senare, är hälften mindre
+           <lb/>än 100-talssiffran, ökad med 2,5 av entals-
+           <lb break="no"/>siffran. Kvoten av alla tre talen är = produkten
+           <lb/>av det första + upplupna räntan på en växel
+           <lb/>förfallen d. 19/12. Vilket är talet?
+           <lb/>Talet borde lösas efter formeln a + b = a2 – b2.
+           <lb/>Av detta exempel kunde jag förstå, att matema-
+           <lb break="no"/>tiken fortfarande var en mycket exakt veten-
+           <lb break="no"/>skap, som ej förlorat sin praktiska betydelse
+           <lb/>eller sitt bildningsvärde.</p>
+      
+        <p>Jag hade fått nog och tog avsked. Den älsk-
+           <lb break="no"/>värde läraren rådde mig, att för all del ej
+           <lb/>glömma späd- menlösa- och spenabarnsrå-
+           <lb break="no"/>det, där det säkerligen vore åtskilligt av in-
+           <lb break="no"/>tresse att studera. Och ledsagad av mitt
+           <lb/>skyddsväsen, kom jag dit. Diskussionen, som där
+           <lb/>fördes gjorde rent akustiskt sett ett mäktigt in-
+           <lb break="no"/>tryck, kanske ännu mäktigare än i kvinnorådet,</p> 
+     </div>      
+         
+     <div>
+       <pb n="33"/>
+        <p>ehuru jag ej var nog inne i barnspråket för
+           <lb/>att riktigt kunna följa med. En vänlig barn-
+           <lb break="no"/>jungfru kom mig till hjälp och upplyste, att
+           <lb/>diskussionen rörde sig om åldersstrecket för
+           <lb/>den medborgerliga rösträtten, som nu var ½ år.
+           <lb/>Den allmänna meningen var, att alla vatten-
+           <lb break="no"/>östa och namnade medborgare borde ha röst-
+           <lb break="no"/>rätt. De som av bristande träning vore för
+           <lb/>svaga i benen att själva infinna sig vid ur-
+           <lb break="no"/>norna, kunde ju transporteras i vagn eller bäras 
+           <lb/>eller och kunde barnjungfrun eller föräldrarna 
+           <lb/>få fullmakt. - En liten ungdom på tre år
+           <lb/>berättade med stor förtjusning, att man höll på
+           <lb/>med bildandet av en sångkör. Han hade hört
+           <lb/>sin mamma som var musikaliskt bildad, så
+           <lb/>ofta tala om den store grekiske mästersångaren
+           <lb/>Sirén och hade därför föreslagit, att kören
+           <lb/>kallades “Siréns drängar”. Några av de ivrigas-
+           <lb break="no"/>te små förkämparna för kvinnans rättigheter ha-
+           <lb break="no"/>de yrkat på att den skulle kallas “Siréns pigor”
+           <lb/>men majoriteten hade ansett detta namn föga
+           <lb/>estetiskt varför man beslutat sig för det förra.
+           <lb/>Bristen på basar var emellertid kännbar men
+           <lb/>hoppades den unge mannen snart få denna brist
+           <lb/>avhjälpt enär en del ynglingar vid Högskolan
+           <lb/>som voro i målbrottet lovat medverka. Just då
+           <lb/>började en manstark orkester sina övningar.
+           <lb/>Det blev för starkt även för mina öron, och
+           <lb/>jag rusade ut följd av det skyddande väsendet.
+           <lb/>Utkommen på gatan hörde vi den ungdomliga
+           <lb/>orkestern på sina små trumpeter uppstämma
+           <lb/>en jublande fanfar, och jag vaknade med trum-
+           <lb break="no"/>petstötarna ännu ljudande i mina öron - men
+           <lb/>vad var detta? Det var ingen ny ordning, ingen
+           <lb/>orkester. - Det var brandkåren som larmade
+           <lb/>därute, och sökte göra troligt att om eldsvåda
+           <lb/>verkligen utbrutit hade man måst stå upp. Jag
+           <lb/>offrade en tanke åt detta sorgliga faktum - vän-
+           <lb break="no"/>de i sängen - somnade och sov den rättfärdi- 
+           <lb break="no"/>ges sömn.</p> 
+        <signed>Da.</signed>
+     </div>           
+            
+     <div>
+       <pb n="34"/>   
+        <lg type="poem">
+         <head>19/12 1918</head>
+          <lg type="stanza">
+             <l>Nu nalkas fröjdefull juletid,</l>
+             <l>nu slutar äntligen bråk och strid,</l>
+             <l>och våra knektar lagt ner geväret,</l>
+             <l>och kungen tackat dem för besväret.</l>
+          </lg>
+          <lg type="stanza"> 
+             <l>Vi vänta nyår med fröjd i sinn’,</l>
+             <l>då flyga gäss uti munnen in,</l>
+             <l>då få vi kaffe, då få vi socker,</l>
+             <l>då slutar lagring och jobb och ocker.</l>
+          </lg>      
+          <lg type="stanza">
+             <l>Då går var glött med en stor smörmad,</l>
+             <l>då får vi kanske i Höör ett bad,</l>
+             <l>då växa fikon på videbuskar,</l>
+             <l>och sviskon regna, om blott man ruskar.</l>
+          </lg>      
+          <lg type="stanza">  
+             <l>Och tobakshandlarnes riksförbund</l>
+             <l>ger ett ton tobak åt varje kund,</l>
+             <l>Och Rut Walldén kommer in vid posten,</l>
+             <l>och sångarn Nils får en fru i kosten.</l>
+          </lg>      
+           <lg type="stanza">     
+              <l>I bladet trycks Greta Dahlmans namn,</l>
+              <l>och veden kostar en krisch pr famn,</l>
+              <l>och inom konsten artisten Schylow</l>
+              <l>blir mer bekant än ministern Bülow.</l>
+           </lg>     
+           <lg type="stanza">  
+              <l>Och våren kommer med knall-effekt:</l>
+              <l>varenda fru får en sidendräkt!</l>
+              <l>Och Hilda Persson tar kandidaten,</l>
+              <l>och fru Rosén lägger smör i maten.</l>
+           </lg>  
+        </lg>
+     </div>           
+                 
+     <div>
+       <pb n="35"/>   
+        <lg type="poem"> 
+           <lg type="stanza">       
+              <l>Då får vi byxtyger utan tull,</l>
+              <l>och Kalle Da blir vid bättre hull.</l>
+              <l>Och Nilsson slaktar den gödda grisen</l>
+              <l>och bjuder oss på den läckra spisen!</l>
+           </lg>     
+           <lg type="stanza">
+              <l>Bland miljonärer varenda en</l>
+              <l>vill ha ett konstverk, märkt “L. Delén”.</l>
+              <l>Och Thure Schylow, geni, som känt är,</l>
+              <l>drar in miljoner uppå patenter.</l>
+           </lg>
+           <lg type="stanza">
+              <l>Då smälter isen i varje bröst</l>
+              <l>vid Signe Marcussons klara röst.</l>
+              <l>Och rektorn köper en ädel byrå</l>
+              <l>men inget bokskåp med dörr - nej, fy då!</l>
+           </lg>     
+           <lg type="stanza">
+              <l>Magister Cronvalls Elisabet</l>
+              <l>tar då studenten helt fint och lätt,</l>
+              <l>och systern Herta, den kuggar ingen,</l>
+              <l>hon blir en prydnad för tredje ringen.</l>
+           </lg>      
+           <lg type="stanza">      
+              <l>Och Fröken Ohlson med kännarmin</l>
+              <l>betraktar bistert ett eget svin.</l>
+              <l>Och själen lyftes till högre zoner</l>
+              <l>vid V. K:s eget pianos toner.</l>
+           </lg>     
+           <lg type="stanza">      
+              <l>Och Kalle Bengtsson får pastorat,</l>
+              <l>och allihop få vi mera mat.</l>
+              <l>Och Hammar får sig endera dagen</l>
+              <l>en inspektörsplats bland livbolagen.</l>
+           </lg>     
+           <lg type="stanza">      
+              <l>Herr Alsing trycker på några dar</l>
+              <l>förlovningskort åt ett tusen par.</l>
+              <l>Hans fru, som bjuder oss kaffetåren,</l>
+              <l>hon skall ha nordstjärnan nu till våren.</l>
+           </lg>      
+           <lg type="stanza">
+              <l>Och den, av vilken min sång är gjord,</l>
+              <l>han önskar julskinka på ert bord,</l>
+              <l>och smör och ister och grann potatis</l>
+              <l>och flott på hakan - och allting gratis!</l>
+           </lg>  
+        </lg>
+     </div>         
+                 
+                 
+                 
+           
+             
+            
+         
+         
+        
+         
+         
+         
+         
+         
+      
+              
+                 
+    
+      </body>
+  </text>
+</TEI>
