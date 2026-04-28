@@ -67,10 +67,9 @@
    
    <facsimile>
       <surface xml:id="Sida1"> 
-         
          <figure>
-            <label></label>
-            <figDesc></figDesc>
+            <label>Framsida</label>
+            <figDesc>Bild av tidningens omslag</figDesc>
             <graphic xml:id="Sida1-Edit" url="assets/img/documents/Sida1-Edit.jpg"/>
                <graphic xml:id="Sida1-thumb" url="assets/img/documents/Sida1-thumb.jpg"/>
          </figure>
