@@ -63,7 +63,146 @@
             </keywords>
          </textClass>
       </profileDesc>
+      
+      <profileDesc>
+         <abstract>
+            <p>Om Julljuset. Julljuset är en årlig jultidning som skapats av Kamratföreningen V.K. i Höör, och årligen utkom mellan 1918 och 1931, eventuellt med uppehåll 1921 och 1926. De skänktes till Höörs kommun av poeten och skribenten Nils Ludvig Olsson någon gång innan hans bortgång 1974, och har under senare år legat bortglömda i bibliotekets magasin tills en vaktmästare återupptäckte dem omkring år 2010. Varje tidning är unik och skriven för hand i skrivstil med illustrationer i anslutning till texterna. Det första numret 1918 har dessutom fem enskilda konstverk inflikade mellan några av sidorna. Julljuset har troligtvis aldrig blivit tryckt. En teori är att den kan ha visats vid föreningens sammankomster kring jul. Utöver någon liten reva, tumavtryck och så kallad “blödning” framför allt av guldfärg som gett avtryck på motsatt sida är tidningarna välbevarade. Tidningen har flera upphovspersoner. I Julljuset 1918 medverkade utöver den lokala Höör-profilen Nils Ludvig exempelvis konstnären Jules Schyl.   </p>
+         </abstract>
+         <abstract>
+            <p>Julljuset 1918 innehåller utöver text och mindre illustrationer även fem separata konstverk.  Även om enbart fyra av dem är signerade av Jules Schyl har de troligtvis samma upphovsman. Målaren, grafikern och tecknaren Viktor Jules Richard Schylow (1893-1977), vilket är hans egentliga namn, föddes i Köpenhamn men är uppvuxen i Höör som son till Ida och Ola “Motor-Ola” Svensson.
+               
+               Efter konstnärliga studier i Stockholm på Tekniska skolan, till teckningslärare på Högre konstindustriella skola och på Althins målarskola, läste han fram till 1919 på Det Kongelige Danske Kunstakademi i Köpenhamn. Från 1920-talet och framåt arbetade han under många år som teckningslärare i Malmö. 
+               
+               Som en av grundarna av konstnärsgruppen De tolv medverkade han till den skånska modernismens genombrott. Gruppen med bland annat medlemmar som Albert Abbe, Tora Vega Holmström och Emil Olsson bildades 1921 i Paris när de studerade vid Académie Colarossi. De tolv ställde för första gången ut tillsammans år 1924 på Malmö konstmuseum. Tio år senare upplöstes gruppen. År 2004 gjordes åter en utställning av De tolv på museet. 
+               
+               Jules Schyl var även med att bilda konstnärsgruppen Aura 1928 som fortfarande huserar i Krognoshuset  i Lund.Hans verk har också ställts ut på Charlottenborg i Köpenhamn., Liljevalchs konsthall i Stockholm och på det som numera heter Skissernas museum i Lund.
+               
+               Inspirationen till motiven i form av figurstudier, landskap, stilleben och porträtt hämtade han ofta från musiken och dansens värld. Verken består av bland annat oljemålningar, teckningar, etsningar och litografier. Dessutom har han gjort offentliga konstverk i form av muralmåleri i exempelvis Rådhusets entré i Lund.
+               
+               Jules Schyl konst finns representerad på bland annat Nationalmuseum, Moderna museet och Malmö konstmuseum.
+            </p>
+         </abstract>
+         <abstract>
+            <p>Denna digitalisering är begränsad till det första numret av Julljuset 1918 men förhoppningen är att det är startskottet till att även övriga nummer digitaliseras. Digitalisering har i samarbete med Höörs bibliotek gjorts av My Hildingsson, Lena Karlsson, Carl Kihlstedt och Käbi Pettersson, studenter på delkursen Digitalisering för bevarande och tillgänglighet på Masterprogrammet i Biblioteks- och informationsvetenskap vid  Borås Högskola vårterminen 2026. Kodningen har gjorts i TEI, XML, HTML.
+            </p>
+         </abstract>
+         
+         <creation>
+            <lang>Swedish</lang>
+            <material>Papper, lumppapp</material>
+            <date when="1918">1918</date>
+            <gloss>
+               <title>ORDLISTA</title> 
+               
+               <lb/>I texterna förekommer ålderdomliga ord och uttryck som kan vara svåra att förstå med dagens språkbruk. Här kommer några förklaringar. Där det inte står något annat är källorna Svenska Akademiens ordböcker SAOB, SAOL eller SO.
+               (...) = svårtydbart ord.
+               
+               (...)=svårtydbart ord som kan betyda….
+               
+               Julljusen 
+               Ottesång = Morgongudstjänst
+               Hjärtegrund = Själ
+               Ålder = Epok, period
+               Vara = Tillvaro
+               Härdning = Behandling att öka hållfasthet eller seghet
+               
+               Till Sfinxen. 
+               Vara = Tillvaro
+               
+               Några skolminnen
+               Uppresa= Få att göra uppror 
+               Elementarskola= Typ av allmänt högre läroverk
+               Samskola= Skola för elever av båda könen
+               ”Trejde” = Tredje klass i Samskolan? (Okänd källa)
+               Privatim = Enskilt, mellan fyra ögon, i enrum 
+               Absolution = Syndaförlåtelse
+               Alumn = Tidigare elev vid en skola
+               Äntra = Klättra upp
+               
+               Julnatt
+               Vetung = Olyckstung (Okänd källa)
+               Skänker = Gåvor 
+               Sköt = Sköte, Famn 
+               Himmelens rand = Horisonten (Okänd källa)
+               Vorden = Varda, bli
+               
+               Den fattiga sömmerskan som längtade till stjärnorna. 
+               Aldebaran = Stjärna i stjärnbilden Oxen (Okänd källa)
+               Vårdsamhet = Omsorg, omtanke, aktsamhet, varsamhet
+               Förmäten = Anspråksfull, övermodig, oblyg
+               
+               Grisen gråter. 
+               Fåfänglig = Onyttig, utan verkligt värde
+               Boss = Avfall av hö eller halm, skräp
+               Kvalm = Kvav, osund luft
+               Säll = Lycklig, salig
+               Båta = Vara till nytta
+               
+               
+               
+               
+               Ode till den ogifta kvinnan.
+               Skaparetanke = Tanke varigenom något skapas, skapande tanke
+               Lekamligen = I kroppsligt avseende
+               Vän = Vacker
+               Arm = Beklagansvärd, fattig
+               Skälmsk = Okynnig och skämtsam 
+               Desslikes = Därjämte
+               Silverne = Som är av eller liknar silver
+               Förlåt = Förhänge
+               Genombruten = Som har hålmönster
+               Åthävor = Sätt att uppträda
+               Skickelse = Bestämmelse, öde
+               Menlös = Oförmögen att skada
+               Åstundan = Begär, önskan
+               
+               En dröm. 
+               D:o = Dito, Samma eller likadant som det nyss nämnda
+               Gemak = Praktfullt rum
+               Månne = Det kan undras om
+               Hän = Bort
+               Rådpläga = Rådgöra, överlägga
+               Bemärkta = Uppmärksammad, framstående
+               Träskopost = Att få information av en granne eller bekant (Okänd källa)
+               Benkläder = Byxor
+               Knot = Klagan
+               Menlig = Skadlig
+               Manhaftig = Som har traditionellt manliga egenskaper
+               Stut = Stryk
+               Anmärkningsbok = En bok där elevers anmärkningar skrevs upp (Okänd källa)
+               Intagen = Förtjust, charmad
+               Höjdsträckning = Långsträckt höjd
+               Spenabarn = spädbarn
+               Åldersstrecket = fastän
+               Manstark = Som har många kampdugliga män
+               Uppstämma = Börja sjunga
+               
+               19/12 1918
+               Glött = Pojke (Carl-Erik Lundbladh (2012) Skånska Dialektord https://isof.diva-portal.org/smash/get/diva2:1562906/FULLTEXT02.pdf)
+               Smörmad = Smörgås (Institutionen för språk- och folkminnen https://www3.isof.se/dialekt/dialekt.aspx)
+               Krisch = Krona 
+               Famn = 1,8 m
+               Kandidat = Lägre akademisk examen
+               Nordstjärnan = Utmärkelsen Kungliga Nordstjärneorden (Kungliga Majestätsorden)
+               
+               Höörs föreläsningsförening vårterminen 1919 
+               Gårdfarihandel = Handel av kringresande försäljare
+               Scioptikonbilder = Föregångare till diabilder/powerpoint (Okänd källa)
+               
+            </gloss>
+         </creation>
+         <textClass>
+            <keywords scheme="https://metadatabyran.kb.se/amnesord-och-genre-form/svenska-amnesord">
+               <list>
+                  <item>
+                     <ref target="https://id.kb.se/term/sao/Julen ">Julen</ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
+
    
    <facsimile>
       <surface xml:id="Sida1"> 
