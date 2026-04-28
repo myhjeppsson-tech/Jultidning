@@ -3,20 +3,69 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
+      
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Digitaliserad version av Julljuset VK 1918</title>
+            <principal>My Hildingsson Jeppsson, Lena Karlsson, Carl Kihlstedt, Käbi Petersson.</principal>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <publisher>Borås högskola</publisher>
+            <date>May 2026</date>
+            <availability>
+               <p> Upphovsrätten till materialet är svårutredd utifrån mängden upphovspersoner och brist på kunskap kring nu levande släktingar. Eventuell spridning bör därför göras med medvetenhet.  </p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Höör</settlement>
+                  <institution>Arkivet, folkbiblioteket</institution>
+               </msIdentifier>
+               <msContents>
+                  <summary> Äldre handskrift med originalteckningar i relativt gott skick. Vi har inte information om att materialet har mångfaldigats eller publicerats. Ingår i en serie med handskrivna jultidningar. De vi har kännedom om producerades årligen 1918-1931, eventuellt med uppehåll 1921 och 1926. Då jultidningarna är sparsamt dokumenterade i andra källor kan det ha funnits fler verk i serien än de vi känner till.  </summary>
+                  <textLang>Swedish</textLang>
+               </msContents>
+            </msDesc>
+            <bibl>
+               <author ref="http://viaf.org/viaf/53019350">Nils Ludvig Olsson</author>
+               <author ref="http://viaf.org/viaf/50026187 ">Jules Schyl</author>
+               <author>Greta Dahlman</author>
+               <author>Karl Bengtson</author>
+               <author>Erik Göransson</author>
+               <author>“T.G.”</author>
+               <author>Gunnar Fraudenthal</author>
+               <author>“N.O.”</author>
+               <author>“Da”</author>
+               <title>Julljuset VK 1918</title>.
+               <publisher>Kamratföreningen V.K.</publisher>
+               <date>1918</date>
+            </bibl>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+      
+      <profileDesc>
+         <creation>
+            <lang>Swedish</lang>
+            <material>Papper, lumppapp</material>
+         </creation>
+         <creation>
+            <date when="1918">1918</date>
+         </creation>
+         <textClass>
+            <keywords scheme="https://metadatabyran.kb.se/amnesord-och-genre-form/svenska-amnesord">
+               <list>
+                  <item>
+                     <ref target="https://id.kb.se/term/sao/Julen ">Julen</ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   
+   <text>
       <body>
          
         <div>
