@@ -65,6 +65,16 @@
       </profileDesc>
    </teiHeader>
    
+   <facsimile>
+      <surface>
+         <figure>
+            <label></label>
+            <figDesc></figDesc>
+            <graphic url=""></graphic>
+         </figure>
+      </surface>
+   </facsimile>
+   
    <text>
       <body>
          
