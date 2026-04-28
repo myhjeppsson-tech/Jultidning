@@ -12,7 +12,7 @@
                 <title>
                     <!-- add the title from the metadata. This is what will be shown
                     on your browsers tab-->
-                    frankensTEIn: Home
+                    Digitaliserad version av Julljuset VK 1918
                 </title>
                 <!-- load bootstrap css (requires internet!) so you can use their pre-defined css classes to style your html -->
                 <link rel="stylesheet"
@@ -30,12 +30,12 @@
                     </h1>
                 </header>
                 <nav id="sitenav">
-                    <a href="index.html">Home</a> |
-                    <a href="diplomatic.html">Diplomatic Transcription</a> |
-                    <a href="reading.html">Reading Text</a> |
-                    <a href="toplayer.html">Top Layer</a> |
-                    <a href="mary.html">Mary's Text</a> |
-                    <a href="percy.html">Percy's Modifications</a>
+                    <a href="index.html">Om Julljuset</a> |
+                    <a href="diplomatic.html">Julljuset 1918</a> |
+                    <a href="reading.html">Ordlista</a> |
+                    <a href="toplayer.html">Konstverk</a> |
+                    <a href="mary.html">Om digitaliseringen</a> |
+                   
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
