@@ -64,14 +64,9 @@
       
       <profileDesc>
          <abstract>
-         <head>Om Julljuset </head>
+         <p>Om Julljuset </p>
             <p> Julljuset är en årlig jultidning som skapats av Kamratföreningen V.K. i Höör, och årligen utkom mellan 1918 och 1931, eventuellt med uppehåll 1921 och 1926. De skänktes till Höörs kommun av poeten och skribenten Nils Ludvig Olsson någon gång innan hans bortgång 1974, och har under senare år legat bortglömda i bibliotekets magasin tills en vaktmästare återupptäckte dem omkring år 2010. Varje tidning är unik och skriven för hand i skrivstil med illustrationer i anslutning till texterna. Det första numret 1918 har dessutom fem enskilda konstverk inflikade mellan några av sidorna. Julljuset har troligtvis aldrig blivit tryckt. En teori är att den kan ha visats vid föreningens sammankomster kring jul. Utöver någon liten reva, tumavtryck och så kallad “blödning” framför allt av guldfärg som gett avtryck på motsatt sida är tidningarna välbevarade. Tidningen har flera upphovspersoner. I Julljuset 1918 medverkade utöver den lokala Höör-profilen Nils Ludvig exempelvis konstnären Jules Schyl.   </p>
-           <figure>
-            <label>Försättsblad</label>
-            <figDesc>Bild av tidningens försättsblad</figDesc>
-            <graphic xml:id="Sida3-Edit" url="assets/img/documents/Sida3-Edit.jpg"/>
-            <graphic xml:id="Sida3-thumb" url="assets/img/documents/Sida3-thumb.jpg"/>
-         </figure>
+           
 
          </abstract>
 
@@ -149,21 +144,12 @@
                <lb/>Nordstjärnan = Utmärkelsen Kungliga Nordstjärneorden (Kungliga Majestätsorden)
                <lb/>Gårdfarihandel = Handel av kringresande försäljare
                <lb/>Scioptikonbilder = Föregångare till diabilder/powerpoint (Okänd källa)
-
-               <figure>
-            <head>
-            <persName> </persName>
-            <material> </material>
-            </head>
-            <graphic xml:id="SidaX-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
-            <graphic xml:id="SidaX-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
-         </figure>
                
             </gloss>
          </creation>
         
          <abstract>
-         <head>Konstverk</head>
+         <p>Konstverk</p>
             <p>Julljuset 1918 innehåller utöver text och mindre illustrationer även fem separata konstverk.  Även om enbart fyra av dem är signerade av Jules Schyl har de troligtvis samma upphovsman. Målaren, grafikern och tecknaren Viktor Jules Richard Schylow (1893-1977), vilket är hans egentliga namn, föddes i Köpenhamn men är uppvuxen i Höör som son till Ida och Ola “Motor-Ola” Svensson.
                
                Efter konstnärliga studier i Stockholm på Tekniska skolan, till teckningslärare på Högre konstindustriella skola och på Althins målarskola, läste han fram till 1919 på Det Kongelige Danske Kunstakademi i Köpenhamn. Från 1920-talet och framåt arbetade han under många år som teckningslärare i Malmö. 
@@ -176,71 +162,15 @@
                
                Jules Schyl konst finns representerad på bland annat Nationalmuseum, Moderna museet och Malmö konstmuseum.
             </p>
-           
-            <figure>
-            <head>
-            <persName>Jules Schyl</persName>
-            <material> Pastell</material>
-            </head>
-            <graphic xml:id="SidaX-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
-            <graphic xml:id="SidaX-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
-         </figure>
-
-          <figure>
-            <head>
-            <persName> Jules Schyl</persName>
-            <material> Blandteknik torrpastell och akvarell/tusch</material>
-            </head>
-            <graphic xml:id="SidaX-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
-            <graphic xml:id="SidaX-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
-         </figure>
-
-          <figure>
-            <head>
-            <persName>Jules Schyl </persName>
-            <material> Blandteknik akvarell/blyerts </material>
-            </head>
-            <graphic xml:id="SidaX-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
-            <graphic xml:id="SidaX-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
-         </figure>
-
-          <figure>
-            <head>
-            <persName> Jules Schyl</persName>
-            <material> Blandteknik akvarell/tusch och gouache</material>
-            </head>
-            <graphic xml:id="SidaX-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
-            <graphic xml:id="SidaX-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
-         </figure>
-
-          <figure>
-            <head>
-            <persName> Okänd, troligen Jules Schyl</persName>
-            <material> Blandteknik akvarell/tusch </material>
-            </head>
-            <graphic xml:id="SidaX-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
-            <graphic xml:id="SidaX-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
-         </figure>
-
-         </abstract>
+        </abstract>
          
          <abstract>
-         <head>Om digitaliseringen</head>
+         <p>Om digitaliseringen</p>
             <p>Denna digitalisering är begränsad till det första numret av Julljuset 1918 men förhoppningen är att det är startskottet till att även övriga nummer digitaliseras. Digitalisering har i samarbete med Höörs bibliotek gjorts av My Hildingsson, Lena Karlsson, Carl Kihlstedt och Käbi Pettersson, studenter på delkursen Digitalisering för bevarande och tillgänglighet på Masterprogrammet i Biblioteks- och informationsvetenskap vid  Borås Högskola vårterminen 2026. Kodningen har gjorts i TEI, XML, HTML.
             </p>
-            <figure>
-            <head>
-            <persName> </persName>
-            <material> </material>
-            </head>
-            <graphic xml:id="SidaX-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
-            <graphic xml:id="SidaX-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
-         </figure>
          </abstract>
-         
-        
-        
-         <textClass>
+            
+            <textClass>
             <keywords scheme="https://metadatabyran.kb.se/amnesord-och-genre-form/svenska-amnesord">
                <list>
                   <item>
@@ -262,9 +192,7 @@
                <graphic xml:id="Sida1-thumb" url="assets/img/documents/Sida1-thumb.jpg"/>
          </figure>
       </surface>
-   </facsimile>
    
-   <facsimile>
       <surface xml:id="Sida2"> 
          <figure>
             <label>Insida framsidans pärm</label>
@@ -273,9 +201,7 @@
             <graphic xml:id="Sida2-thumb" url="assets/img/documents/Sida2-thumb.jpg"/>
          </figure>
       </surface>
-   </facsimile>
-   
-   <facsimile>
+  
       <surface xml:id="Sida3"> 
          <figure>
             <label>Försättsblad</label>
@@ -284,9 +210,7 @@
             <graphic xml:id="Sida3-thumb" url="assets/img/documents/Sida3-thumb.jpg"/>
          </figure>
       </surface>
-   </facsimile>
-   
-   <facsimile>
+  
       <surface xml:id="Sida4"> 
          <figure>
             <label>Insida försättsblad</label>
@@ -295,9 +219,7 @@
             <graphic xml:id="Sida4-thumb" url="assets/img/documents/Sida4-thumb.jpg"/>
          </figure>
       </surface>
-   </facsimile>
    
-   <facsimile>
       <surface xml:id="Sida5"> 
          <figure>
             <label>Julljusen</label>
@@ -306,9 +228,7 @@
             <graphic xml:id="Sida5-thumb" url="assets/img/documents/Sida5-thumb.jpg"/>
          </figure>
       </surface>
-   </facsimile>
    
-   <facsimile>
       <surface xml:id="Sida6"> 
          <figure>
             <label>Till Sfinxen</label>
@@ -317,9 +237,7 @@
             <graphic xml:id="Sida6-thumb" url="assets/img/documents/Sida6-thumb.jpg"/>
          </figure>
       </surface>
-   </facsimile>
    
-   <facsimile>
       <surface xml:id="Sida11"> 
          <figure>
             <label>Några skolminnen, första sidan</label>
@@ -328,9 +246,7 @@
             <graphic xml:id="Sida11-thumb" url="assets/img/documents/Sida11-thumb.jpg"/>
          </figure>
       </surface>
-   </facsimile>
-   
-   <facsimile>
+ 
       <surface xml:id="Sida12"> 
          <figure>
             <label>Några skolminnen, andra sidan</label>
@@ -339,10 +255,7 @@
             <graphic xml:id="Sida12-thumb" url="assets/img/documents/Sida12-thumb.jpg"/>
          </figure>
       </surface>
-   </facsimile>
    
-         
-         <facsimile>
             <surface xml:id="Sida13"> 
                <figure>
                   <label>Några skolminnen, tredje sidan</label>
@@ -351,9 +264,7 @@
                   <graphic xml:id="Sida13-thumb" url="assets/img/documents/Sida13-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+      
             <surface xml:id="Sida14"> 
                <figure>
                   <label>Några skolminnen, fjärde sidan</label>
@@ -362,9 +273,7 @@
                   <graphic xml:id="Sida14-thumb" url="assets/img/documents/Sida14-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+       
             <surface xml:id="Sida15"> 
                <figure>
                   <label>Några skolminnen, femte sidan</label>
@@ -373,9 +282,7 @@
                   <graphic xml:id="Sida15-thumb" url="assets/img/documents/Sida15-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+       
             <surface xml:id="Sida16"> 
                <figure>
                   <label>Några skolminnen, sjätte sidan</label>
@@ -384,9 +291,7 @@
                   <graphic xml:id="Sida16-thumb" url="assets/img/documents/Sida16-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+        
             <surface xml:id="Sida19"> 
                <figure>
                   <label>Julnatt</label>
@@ -395,9 +300,7 @@
                   <graphic xml:id="Sida19-thumb" url="assets/img/documents/Sida19-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
          
-         <facsimile>
             <surface xml:id="Sida20"> 
                <figure>
                   <label>Den fattiga sömmerskan som längtade till stjärnorna, första sidan</label>
@@ -406,9 +309,7 @@
                   <graphic xml:id="Sida20-thumb" url="assets/img/documents/Sida20-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+        
             <surface xml:id="Sida21"> 
                <figure>
                   <label>Den fattiga sömmerskan som längtade till stjärnorna, andra sidan</label>
@@ -417,9 +318,7 @@
                   <graphic xml:id="Sida21-thumb" url="assets/img/documents/Sida21-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+       
             <surface xml:id="Sida22"> 
                <figure>
                   <label>Den fattiga sömmerskan som längtade till stjärnorna, tredje sidan, Epigram</label>
@@ -428,9 +327,7 @@
                   <graphic xml:id="Sida22-thumb" url="assets/img/documents/Sida22-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+      
             <surface xml:id="Sida25"> 
                <figure>
                   <label>Grisen gråter, första sidan</label>
@@ -439,9 +336,7 @@
                   <graphic xml:id="Sida25-thumb" url="assets/img/documents/Sida25-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+        
             <surface xml:id="Sida26"> 
                <figure>
                   <label>Grisen gråter, andra sidan</label>
@@ -450,9 +345,7 @@
                   <graphic xml:id="Sida26-thumb" url="assets/img/documents/Sida26-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+        
             <surface xml:id="Sida27"> 
                <figure>
                   <label>Ode till den ogifta kvinnan, första sidan</label>
@@ -461,9 +354,7 @@
                   <graphic xml:id="Sida27-thumb" url="assets/img/documents/Sida27-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+       
             <surface xml:id="Sida28"> 
                <figure>
                   <label>Ode till den ogifta kvinnan, andra sidan</label>
@@ -472,9 +363,7 @@
                   <graphic xml:id="Sida28-thumb" url="assets/img/documents/Sida28-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+        
             <surface xml:id="Sida29"> 
                <figure>
                   <label>Ode till den ogifta kvinnan, tredje sidan</label>
@@ -483,9 +372,7 @@
                   <graphic xml:id="Sida29-thumb" url="assets/img/documents/Sida29-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+        
             <surface xml:id="Sida30"> 
                <figure>
                   <label>Ode till den ogifta kvinnan, fjärde sidan</label>
@@ -494,9 +381,7 @@
                   <graphic xml:id="Sida30-thumb" url="assets/img/documents/Sida30-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
          
-         <facsimile>
             <surface xml:id="Sida33"> 
                <figure>
                   <label>En dröm, första sidan</label>
@@ -505,9 +390,7 @@
                   <graphic xml:id="Sida33-thumb" url="assets/img/documents/Sida33-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+       
             <surface xml:id="Sida34"> 
                <figure>
                   <label>En dröm, andra sidan</label>
@@ -516,9 +399,7 @@
                   <graphic xml:id="Sida34-thumb" url="assets/img/documents/Sida34-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+        
             <surface xml:id="Sida35"> 
                <figure>
                   <label>En dröm, tredje sidan</label>
@@ -527,9 +408,7 @@
                   <graphic xml:id="Sida35-thumb" url="assets/img/documents/Sida35-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
          
-         <facsimile>
             <surface xml:id="Sida36"> 
                <figure>
                   <label>En dröm, fjärde sidan</label>
@@ -538,9 +417,7 @@
                   <graphic xml:id="Sida36-thumb" url="assets/img/documents/Sida36-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+        
             <surface xml:id="Sida37"> 
                <figure>
                   <label>En dröm, femte sidan</label>
@@ -549,9 +426,7 @@
                   <graphic xml:id="Sida37-thumb" url="assets/img/documents/Sida37-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+       
             <surface xml:id="Sida38"> 
                <figure>
                   <label>En dröm, sjätte sidan</label>
@@ -560,9 +435,7 @@
                   <graphic xml:id="Sida38-thumb" url="assets/img/documents/Sida38-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+        
             <surface xml:id="Sida39"> 
                <figure>
                   <label>En dröm, sjunde sidan</label>
@@ -571,9 +444,7 @@
                   <graphic xml:id="Sida39-thumb" url="assets/img/documents/Sida39-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+        
             <surface xml:id="Sida40"> 
                <figure>
                   <label>En dröm, åttonde sidan</label>
@@ -582,9 +453,7 @@
                   <graphic xml:id="Sida40-thumb" url="assets/img/documents/Sida40-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
          
-         <facsimile>
             <surface xml:id="Sida41"> 
                <figure>
                   <label>19/12 1918</label>
@@ -593,9 +462,7 @@
                   <graphic xml:id="Sida41-thumb" url="assets/img/documents/Sida41-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+        
             <surface xml:id="Sida42"> 
                <figure>
                   <label>19/12 1918</label>
@@ -604,9 +471,7 @@
                   <graphic xml:id="Sida42-thumb" url="assets/img/documents/Sida42-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+        
             <surface xml:id="Sida43"> 
                <figure>
                   <label>Höörs föreläsningsförening vårterminen 1919</label>
@@ -615,9 +480,7 @@
                   <graphic xml:id="Sida43-thumb" url="assets/img/documents/Sida43-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
          
-         <facsimile>
             <surface xml:id="Sida44"> 
                <figure>
                   <label>Höörs föreläsningsförening vårterminen 1919, baksida</label>
@@ -626,9 +489,7 @@
                   <graphic xml:id="Sida44-thumb" url="assets/img/documents/Sida44-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+       
             <surface xml:id="Sida45"> 
                <figure>
                   <label>Insida baksidans pärm</label>
@@ -637,9 +498,7 @@
                   <graphic xml:id="Sida45-thumb" url="assets/img/documents/Sida44-thumb.jpg"/>
                </figure>
             </surface>
-         </facsimile>
-         
-         <facsimile>
+        
             <surface xml:id="Sida46"> 
                <figure>
                   <label>Baksida</label>
