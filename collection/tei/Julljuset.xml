@@ -66,17 +66,13 @@
          <abstract>
          <p>Om Julljuset </p>
             <p> Julljuset är en årlig jultidning som skapats av Kamratföreningen V.K. i Höör, och årligen utkom mellan 1918 och 1931, eventuellt med uppehåll 1921 och 1926. De skänktes till Höörs kommun av poeten och skribenten Nils Ludvig Olsson någon gång innan hans bortgång 1974, och har under senare år legat bortglömda i bibliotekets magasin tills en vaktmästare återupptäckte dem omkring år 2010. Varje tidning är unik och skriven för hand i skrivstil med illustrationer i anslutning till texterna. Det första numret 1918 har dessutom fem enskilda konstverk inflikade mellan några av sidorna. Julljuset har troligtvis aldrig blivit tryckt. En teori är att den kan ha visats vid föreningens sammankomster kring jul. Utöver någon liten reva, tumavtryck och så kallad “blödning” framför allt av guldfärg som gett avtryck på motsatt sida är tidningarna välbevarade. Tidningen har flera upphovspersoner. I Julljuset 1918 medverkade utöver den lokala Höör-profilen Nils Ludvig exempelvis konstnären Jules Schyl.   </p>
-           
-
          </abstract>
 
           <creation>
              <gloss>
                <title>Ordlista</title> 
-               
                <lb/>I texterna förekommer ålderdomliga ord och uttryck som kan vara svåra att förstå med dagens språkbruk. Här kommer några förklaringar. Där det inte står något annat är källorna Svenska Akademiens ordböcker SAOB, SAOL eller SO.
                (...) = svårtydbart ord.
-               
                <lb/>Ottesång = Morgongudstjänst
               <lb/> Hjärtegrund = Själ
               <lb/> Ålder = Epok, period
@@ -144,8 +140,7 @@
                <lb/>Nordstjärnan = Utmärkelsen Kungliga Nordstjärneorden (Kungliga Majestätsorden)
                <lb/>Gårdfarihandel = Handel av kringresande försäljare
                <lb/>Scioptikonbilder = Föregångare till diabilder/powerpoint (Okänd källa)
-               
-            </gloss>
+               </gloss>
          </creation>
         
          <abstract>
@@ -1331,6 +1326,7 @@
            </lg>   
          <signed>N.O.</signed>  
       </div> 
+         
          <div>
             <figure>
                <head>
@@ -1340,8 +1336,7 @@
                <graphic xml:id="Sida31-Edit" url="assets/img/documents/Sida31-Edit.jpg"/>
                <graphic xml:id="Sida31-thumb" url="assets/img/documents/Sida31-thumb.jpg"/>
             </figure>
-            
-         </div>
+           </div>
          
       <div>
         <pb n="26"/>
