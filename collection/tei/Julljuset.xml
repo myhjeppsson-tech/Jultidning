@@ -241,8 +241,8 @@
          <figure>
             <label>Baksida illustration</label>
             <figDesc>Bild av baksidan av en illustration</figDesc>
-            <graphic xml:id="Sida8-Edit" url="assets/img/documents/Sida6-Edit.jpg"/>
-            <graphic xml:id="Sida8-thumb" url="assets/img/documents/Sida6-thumb.jpg"/>
+            <graphic xml:id="Sida8-Edit" url="assets/img/documents/Sida8-Edit.jpg"/>
+            <graphic xml:id="Sida8-thumb" url="assets/img/documents/Sida8-thumb.jpg"/>
          </figure>
       </surface>
       
@@ -250,8 +250,8 @@
          <figure>
             <label>Baksida illustration</label>
             <figDesc>Bild av baksidan av en illustration</figDesc>
-            <graphic xml:id="Sida10-Edit" url="assets/img/documents/Sida6-Edit.jpg"/>
-            <graphic xml:id="Sida10-thumb" url="assets/img/documents/Sida6-thumb.jpg"/>
+            <graphic xml:id="Sida10-Edit" url="assets/img/documents/Sida10-Edit.jpg"/>
+            <graphic xml:id="Sida10-thumb" url="assets/img/documents/Sida10-thumb.jpg"/>
          </figure>
       </surface>
    
@@ -313,8 +313,8 @@
          <figure>
             <label>Baksida illustration</label>
             <figDesc>Bild av baksidan av en illustration</figDesc>
-            <graphic xml:id="Sida18-Edit" url="assets/img/documents/Sida6-Edit.jpg"/>
-            <graphic xml:id="Sida18-thumb" url="assets/img/documents/Sida6-thumb.jpg"/>
+            <graphic xml:id="Sida18-Edit" url="assets/img/documents/Sida18-Edit.jpg"/>
+            <graphic xml:id="Sida18-thumb" url="assets/img/documents/Sida18-thumb.jpg"/>
          </figure>
       </surface>
         
@@ -358,8 +358,8 @@
          <figure>
             <label>Baksida illustration</label>
             <figDesc>Bild av baksidan av en illustration</figDesc>
-            <graphic xml:id="Sida24-Edit" url="assets/img/documents/Sida6-Edit.jpg"/>
-            <graphic xml:id="Sida24-thumb" url="assets/img/documents/Sida6-thumb.jpg"/>
+            <graphic xml:id="Sida24-Edit" url="assets/img/documents/Sida24-Edit.jpg"/>
+            <graphic xml:id="Sida24-thumb" url="assets/img/documents/Sida24-thumb.jpg"/>
          </figure>
       </surface>
       
@@ -421,8 +421,8 @@
          <figure>
             <label>Baksida illustration</label>
             <figDesc>Bild av baksidan av en illustration</figDesc>
-            <graphic xml:id="Sida32-Edit" url="assets/img/documents/Sida6-Edit.jpg"/>
-            <graphic xml:id="Sida32-thumb" url="assets/img/documents/Sida6-thumb.jpg"/>
+            <graphic xml:id="Sida32-Edit" url="assets/img/documents/Sida32-Edit.jpg"/>
+            <graphic xml:id="Sida32-thumb" url="assets/img/documents/Sida32-thumb.jpg"/>
          </figure>
       </surface>
          
@@ -520,7 +520,7 @@
                <figure>
                   <label>Höörs föreläsningsförening vårterminen 1919</label>
                   <figDesc>Bild av tabellen Höörs föreläsningsförening vårterminen 1919</figDesc>
-                  <graphic xml:id="Sida43-Edit" url="assets/img/documents/Sida33-Edit.jpg"/>
+                  <graphic xml:id="Sida43-Edit" url="assets/img/documents/Sida43-Edit.jpg"/>
                   <graphic xml:id="Sida43-thumb" url="assets/img/documents/Sida43-thumb.jpg"/>
                </figure>
             </surface>
@@ -538,8 +538,8 @@
                <figure>
                   <label>Insida baksidans pärm</label>
                   <figDesc>Bild av insidan av pärmens baksida</figDesc>
-                  <graphic xml:id="Sida45-Edit" url="assets/img/documents/Sida44-Edit.jpg"/>
-                  <graphic xml:id="Sida45-thumb" url="assets/img/documents/Sida44-thumb.jpg"/>
+                  <graphic xml:id="Sida45-Edit" url="assets/img/documents/Sida45-Edit.jpg"/>
+                  <graphic xml:id="Sida45-thumb" url="assets/img/documents/Sida45-thumb.jpg"/>
                </figure>
             </surface>
         
@@ -617,26 +617,28 @@
          <signed>Karl Bengtson</signed>
          </lg>
          </div>
-         <div>      <figure>
+         
+         <div>      
+           <figure>
                <head>
                   <persName>Jules Schyl</persName>
                   <material> Pastell</material>
                </head>
-               <graphic xml:id="Sida7-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
-               <graphic xml:id="Sida7-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
+               <graphic xml:id="Sida7-Edit" url="assets/img/documents/Sida7-Edit.jpg"/>
+               <graphic xml:id="Sida7-thumb" url="assets/img/documents/Sida7-thumb.jpg"/>
          </figure>
          </div>
+         
          <div>
             <figure>
                <head>
                   <persName> Jules Schyl</persName>
                   <material> Blandteknik torrpastell och akvarell/tusch</material>
                </head>
-               <graphic xml:id="Sida9-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
-               <graphic xml:id="Sida9-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
+               <graphic xml:id="Sida9-Edit" url="assets/img/documents/Sida9-Edit.jpg"/>
+               <graphic xml:id="Sida9-thumb" url="assets/img/documents/Sida9-thumb.jpg"/>
             </figure>
-            
-         </div>
+            </div>
          
          <div>
          <pb n="7"/>
@@ -885,8 +887,8 @@
                   <persName>Jules Schyl </persName>
                   <material> Blandteknik akvarell/blyerts </material>
                </head>
-               <graphic xml:id="Sida17-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
-               <graphic xml:id="Sida17-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
+               <graphic xml:id="Sida17-Edit" url="assets/img/documents/Sida17-Edit.jpg"/>
+               <graphic xml:id="Sida17-thumb" url="assets/img/documents/Sida17-thumb.jpg"/>
             </figure>
           </div>
          
@@ -1067,8 +1069,8 @@
                   <persName> Jules Schyl</persName>
                   <material> Blandteknik akvarell/tusch och gouache</material>
                </head>
-               <graphic xml:id="Sida23-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
-               <graphic xml:id="Sida23-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
+               <graphic xml:id="Sida23-Edit" url="assets/img/documents/Sida23-Edit.jpg"/>
+               <graphic xml:id="Sida23-thumb" url="assets/img/documents/Sida23-thumb.jpg"/>
             </figure>
             
          </div>
@@ -1335,8 +1337,8 @@
                   <persName> Okänd, troligen Jules Schyl</persName>
                   <material> Blandteknik akvarell/tusch </material>
                </head>
-               <graphic xml:id="Sida31-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
-               <graphic xml:id="Sida31-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
+               <graphic xml:id="Sida31-Edit" url="assets/img/documents/Sida31-Edit.jpg"/>
+               <graphic xml:id="Sida31-thumb" url="assets/img/documents/Sida31-thumb.jpg"/>
             </figure>
             
          </div>
