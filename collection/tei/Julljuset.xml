@@ -617,6 +617,26 @@
          <signed>Karl Bengtson</signed>
          </lg>
          </div>
+         <div>      <figure>
+               <head>
+                  <persName>Jules Schyl</persName>
+                  <material> Pastell</material>
+               </head>
+               <graphic xml:id="Sida7-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
+               <graphic xml:id="Sida7-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
+         </figure>
+         </div>
+         <div>
+            <figure>
+               <head>
+                  <persName> Jules Schyl</persName>
+                  <material> Blandteknik torrpastell och akvarell/tusch</material>
+               </head>
+               <graphic xml:id="Sida9-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
+               <graphic xml:id="Sida9-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
+            </figure>
+            
+         </div>
          
          <div>
          <pb n="7"/>
