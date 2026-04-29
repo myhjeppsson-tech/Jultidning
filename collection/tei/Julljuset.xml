@@ -47,10 +47,8 @@
       
       <profileDesc>
          <creation>
-            <lang>Swedish</lang>
+            <lang>Svenska</lang>
             <material>Papper, lumppapp</material>
-         </creation>
-         <creation>
             <date when="1918">1918</date>
          </creation>
          <textClass>
@@ -66,33 +64,20 @@
       
       <profileDesc>
          <abstract>
-            <p>Om Julljuset. Julljuset är en årlig jultidning som skapats av Kamratföreningen V.K. i Höör, och årligen utkom mellan 1918 och 1931, eventuellt med uppehåll 1921 och 1926. De skänktes till Höörs kommun av poeten och skribenten Nils Ludvig Olsson någon gång innan hans bortgång 1974, och har under senare år legat bortglömda i bibliotekets magasin tills en vaktmästare återupptäckte dem omkring år 2010. Varje tidning är unik och skriven för hand i skrivstil med illustrationer i anslutning till texterna. Det första numret 1918 har dessutom fem enskilda konstverk inflikade mellan några av sidorna. Julljuset har troligtvis aldrig blivit tryckt. En teori är att den kan ha visats vid föreningens sammankomster kring jul. Utöver någon liten reva, tumavtryck och så kallad “blödning” framför allt av guldfärg som gett avtryck på motsatt sida är tidningarna välbevarade. Tidningen har flera upphovspersoner. I Julljuset 1918 medverkade utöver den lokala Höör-profilen Nils Ludvig exempelvis konstnären Jules Schyl.   </p>
+         <head>Om Julljuset </head>
+            <p> Julljuset är en årlig jultidning som skapats av Kamratföreningen V.K. i Höör, och årligen utkom mellan 1918 och 1931, eventuellt med uppehåll 1921 och 1926. De skänktes till Höörs kommun av poeten och skribenten Nils Ludvig Olsson någon gång innan hans bortgång 1974, och har under senare år legat bortglömda i bibliotekets magasin tills en vaktmästare återupptäckte dem omkring år 2010. Varje tidning är unik och skriven för hand i skrivstil med illustrationer i anslutning till texterna. Det första numret 1918 har dessutom fem enskilda konstverk inflikade mellan några av sidorna. Julljuset har troligtvis aldrig blivit tryckt. En teori är att den kan ha visats vid föreningens sammankomster kring jul. Utöver någon liten reva, tumavtryck och så kallad “blödning” framför allt av guldfärg som gett avtryck på motsatt sida är tidningarna välbevarade. Tidningen har flera upphovspersoner. I Julljuset 1918 medverkade utöver den lokala Höör-profilen Nils Ludvig exempelvis konstnären Jules Schyl.   </p>
+           <figure>
+            <label>Försättsblad</label>
+            <figDesc>Bild av tidningens försättsblad</figDesc>
+            <graphic xml:id="Sida3-Edit" url="assets/img/documents/Sida3-Edit.jpg"/>
+            <graphic xml:id="Sida3-thumb" url="assets/img/documents/Sida3-thumb.jpg"/>
+         </figure>
+
          </abstract>
-         <abstract>
-            <p>Julljuset 1918 innehåller utöver text och mindre illustrationer även fem separata konstverk.  Även om enbart fyra av dem är signerade av Jules Schyl har de troligtvis samma upphovsman. Målaren, grafikern och tecknaren Viktor Jules Richard Schylow (1893-1977), vilket är hans egentliga namn, föddes i Köpenhamn men är uppvuxen i Höör som son till Ida och Ola “Motor-Ola” Svensson.
-               
-               Efter konstnärliga studier i Stockholm på Tekniska skolan, till teckningslärare på Högre konstindustriella skola och på Althins målarskola, läste han fram till 1919 på Det Kongelige Danske Kunstakademi i Köpenhamn. Från 1920-talet och framåt arbetade han under många år som teckningslärare i Malmö. 
-               
-               Som en av grundarna av konstnärsgruppen De tolv medverkade han till den skånska modernismens genombrott. Gruppen med bland annat medlemmar som Albert Abbe, Tora Vega Holmström och Emil Olsson bildades 1921 i Paris när de studerade vid Académie Colarossi. De tolv ställde för första gången ut tillsammans år 1924 på Malmö konstmuseum. Tio år senare upplöstes gruppen. År 2004 gjordes åter en utställning av De tolv på museet. 
-               
-               Jules Schyl var även med att bilda konstnärsgruppen Aura 1928 som fortfarande huserar i Krognoshuset  i Lund.Hans verk har också ställts ut på Charlottenborg i Köpenhamn., Liljevalchs konsthall i Stockholm och på det som numera heter Skissernas museum i Lund.
-               
-               Inspirationen till motiven i form av figurstudier, landskap, stilleben och porträtt hämtade han ofta från musiken och dansens värld. Verken består av bland annat oljemålningar, teckningar, etsningar och litografier. Dessutom har han gjort offentliga konstverk i form av muralmåleri i exempelvis Rådhusets entré i Lund.
-               
-               Jules Schyl konst finns representerad på bland annat Nationalmuseum, Moderna museet och Malmö konstmuseum.
-            </p>
-         </abstract>
-         <abstract>
-            <p>Denna digitalisering är begränsad till det första numret av Julljuset 1918 men förhoppningen är att det är startskottet till att även övriga nummer digitaliseras. Digitalisering har i samarbete med Höörs bibliotek gjorts av My Hildingsson, Lena Karlsson, Carl Kihlstedt och Käbi Pettersson, studenter på delkursen Digitalisering för bevarande och tillgänglighet på Masterprogrammet i Biblioteks- och informationsvetenskap vid  Borås Högskola vårterminen 2026. Kodningen har gjorts i TEI, XML, HTML.
-            </p>
-         </abstract>
-         
-         <creation>
-            <lang>Swedish</lang>
-            <material>Papper, lumppapp</material>
-            <date when="1918">1918</date>
-            <gloss>
-               <title>ORDLISTA</title> 
+
+          <creation>
+             <gloss>
+               <title>Ordlista</title> 
                
                <lb/>I texterna förekommer ålderdomliga ord och uttryck som kan vara svåra att förstå med dagens språkbruk. Här kommer några förklaringar. Där det inte står något annat är källorna Svenska Akademiens ordböcker SAOB, SAOL eller SO.
                (...) = svårtydbart ord.
@@ -164,9 +149,97 @@
                <lb/>Nordstjärnan = Utmärkelsen Kungliga Nordstjärneorden (Kungliga Majestätsorden)
                <lb/>Gårdfarihandel = Handel av kringresande försäljare
                <lb/>Scioptikonbilder = Föregångare till diabilder/powerpoint (Okänd källa)
+
+               <figure>
+            <head>
+            <persName> </persName>
+            <material> </material>
+            </head>
+            <graphic xml:id="SidaX-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
+            <graphic xml:id="SidaX-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
+         </figure>
                
             </gloss>
          </creation>
+        
+         <abstract>
+         <head>Konstverk</head>
+            <p>Julljuset 1918 innehåller utöver text och mindre illustrationer även fem separata konstverk.  Även om enbart fyra av dem är signerade av Jules Schyl har de troligtvis samma upphovsman. Målaren, grafikern och tecknaren Viktor Jules Richard Schylow (1893-1977), vilket är hans egentliga namn, föddes i Köpenhamn men är uppvuxen i Höör som son till Ida och Ola “Motor-Ola” Svensson.
+               
+               Efter konstnärliga studier i Stockholm på Tekniska skolan, till teckningslärare på Högre konstindustriella skola och på Althins målarskola, läste han fram till 1919 på Det Kongelige Danske Kunstakademi i Köpenhamn. Från 1920-talet och framåt arbetade han under många år som teckningslärare i Malmö. 
+               
+               Som en av grundarna av konstnärsgruppen De tolv medverkade han till den skånska modernismens genombrott. Gruppen med bland annat medlemmar som Albert Abbe, Tora Vega Holmström och Emil Olsson bildades 1921 i Paris när de studerade vid Académie Colarossi. De tolv ställde för första gången ut tillsammans år 1924 på Malmö konstmuseum. Tio år senare upplöstes gruppen. År 2004 gjordes åter en utställning av De tolv på museet. 
+               
+               Jules Schyl var även med att bilda konstnärsgruppen Aura 1928 som fortfarande huserar i Krognoshuset  i Lund.Hans verk har också ställts ut på Charlottenborg i Köpenhamn., Liljevalchs konsthall i Stockholm och på det som numera heter Skissernas museum i Lund.
+               
+               Inspirationen till motiven i form av figurstudier, landskap, stilleben och porträtt hämtade han ofta från musiken och dansens värld. Verken består av bland annat oljemålningar, teckningar, etsningar och litografier. Dessutom har han gjort offentliga konstverk i form av muralmåleri i exempelvis Rådhusets entré i Lund.
+               
+               Jules Schyl konst finns representerad på bland annat Nationalmuseum, Moderna museet och Malmö konstmuseum.
+            </p>
+           
+            <figure>
+            <head>
+            <persName>Jules Schyl</persName>
+            <material> Pastell</material>
+            </head>
+            <graphic xml:id="SidaX-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
+            <graphic xml:id="SidaX-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
+         </figure>
+
+          <figure>
+            <head>
+            <persName> Jules Schyl</persName>
+            <material> Blandteknik torrpastell och akvarell/tusch</material>
+            </head>
+            <graphic xml:id="SidaX-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
+            <graphic xml:id="SidaX-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
+         </figure>
+
+          <figure>
+            <head>
+            <persName>Jules Schyl </persName>
+            <material> Blandteknik akvarell/blyerts </material>
+            </head>
+            <graphic xml:id="SidaX-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
+            <graphic xml:id="SidaX-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
+         </figure>
+
+          <figure>
+            <head>
+            <persName> Jules Schyl</persName>
+            <material> Blandteknik akvarell/tusch och gouache</material>
+            </head>
+            <graphic xml:id="SidaX-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
+            <graphic xml:id="SidaX-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
+         </figure>
+
+          <figure>
+            <head>
+            <persName> Okänd, troligen Jules Schyl</persName>
+            <material> Blandteknik akvarell/tusch </material>
+            </head>
+            <graphic xml:id="SidaX-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
+            <graphic xml:id="SidaX-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
+         </figure>
+
+         </abstract>
+         
+         <abstract>
+         <head>Om digitaliseringen</head>
+            <p>Denna digitalisering är begränsad till det första numret av Julljuset 1918 men förhoppningen är att det är startskottet till att även övriga nummer digitaliseras. Digitalisering har i samarbete med Höörs bibliotek gjorts av My Hildingsson, Lena Karlsson, Carl Kihlstedt och Käbi Pettersson, studenter på delkursen Digitalisering för bevarande och tillgänglighet på Masterprogrammet i Biblioteks- och informationsvetenskap vid  Borås Högskola vårterminen 2026. Kodningen har gjorts i TEI, XML, HTML.
+            </p>
+            <figure>
+            <head>
+            <persName> </persName>
+            <material> </material>
+            </head>
+            <graphic xml:id="SidaX-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
+            <graphic xml:id="SidaX-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
+         </figure>
+         </abstract>
+         
+        
+        
          <textClass>
             <keywords scheme="https://metadatabyran.kb.se/amnesord-och-genre-form/svenska-amnesord">
                <list>
