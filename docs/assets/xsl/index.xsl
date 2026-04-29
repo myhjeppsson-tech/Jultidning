@@ -69,11 +69,11 @@
                                           <xsl:attribute name="href">
                                               <xsl:apply-templates select="//tei:profileDesc//tei:abstract"/>
                                           </xsl:attribute>
-                                          <xsl:apply-templates select="//tei:sourceDesc//tei:msName"/>
+                                          <xsl:apply-templates select="//tei:profileDesc//tei:msName"/>
                                       </a>
                                   </p>    
                                   <p>
-                                    <xsl:apply-templates select="//tei:sourceDesc//tei:summary"/>
+                                    <xsl:apply-templates select="//tei:ProfileDesc//tei:abstract"/>
                                   </p>
                                 </article>
                             </div>
