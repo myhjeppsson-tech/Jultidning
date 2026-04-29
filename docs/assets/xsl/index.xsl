@@ -83,34 +83,19 @@
                                     <article id="details">
                                       <p>
                                         <strong>Author:</strong><br/>
-                                        <xsl:apply-templates select="//tei:titleStmt/tei:author"/>
+                                        <xsl:apply-templates select="//tei:bibl/tei:author"/>
                                       </p>
-                                      <p>
-                                        <strong>Modifications by:</strong><br/>
-                                        <xsl:apply-templates select="//tei:titleStmt/tei:editor"/>
-                                      </p>
+                                      
                                       <p>
                                         <strong>Transcription by:</strong><br/>
                                         <xsl:apply-templates select="//tei:titleStmt/tei:principal"/>
                                       </p>
-                                      <p>
-                                        <strong>Based on the work of:</strong><br/>
-                                        <a href="http://shelleygodwinarchive.org">The Shelley Godwin Archive</a>
-                                      </p>
+                                      
                                       <p>
                                           <strong>Holding Library:</strong><br/>
-                                          <a href="https://www.bodleian.ox.ac.uk/home">
+                                          <a href="https://bibliotek.hoor.se/#/">
                                               <xsl:apply-templates select="//tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:institution"/>
                                           </a>
-                                      </p>
-                                      <p>
-                                        <strong>Manuscript:</strong><br/>
-                                        <a>
-                                          <xsl:attribute name="href">
-                                              <xsl:apply-templates select="//tei:sourceDesc//tei:idno"/>
-                                          </xsl:attribute>
-                                          <xsl:apply-templates select="//tei:sourceDesc//tei:msName"/>
-                                        </a>
                                       </p>
                                     </article>
                                 </div>

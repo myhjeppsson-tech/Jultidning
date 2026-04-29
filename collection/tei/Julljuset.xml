@@ -65,7 +65,9 @@
       <profileDesc>
          <abstract>
          <p>Om Julljuset </p>
+
             <p> Julljuset är en årlig jultidning som skapats av Kamratföreningen V.K. i Höör, och årligen utkom mellan 1918 och 1931, eventuellt med uppehåll 1921 och 1926. De skänktes till Höörs kommun av poeten och skribenten Nils Ludvig Olsson någon gång innan hans bortgång 1974, och har under senare år legat bortglömda i bibliotekets magasin tills en vaktmästare återupptäckte dem omkring år 2010. Varje tidning är unik och skriven för hand i skrivstil med illustrationer i anslutning till texterna. Det första numret 1918 har dessutom fem enskilda konstverk inflikade mellan några av sidorna. Julljuset har troligtvis aldrig blivit tryckt. En teori är att den kan ha visats vid föreningens sammankomster kring jul. Utöver någon liten reva, tumavtryck och så kallad “blödning” framför allt av guldfärg som gett avtryck på motsatt sida är tidningarna välbevarade. Tidningen har flera upphovspersoner. I Julljuset 1918 medverkade utöver den lokala Höör-profilen Nils Ludvig exempelvis konstnären Jules Schyl.   </p>
+
          </abstract>
 
           <creation>
@@ -182,7 +184,7 @@
          <figure>
             <label>Framsida</label>
             <figDesc>Bild av framsidan av tidningens omslag</figDesc>
-            <graphic xml:id="Sida1-Edit" url="assets/img/documents/Sida1-Edit.jpg"/>
+            <graphic xml:id="Sida1-Edit" url="https://github.com/myhjeppsson-tech/Jultidning/blob/main/docs/assets/img/Sida1-Edit.jpg"/>
                <graphic xml:id="Sida1-thumb" url="assets/img/documents/Sida1-thumb.jpg"/>
          </figure>
       </surface>
