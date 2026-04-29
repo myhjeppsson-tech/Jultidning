@@ -182,7 +182,6 @@
       </profileDesc>
    </teiHeader>
 
-   
    <facsimile>
       <surface xml:id="Sida1"> 
          <figure>
@@ -235,6 +234,24 @@
             <figDesc>Bild av dikten Till Sfinxen</figDesc>
             <graphic xml:id="Sida6-Edit" url="assets/img/documents/Sida6-Edit.jpg"/>
             <graphic xml:id="Sida6-thumb" url="assets/img/documents/Sida6-thumb.jpg"/>
+         </figure>
+      </surface>
+      
+      <surface xml:id="Sida8"> 
+         <figure>
+            <label>Baksida illustration</label>
+            <figDesc>Bild av baksidan av en illustration</figDesc>
+            <graphic xml:id="Sida8-Edit" url="assets/img/documents/Sida6-Edit.jpg"/>
+            <graphic xml:id="Sida8-thumb" url="assets/img/documents/Sida6-thumb.jpg"/>
+         </figure>
+      </surface>
+      
+      <surface xml:id="Sida10"> 
+         <figure>
+            <label>Baksida illustration</label>
+            <figDesc>Bild av baksidan av en illustration</figDesc>
+            <graphic xml:id="Sida10-Edit" url="assets/img/documents/Sida6-Edit.jpg"/>
+            <graphic xml:id="Sida10-thumb" url="assets/img/documents/Sida6-thumb.jpg"/>
          </figure>
       </surface>
    
@@ -291,6 +308,15 @@
                   <graphic xml:id="Sida16-thumb" url="assets/img/documents/Sida16-thumb.jpg"/>
                </figure>
             </surface>
+      
+      <surface xml:id="Sida18"> 
+         <figure>
+            <label>Baksida illustration</label>
+            <figDesc>Bild av baksidan av en illustration</figDesc>
+            <graphic xml:id="Sida18-Edit" url="assets/img/documents/Sida6-Edit.jpg"/>
+            <graphic xml:id="Sida18-thumb" url="assets/img/documents/Sida6-thumb.jpg"/>
+         </figure>
+      </surface>
         
             <surface xml:id="Sida19"> 
                <figure>
@@ -327,6 +353,15 @@
                   <graphic xml:id="Sida22-thumb" url="assets/img/documents/Sida22-thumb.jpg"/>
                </figure>
             </surface>
+      
+      <surface xml:id="Sida24"> 
+         <figure>
+            <label>Baksida illustration</label>
+            <figDesc>Bild av baksidan av en illustration</figDesc>
+            <graphic xml:id="Sida24-Edit" url="assets/img/documents/Sida6-Edit.jpg"/>
+            <graphic xml:id="Sida24-thumb" url="assets/img/documents/Sida6-thumb.jpg"/>
+         </figure>
+      </surface>
       
             <surface xml:id="Sida25"> 
                <figure>
@@ -381,6 +416,15 @@
                   <graphic xml:id="Sida30-thumb" url="assets/img/documents/Sida30-thumb.jpg"/>
                </figure>
             </surface>
+      
+      <surface xml:id="Sida32"> 
+         <figure>
+            <label>Baksida illustration</label>
+            <figDesc>Bild av baksidan av en illustration</figDesc>
+            <graphic xml:id="Sida32-Edit" url="assets/img/documents/Sida6-Edit.jpg"/>
+            <graphic xml:id="Sida32-thumb" url="assets/img/documents/Sida6-thumb.jpg"/>
+         </figure>
+      </surface>
          
             <surface xml:id="Sida33"> 
                <figure>
@@ -572,6 +616,26 @@
          </lg>
          <signed>Karl Bengtson</signed>
          </lg>
+         </div>
+         <div>      <figure>
+               <head>
+                  <persName>Jules Schyl</persName>
+                  <material> Pastell</material>
+               </head>
+               <graphic xml:id="Sida7-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
+               <graphic xml:id="Sida7-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
+         </figure>
+         </div>
+         <div>
+            <figure>
+               <head>
+                  <persName> Jules Schyl</persName>
+                  <material> Blandteknik torrpastell och akvarell/tusch</material>
+               </head>
+               <graphic xml:id="Sida9-Edit" url="assets/img/documents/SidaX-Edit.jpg"/>
+               <graphic xml:id="Sida9-thumb" url="assets/img/documents/SidaX-thumb.jpg"/>
+            </figure>
+            
          </div>
          
          <div>
