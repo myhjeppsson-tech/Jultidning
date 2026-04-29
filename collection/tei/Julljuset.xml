@@ -191,8 +191,315 @@
       </surface>
    </facsimile>
    
+   <facsimile>
+      <surface xml:id="Sida2"> 
+         <figure>
+            <label>Insida pärm</label>
+            <figDesc>Bild av pärmens insida</figDesc>
+            <graphic xml:id="Sida2-Edit" url="assets/img/documents/Sida2-Edit.jpg"/>
+            <graphic xml:id="Sida2-thumb" url="assets/img/documents/Sida2-thumb.jpg"/>
+         </figure>
+      </surface>
+   </facsimile>
+   
+   <facsimile>
+      <surface xml:id="Sida3"> 
+         <figure>
+            <label>Försättsblad</label>
+            <figDesc>Bild av tidningens försättsblad</figDesc>
+            <graphic xml:id="Sida3-Edit" url="assets/img/documents/Sida3-Edit.jpg"/>
+            <graphic xml:id="Sida3-thumb" url="assets/img/documents/Sida3-thumb.jpg"/>
+         </figure>
+      </surface>
+   </facsimile>
+   
+   <facsimile>
+      <surface xml:id="Sida4"> 
+         <figure>
+            <label>Insida försättsblad</label>
+            <figDesc>Bild av insidan av tidningens försättsblad</figDesc>
+            <graphic xml:id="Sida4-Edit" url="assets/img/documents/Sida4-Edit.jpg"/>
+            <graphic xml:id="Sida4-thumb" url="assets/img/documents/Sida4-thumb.jpg"/>
+         </figure>
+      </surface>
+   </facsimile>
+   
+   <facsimile>
+      <surface xml:id="Sida5"> 
+         <figure>
+            <label>Julljusen</label>
+            <figDesc>Bild av dikten Julljusen</figDesc>
+            <graphic xml:id="Sida5-Edit" url="assets/img/documents/Sida5-Edit.jpg"/>
+            <graphic xml:id="Sida5-thumb" url="assets/img/documents/Sida5-thumb.jpg"/>
+         </figure>
+      </surface>
+   </facsimile>
+   
+   <facsimile>
+      <surface xml:id="Sida6"> 
+         <figure>
+            <label>Till Sfinxen</label>
+            <figDesc>Bild av dikten Till Sfinxen</figDesc>
+            <graphic xml:id="Sida6-Edit" url="assets/img/documents/Sida6-Edit.jpg"/>
+            <graphic xml:id="Sida6-thumb" url="assets/img/documents/Sida6-thumb.jpg"/>
+         </figure>
+      </surface>
+   </facsimile>
+   
+   <facsimile>
+      <surface xml:id="Sida11"> 
+         <figure>
+            <label>Några skolminnen, första sidan</label>
+            <figDesc>Bild av första sidan ur essän Några skolminnen</figDesc>
+            <graphic xml:id="Sida11-Edit" url="assets/img/documents/Sida11-Edit.jpg"/>
+            <graphic xml:id="Sida11-thumb" url="assets/img/documents/Sida11-thumb.jpg"/>
+         </figure>
+      </surface>
+   </facsimile>
+   
+   <facsimile>
+      <surface xml:id="Sida12"> 
+         <figure>
+            <label>Några skolminnen, andra sidan</label>
+            <figDesc>Bild av andra sidan ur essän Några skolminnen</figDesc>
+            <graphic xml:id="Sida12-Edit" url="assets/img/documents/Sida12-Edit.jpg"/>
+            <graphic xml:id="Sida12-thumb" url="assets/img/documents/Sida12-thumb.jpg"/>
+         </figure>
+      </surface>
+   </facsimile>
    <text>
       <body>
+         
+         <facsimile>
+            <surface xml:id="Sida13"> 
+               <figure>
+                  <label>Några skolminnen, tredje sidan</label>
+                  <figDesc>Bild av tredje sidan ur essän Några skolminnen</figDesc>
+                  <graphic xml:id="Sida13-Edit" url="assets/img/documents/Sida13-Edit.jpg"/>
+                  <graphic xml:id="Sida13-thumb" url="assets/img/documents/Sida13-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida14"> 
+               <figure>
+                  <label>Några skolminnen, fjärde sidan</label>
+                  <figDesc>Bild av fjärde sidan ur essän Några skolminnen</figDesc>
+                  <graphic xml:id="Sida14-Edit" url="assets/img/documents/Sida14-Edit.jpg"/>
+                  <graphic xml:id="Sida14-thumb" url="assets/img/documents/Sida14-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida15"> 
+               <figure>
+                  <label>Några skolminnen, femte sidan</label>
+                  <figDesc>Bild av femte sidan ur essän Några skolminnen</figDesc>
+                  <graphic xml:id="Sida15-Edit" url="assets/img/documents/Sida15-Edit.jpg"/>
+                  <graphic xml:id="Sida15-thumb" url="assets/img/documents/Sida15-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida16"> 
+               <figure>
+                  <label>Några skolminnen, sjätte sidan</label>
+                  <figDesc>Bild av sjätte sidan ur essän Några skolminnen</figDesc>
+                  <graphic xml:id="Sida16-Edit" url="assets/img/documents/Sida16-Edit.jpg"/>
+                  <graphic xml:id="Sida16-thumb" url="assets/img/documents/Sida16-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida19"> 
+               <figure>
+                  <label>Julnatt</label>
+                  <figDesc>Bild av dikten Julnatt</figDesc>
+                  <graphic xml:id="Sida19-Edit" url="assets/img/documents/Sida19-Edit.jpg"/>
+                  <graphic xml:id="Sida19-thumb" url="assets/img/documents/Sida19-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida20"> 
+               <figure>
+                  <label>Den fattiga sömmerskan som längtade till stjärnorna, första sidan</label>
+                  <figDesc>Bild av första sidan ur novellen Den fattiga sömmerskan som längtade till stjärnorna</figDesc>
+                  <graphic xml:id="Sida20-Edit" url="assets/img/documents/Sida20-Edit.jpg"/>
+                  <graphic xml:id="Sida20-thumb" url="assets/img/documents/Sida20-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida21"> 
+               <figure>
+                  <label>Den fattiga sömmerskan som längtade till stjärnorna, andra sidan</label>
+                  <figDesc>Bild av andra sidan ur novellen Den fattiga sömmerskan som längtade till stjärnorna</figDesc>
+                  <graphic xml:id="Sida21-Edit" url="assets/img/documents/Sida21-Edit.jpg"/>
+                  <graphic xml:id="Sida21-thumb" url="assets/img/documents/Sida21-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida22"> 
+               <figure>
+                  <label>Den fattiga sömmerskan som längtade till stjärnorna, tredje sidan, Epigram</label>
+                  <figDesc>Bild av tredje sidan ur novellen Den fattiga sömmerskan som längtade till stjärnorna, samt dikten Epigram</figDesc>
+                  <graphic xml:id="Sida22-Edit" url="assets/img/documents/Sida22-Edit.jpg"/>
+                  <graphic xml:id="Sida22-thumb" url="assets/img/documents/Sida22-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida25"> 
+               <figure>
+                  <label>Grisen gråter, första sidan</label>
+                  <figDesc>Bild av första sidan ur dikten Grisen gråter</figDesc>
+                  <graphic xml:id="Sida25-Edit" url="assets/img/documents/Sida25-Edit.jpg"/>
+                  <graphic xml:id="Sida25-thumb" url="assets/img/documents/Sida25-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida26"> 
+               <figure>
+                  <label>Grisen gråter, andra sidan</label>
+                  <figDesc>Bild av andra sidan ur dikten Grisen gråter</figDesc>
+                  <graphic xml:id="Sida26-Edit" url="assets/img/documents/Sida26-Edit.jpg"/>
+                  <graphic xml:id="Sida26-thumb" url="assets/img/documents/Sida26-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida27"> 
+               <figure>
+                  <label>Ode till den ogifta kvinnan, första sidan</label>
+                  <figDesc>Bild av första sidan ur dikten Ode till den ogifta kvinnan</figDesc>
+                  <graphic xml:id="Sida27-Edit" url="assets/img/documents/Sida27-Edit.jpg"/>
+                  <graphic xml:id="Sida27-thumb" url="assets/img/documents/Sida27-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida28"> 
+               <figure>
+                  <label>Ode till den ogifta kvinnan, andra sidan</label>
+                  <figDesc>Bild av andra sidan ur dikten Ode till den ogifta kvinnan</figDesc>
+                  <graphic xml:id="Sida28-Edit" url="assets/img/documents/Sida28-Edit.jpg"/>
+                  <graphic xml:id="Sida28-thumb" url="assets/img/documents/Sida28-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida29"> 
+               <figure>
+                  <label>Ode till den ogifta kvinnan, tredje sidan</label>
+                  <figDesc>Bild av tredje sidan ur dikten Ode till den ogifta kvinnan</figDesc>
+                  <graphic xml:id="Sida29-Edit" url="assets/img/documents/Sida29-Edit.jpg"/>
+                  <graphic xml:id="Sida29-thumb" url="assets/img/documents/Sida29-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida30"> 
+               <figure>
+                  <label>Ode till den ogifta kvinnan, fjärde sidan</label>
+                  <figDesc>Bild av fjärde sidan ur dikten Ode till den ogifta kvinnan</figDesc>
+                  <graphic xml:id="Sida30-Edit" url="assets/img/documents/Sida30-Edit.jpg"/>
+                  <graphic xml:id="Sida30-thumb" url="assets/img/documents/Sida30-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida33"> 
+               <figure>
+                  <label>En dröm, första sidan</label>
+                  <figDesc>Bild av första sidan ur novellen En dröm</figDesc>
+                  <graphic xml:id="Sida33-Edit" url="assets/img/documents/Sida33-Edit.jpg"/>
+                  <graphic xml:id="Sida33-thumb" url="assets/img/documents/Sida33-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida34"> 
+               <figure>
+                  <label>En dröm, andra sidan</label>
+                  <figDesc>Bild av andra sidan ur novellen En dröm</figDesc>
+                  <graphic xml:id="Sida34-Edit" url="assets/img/documents/Sida34-Edit.jpg"/>
+                  <graphic xml:id="Sida34-thumb" url="assets/img/documents/Sida34-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida35"> 
+               <figure>
+                  <label>En dröm, tredje sidan</label>
+                  <figDesc>Bild av tredje sidan ur novellen En dröm</figDesc>
+                  <graphic xml:id="Sida35-Edit" url="assets/img/documents/Sida35-Edit.jpg"/>
+                  <graphic xml:id="Sida35-thumb" url="assets/img/documents/Sida35-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida36"> 
+               <figure>
+                  <label>En dröm, fjärde sidan</label>
+                  <figDesc>Bild av fjärde sidan ur novellen En dröm</figDesc>
+                  <graphic xml:id="Sida36-Edit" url="assets/img/documents/Sida36-Edit.jpg"/>
+                  <graphic xml:id="Sida36-thumb" url="assets/img/documents/Sida36-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida37"> 
+               <figure>
+                  <label>En dröm, femte sidan</label>
+                  <figDesc>Bild av femte sidan ur novellen En dröm</figDesc>
+                  <graphic xml:id="Sida37-Edit" url="assets/img/documents/Sida37-Edit.jpg"/>
+                  <graphic xml:id="Sida37-thumb" url="assets/img/documents/Sida37-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida38"> 
+               <figure>
+                  <label>En dröm, sjätte sidan</label>
+                  <figDesc>Bild av sjätte sidan ur novellen En dröm</figDesc>
+                  <graphic xml:id="Sida38-Edit" url="assets/img/documents/Sida38-Edit.jpg"/>
+                  <graphic xml:id="Sida38-thumb" url="assets/img/documents/Sida38-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida39"> 
+               <figure>
+                  <label>En dröm, sjunde sidan</label>
+                  <figDesc>Bild av sjunde sidan ur novellen En dröm</figDesc>
+                  <graphic xml:id="Sida39-Edit" url="assets/img/documents/Sida39-Edit.jpg"/>
+                  <graphic xml:id="Sida39-thumb" url="assets/img/documents/Sida39-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
          
         <div>
         <pb n="3"/>
