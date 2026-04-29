@@ -184,7 +184,7 @@
       <surface xml:id="Sida1"> 
          <figure>
             <label>Framsida</label>
-            <figDesc>Bild av tidningens omslag</figDesc>
+            <figDesc>Bild av framsidan av tidningens omslag</figDesc>
             <graphic xml:id="Sida1-Edit" url="assets/img/documents/Sida1-Edit.jpg"/>
                <graphic xml:id="Sida1-thumb" url="assets/img/documents/Sida1-thumb.jpg"/>
          </figure>
@@ -194,8 +194,8 @@
    <facsimile>
       <surface xml:id="Sida2"> 
          <figure>
-            <label>Insida pärm</label>
-            <figDesc>Bild av pärmens insida</figDesc>
+            <label>Insida framsidans pärm</label>
+            <figDesc>Bild av insidan av pärmens framsida</figDesc>
             <graphic xml:id="Sida2-Edit" url="assets/img/documents/Sida2-Edit.jpg"/>
             <graphic xml:id="Sida2-thumb" url="assets/img/documents/Sida2-thumb.jpg"/>
          </figure>
@@ -267,8 +267,7 @@
          </figure>
       </surface>
    </facsimile>
-   <text>
-      <body>
+   
          
          <facsimile>
             <surface xml:id="Sida13"> 
@@ -500,6 +499,86 @@
                </figure>
             </surface>
          </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida40"> 
+               <figure>
+                  <label>En dröm, åttonde sidan</label>
+                  <figDesc>Bild av åttonde sidan ur novellen En dröm</figDesc>
+                  <graphic xml:id="Sida40-Edit" url="assets/img/documents/Sida40-Edit.jpg"/>
+                  <graphic xml:id="Sida40-thumb" url="assets/img/documents/Sida40-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida41"> 
+               <figure>
+                  <label>19/12 1918</label>
+                  <figDesc>Bild av första sidan ur dikten 19/12 1918</figDesc>
+                  <graphic xml:id="Sida41-Edit" url="assets/img/documents/Sida41-Edit.jpg"/>
+                  <graphic xml:id="Sida41-thumb" url="assets/img/documents/Sida41-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida42"> 
+               <figure>
+                  <label>19/12 1918</label>
+                  <figDesc>Bild av första sidan ur dikten 19/12 1918</figDesc>
+                  <graphic xml:id="Sida42-Edit" url="assets/img/documents/Sida42-Edit.jpg"/>
+                  <graphic xml:id="Sida42-thumb" url="assets/img/documents/Sida42-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida43"> 
+               <figure>
+                  <label>Höörs föreläsningsförening vårterminen 1919</label>
+                  <figDesc>Bild av tabellen Höörs föreläsningsförening vårterminen 1919</figDesc>
+                  <graphic xml:id="Sida43-Edit" url="assets/img/documents/Sida33-Edit.jpg"/>
+                  <graphic xml:id="Sida43-thumb" url="assets/img/documents/Sida43-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida44"> 
+               <figure>
+                  <label>Höörs föreläsningsförening vårterminen 1919, baksida</label>
+                  <figDesc>Bild av baksidan av tabellen Höörs föreläsningsförening vårterminen 1919</figDesc>
+                  <graphic xml:id="Sida44-Edit" url="assets/img/documents/Sida44-Edit.jpg"/>
+                  <graphic xml:id="Sida44-thumb" url="assets/img/documents/Sida44-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida45"> 
+               <figure>
+                  <label>Insida baksidans pärm</label>
+                  <figDesc>Bild av insidan av pärmens baksida</figDesc>
+                  <graphic xml:id="Sida45-Edit" url="assets/img/documents/Sida44-Edit.jpg"/>
+                  <graphic xml:id="Sida45-thumb" url="assets/img/documents/Sida44-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+         
+         <facsimile>
+            <surface xml:id="Sida46"> 
+               <figure>
+                  <label>Baksida</label>
+                  <figDesc>Bild av baksidan av tidningens omslag</figDesc>
+                  <graphic xml:id="Sida46-Edit" url="assets/img/documents/Sida46-Edit.jpg"/>
+                  <graphic xml:id="Sida46-thumb" url="assets/img/documents/Sida46-thumb.jpg"/>
+               </figure>
+            </surface>
+         </facsimile>
+   
+   <text>
+      <body>
          
         <div>
         <pb n="3"/>
@@ -1803,6 +1882,4 @@
               
                  
     
-      </body>
-  </text>
 </TEI>
