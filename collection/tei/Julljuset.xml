@@ -185,8 +185,6 @@
             <label>Framsida</label>
             <figDesc>Bild av framsidan av tidningens omslag</figDesc>
             <graphic xml:id="Sida1-Edit" url="assets/img/Sida1-Edit.jpg"/>
-            <graphic xml:id="Sida1-thumb" url="assets/img/Sida1-thumb.jpg"/>
-
          </figure>
       </surface>
    
@@ -194,7 +192,7 @@
          <figure>
             <label>Insida framsidans pärm</label>
             <figDesc>Bild av insidan av pärmens framsida</figDesc>
-            <graphic xml:id="Sida2-Edit" url="assets/img/documents/Sida2-Edit.jpg"/>
+            <graphic xml:id="Sida2-Edit" url="assets/img/Sida2-Edit.jpg"/>
          </figure>
       </surface>
   
@@ -202,7 +200,7 @@
          <figure>
             <label>Försättsblad</label>
             <figDesc>Bild av tidningens försättsblad</figDesc>
-            <graphic xml:id="Sida3-Edit" url="assets/img/documents/Sida3-Edit.jpg"/>
+            <graphic xml:id="Sida3-Edit" url="assets/img/Sida3-Edit.jpg"/>
          </figure>
       </surface>
   
@@ -210,7 +208,7 @@
          <figure>
             <label>Insida försättsblad</label>
             <figDesc>Bild av insidan av tidningens försättsblad</figDesc>
-            <graphic xml:id="Sida4-Edit" url="assets/img/documents/Sida4-Edit.jpg"/>
+            <graphic xml:id="Sida4-Edit" url="assets/img/Sida4-Edit.jpg"/>
          </figure>
       </surface>
    
@@ -218,7 +216,7 @@
          <figure>
             <label>Julljusen</label>
             <figDesc>Bild av dikten Julljusen</figDesc>
-            <graphic xml:id="Sida5-Edit" url="assets/img/documents/Sida5-Edit.jpg"/>
+            <graphic xml:id="Sida5-Edit" url="assets/img/Sida5-Edit.jpg"/>
          </figure>
       </surface>
    
@@ -226,7 +224,7 @@
          <figure>
             <label>Till Sfinxen</label>
             <figDesc>Bild av dikten Till Sfinxen</figDesc>
-            <graphic xml:id="Sida6-Edit" url="assets/img/documents/Sida6-Edit.jpg"/>
+            <graphic xml:id="Sida6-Edit" url="assets/img/Sida6-Edit.jpg"/>
          </figure>
       </surface>
       
@@ -234,7 +232,7 @@
          <figure>
             <label>Baksida illustration</label>
             <figDesc>Bild av baksidan av en illustration</figDesc>
-            <graphic xml:id="Sida8-Edit" url="assets/img/documents/Sida8-Edit.jpg"/>
+            <graphic xml:id="Sida8-Edit" url="assets/img/Sida8-Edit.jpg"/>
          </figure>
       </surface>
       
@@ -242,7 +240,7 @@
          <figure>
             <label>Baksida illustration</label>
             <figDesc>Bild av baksidan av en illustration</figDesc>
-            <graphic xml:id="Sida10-Edit" url="assets/img/documents/Sida10-Edit.jpg"/>
+            <graphic xml:id="Sida10-Edit" url="assets/img/Sida10-Edit.jpg"/>
          </figure>
       </surface>
    
@@ -250,7 +248,7 @@
          <figure>
             <label>Några skolminnen, första sidan</label>
             <figDesc>Bild av första sidan ur essän Några skolminnen</figDesc>
-            <graphic xml:id="Sida11-Edit" url="assets/img/documents/Sida11-Edit.jpg"/>
+            <graphic xml:id="Sida11-Edit" url="assets/img/Sida11-Edit.jpg"/>
          </figure>
       </surface>
  
@@ -258,7 +256,7 @@
          <figure>
             <label>Några skolminnen, andra sidan</label>
             <figDesc>Bild av andra sidan ur essän Några skolminnen</figDesc>
-            <graphic xml:id="Sida12-Edit" url="assets/img/documents/Sida12-Edit.jpg"/>
+            <graphic xml:id="Sida12-Edit" url="assets/img/Sida12-Edit.jpg"/>
          </figure>
       </surface>
    
@@ -266,7 +264,7 @@
                <figure>
                   <label>Några skolminnen, tredje sidan</label>
                   <figDesc>Bild av tredje sidan ur essän Några skolminnen</figDesc>
-                  <graphic xml:id="Sida13-Edit" url="assets/img/documents/Sida13-Edit.jpg"/>
+                  <graphic xml:id="Sida13-Edit" url="assets/img/Sida13-Edit.jpg"/>
                </figure>
             </surface>
       
@@ -274,7 +272,7 @@
                <figure>
                   <label>Några skolminnen, fjärde sidan</label>
                   <figDesc>Bild av fjärde sidan ur essän Några skolminnen</figDesc>
-                  <graphic xml:id="Sida14-Edit" url="assets/img/documents/Sida14-Edit.jpg"/>
+                  <graphic xml:id="Sida14-Edit" url="assets/img/Sida14-Edit.jpg"/>
                </figure>
             </surface>
        
@@ -282,7 +280,7 @@
                <figure>
                   <label>Några skolminnen, femte sidan</label>
                   <figDesc>Bild av femte sidan ur essän Några skolminnen</figDesc>
-                  <graphic xml:id="Sida15-Edit" url="assets/img/documents/Sida15-Edit.jpg"/>
+                  <graphic xml:id="Sida15-Edit" url="assets/img/Sida15-Edit.jpg"/>
                </figure>
             </surface>
        
@@ -290,7 +288,7 @@
                <figure>
                   <label>Några skolminnen, sjätte sidan</label>
                   <figDesc>Bild av sjätte sidan ur essän Några skolminnen</figDesc>
-                  <graphic xml:id="Sida16-Edit" url="assets/img/documents/Sida16-Edit.jpg"/>
+                  <graphic xml:id="Sida16-Edit" url="assets/img/Sida16-Edit.jpg"/>
                </figure>
             </surface>
       
@@ -298,7 +296,7 @@
          <figure>
             <label>Baksida illustration</label>
             <figDesc>Bild av baksidan av en illustration</figDesc>
-            <graphic xml:id="Sida18-Edit" url="assets/img/documents/Sida18-Edit.jpg"/>
+            <graphic xml:id="Sida18-Edit" url="assets/img/Sida18-Edit.jpg"/>
          </figure>
       </surface>
         
@@ -306,7 +304,7 @@
                <figure>
                   <label>Julnatt</label>
                   <figDesc>Bild av dikten Julnatt</figDesc>
-                  <graphic xml:id="Sida19-Edit" url="assets/img/documents/Sida19-Edit.jpg"/>
+                  <graphic xml:id="Sida19-Edit" url="assets/img/Sida19-Edit.jpg"/>
                </figure>
             </surface>
          
@@ -314,7 +312,7 @@
                <figure>
                   <label>Den fattiga sömmerskan som längtade till stjärnorna, första sidan</label>
                   <figDesc>Bild av första sidan ur novellen Den fattiga sömmerskan som längtade till stjärnorna</figDesc>
-                  <graphic xml:id="Sida20-Edit" url="assets/img/documents/Sida20-Edit.jpg"/>
+                  <graphic xml:id="Sida20-Edit" url="assets/img/Sida20-Edit.jpg"/>
                </figure>
             </surface>
         
@@ -322,7 +320,7 @@
                <figure>
                   <label>Den fattiga sömmerskan som längtade till stjärnorna, andra sidan</label>
                   <figDesc>Bild av andra sidan ur novellen Den fattiga sömmerskan som längtade till stjärnorna</figDesc>
-                  <graphic xml:id="Sida21-Edit" url="assets/img/documents/Sida21-Edit.jpg"/>
+                  <graphic xml:id="Sida21-Edit" url="assets/img/Sida21-Edit.jpg"/>
                </figure>
             </surface>
        
@@ -330,7 +328,7 @@
                <figure>
                   <label>Den fattiga sömmerskan som längtade till stjärnorna, tredje sidan, Epigram</label>
                   <figDesc>Bild av tredje sidan ur novellen Den fattiga sömmerskan som längtade till stjärnorna, samt dikten Epigram</figDesc>
-                  <graphic xml:id="Sida22-Edit" url="assets/img/documents/Sida22-Edit.jpg"/>
+                  <graphic xml:id="Sida22-Edit" url="assets/img/Sida22-Edit.jpg"/>
                </figure>
             </surface>
       
@@ -338,7 +336,7 @@
          <figure>
             <label>Baksida illustration</label>
             <figDesc>Bild av baksidan av en illustration</figDesc>
-            <graphic xml:id="Sida24-Edit" url="assets/img/documents/Sida24-Edit.jpg"/>
+            <graphic xml:id="Sida24-Edit" url="assets/img/Sida24-Edit.jpg"/>
          </figure>
       </surface>
       
@@ -346,7 +344,7 @@
                <figure>
                   <label>Grisen gråter, första sidan</label>
                   <figDesc>Bild av första sidan ur dikten Grisen gråter</figDesc>
-                  <graphic xml:id="Sida25-Edit" url="assets/img/documents/Sida25-Edit.jpg"/>
+                  <graphic xml:id="Sida25-Edit" url="assets/img/Sida25-Edit.jpg"/>
                </figure>
             </surface>
         
@@ -354,7 +352,7 @@
                <figure>
                   <label>Grisen gråter, andra sidan</label>
                   <figDesc>Bild av andra sidan ur dikten Grisen gråter</figDesc>
-                  <graphic xml:id="Sida26-Edit" url="assets/img/documents/Sida26-Edit.jpg"/>
+                  <graphic xml:id="Sida26-Edit" url="assets/img/Sida26-Edit.jpg"/>
                </figure>
             </surface>
         
@@ -362,7 +360,7 @@
                <figure>
                   <label>Ode till den ogifta kvinnan, första sidan</label>
                   <figDesc>Bild av första sidan ur dikten Ode till den ogifta kvinnan</figDesc>
-                  <graphic xml:id="Sida27-Edit" url="assets/img/documents/Sida27-Edit.jpg"/>
+                  <graphic xml:id="Sida27-Edit" url="assets/img/Sida27-Edit.jpg"/>
                </figure>
             </surface>
        
@@ -370,7 +368,7 @@
                <figure>
                   <label>Ode till den ogifta kvinnan, andra sidan</label>
                   <figDesc>Bild av andra sidan ur dikten Ode till den ogifta kvinnan</figDesc>
-                  <graphic xml:id="Sida28-Edit" url="assets/img/documents/Sida28-Edit.jpg"/>
+                  <graphic xml:id="Sida28-Edit" url="assets/img/Sida28-Edit.jpg"/>
                </figure>
             </surface>
         
@@ -378,7 +376,7 @@
                <figure>
                   <label>Ode till den ogifta kvinnan, tredje sidan</label>
                   <figDesc>Bild av tredje sidan ur dikten Ode till den ogifta kvinnan</figDesc>
-                  <graphic xml:id="Sida29-Edit" url="assets/img/documents/Sida29-Edit.jpg"/>
+                  <graphic xml:id="Sida29-Edit" url="assets/img/Sida29-Edit.jpg"/>
                </figure>
             </surface>
         
@@ -386,7 +384,7 @@
                <figure>
                   <label>Ode till den ogifta kvinnan, fjärde sidan</label>
                   <figDesc>Bild av fjärde sidan ur dikten Ode till den ogifta kvinnan</figDesc>
-                  <graphic xml:id="Sida30-Edit" url="assets/img/documents/Sida30-Edit.jpg"/>
+                  <graphic xml:id="Sida30-Edit" url="assets/img/Sida30-Edit.jpg"/>
                </figure>
             </surface>
       
@@ -394,7 +392,7 @@
          <figure>
             <label>Baksida illustration</label>
             <figDesc>Bild av baksidan av en illustration</figDesc>
-            <graphic xml:id="Sida32-Edit" url="assets/img/documents/Sida32-Edit.jpg"/>
+            <graphic xml:id="Sida32-Edit" url="assets/img/Sida32-Edit.jpg"/>
          </figure>
       </surface>
          
@@ -402,7 +400,7 @@
                <figure>
                   <label>En dröm, första sidan</label>
                   <figDesc>Bild av första sidan ur novellen En dröm</figDesc>
-                  <graphic xml:id="Sida33-Edit" url="assets/img/documents/Sida33-Edit.jpg"/>
+                  <graphic xml:id="Sida33-Edit" url="assets/img/Sida33-Edit.jpg"/>
                </figure>
             </surface>
        
@@ -410,7 +408,7 @@
                <figure>
                   <label>En dröm, andra sidan</label>
                   <figDesc>Bild av andra sidan ur novellen En dröm</figDesc>
-                  <graphic xml:id="Sida34-Edit" url="assets/img/documents/Sida34-Edit.jpg"/>
+                  <graphic xml:id="Sida34-Edit" url="assets/img/Sida34-Edit.jpg"/>
                </figure>
             </surface>
         
@@ -418,7 +416,7 @@
                <figure>
                   <label>En dröm, tredje sidan</label>
                   <figDesc>Bild av tredje sidan ur novellen En dröm</figDesc>
-                  <graphic xml:id="Sida35-Edit" url="assets/img/documents/Sida35-Edit.jpg"/>
+                  <graphic xml:id="Sida35-Edit" url="assets/img/Sida35-Edit.jpg"/>
                </figure>
             </surface>
          
@@ -426,7 +424,7 @@
                <figure>
                   <label>En dröm, fjärde sidan</label>
                   <figDesc>Bild av fjärde sidan ur novellen En dröm</figDesc>
-                  <graphic xml:id="Sida36-Edit" url="assets/img/documents/Sida36-Edit.jpg"/>
+                  <graphic xml:id="Sida36-Edit" url="assets/img/Sida36-Edit.jpg"/>
                </figure>
             </surface>
         
@@ -434,7 +432,7 @@
                <figure>
                   <label>En dröm, femte sidan</label>
                   <figDesc>Bild av femte sidan ur novellen En dröm</figDesc>
-                  <graphic xml:id="Sida37-Edit" url="assets/img/documents/Sida37-Edit.jpg"/>
+                  <graphic xml:id="Sida37-Edit" url="assets/img/Sida37-Edit.jpg"/>
                </figure>
             </surface>
        
@@ -442,7 +440,7 @@
                <figure>
                   <label>En dröm, sjätte sidan</label>
                   <figDesc>Bild av sjätte sidan ur novellen En dröm</figDesc>
-                  <graphic xml:id="Sida38-Edit" url="assets/img/documents/Sida38-Edit.jpg"/>
+                  <graphic xml:id="Sida38-Edit" url="assets/img/Sida38-Edit.jpg"/>
                </figure>
             </surface>
         
@@ -450,7 +448,7 @@
                <figure>
                   <label>En dröm, sjunde sidan</label>
                   <figDesc>Bild av sjunde sidan ur novellen En dröm</figDesc>
-                  <graphic xml:id="Sida39-Edit" url="assets/img/documents/Sida39-Edit.jpg"/>
+                  <graphic xml:id="Sida39-Edit" url="assets/img/Sida39-Edit.jpg"/>
                </figure>
             </surface>
         
@@ -458,7 +456,7 @@
                <figure>
                   <label>En dröm, åttonde sidan</label>
                   <figDesc>Bild av åttonde sidan ur novellen En dröm</figDesc>
-                  <graphic xml:id="Sida40-Edit" url="assets/img/documents/Sida40-Edit.jpg"/>
+                  <graphic xml:id="Sida40-Edit" url="assets/img/Sida40-Edit.jpg"/>
                </figure>
             </surface>
          
@@ -466,7 +464,7 @@
                <figure>
                   <label>19/12 1918</label>
                   <figDesc>Bild av första sidan ur dikten 19/12 1918</figDesc>
-                  <graphic xml:id="Sida41-Edit" url="assets/img/documents/Sida41-Edit.jpg"/>
+                  <graphic xml:id="Sida41-Edit" url="assets/img/Sida41-Edit.jpg"/>
                </figure>
             </surface>
         
@@ -474,7 +472,7 @@
                <figure>
                   <label>19/12 1918</label>
                   <figDesc>Bild av första sidan ur dikten 19/12 1918</figDesc>
-                  <graphic xml:id="Sida42-Edit" url="assets/img/documents/Sida42-Edit.jpg"/>
+                  <graphic xml:id="Sida42-Edit" url="assets/img/Sida42-Edit.jpg"/>
                </figure>
             </surface>
         
@@ -482,7 +480,7 @@
                <figure>
                   <label>Höörs föreläsningsförening vårterminen 1919</label>
                   <figDesc>Bild av tabellen Höörs föreläsningsförening vårterminen 1919</figDesc>
-                  <graphic xml:id="Sida43-Edit" url="assets/img/documents/Sida43-Edit.jpg"/>
+                  <graphic xml:id="Sida43-Edit" url="assets/img/Sida43-Edit.jpg"/>
                </figure>
             </surface>
          
@@ -490,7 +488,7 @@
                <figure>
                   <label>Höörs föreläsningsförening vårterminen 1919, baksida</label>
                   <figDesc>Bild av baksidan av tabellen Höörs föreläsningsförening vårterminen 1919</figDesc>
-                  <graphic xml:id="Sida44-Edit" url="assets/img/documents/Sida44-Edit.jpg"/>
+                  <graphic xml:id="Sida44-Edit" url="assets/img/Sida44-Edit.jpg"/>
                </figure>
             </surface>
        
@@ -498,7 +496,7 @@
                <figure>
                   <label>Insida baksidans pärm</label>
                   <figDesc>Bild av insidan av pärmens baksida</figDesc>
-                  <graphic xml:id="Sida45-Edit" url="assets/img/documents/Sida45-Edit.jpg"/>
+                  <graphic xml:id="Sida45-Edit" url="assets/img/Sida45-Edit.jpg"/>
                </figure>
             </surface>
         
@@ -506,7 +504,7 @@
                <figure>
                   <label>Baksida</label>
                   <figDesc>Bild av baksidan av tidningens omslag</figDesc>
-                  <graphic xml:id="Sida46-Edit" url="assets/img/documents/Sida46-Edit.jpg"/>
+                  <graphic xml:id="Sida46-Edit" url="assets/img/Sida46-Edit.jpg"/>
                </figure>
             </surface>
          </facsimile>
@@ -582,7 +580,7 @@
                   <persName>Jules Schyl</persName>
                   <material> Pastell</material>
                </head>
-               <graphic xml:id="Sida7-Edit" url="assets/img/documents/Sida7-Edit.jpg"/>
+               <graphic xml:id="Sida7-Edit" url="assets/img/Sida7-Edit.jpg"/>
          </figure>
          </div>
          
@@ -592,7 +590,7 @@
                   <persName> Jules Schyl</persName>
                   <material> Blandteknik torrpastell och akvarell/tusch</material>
                </head>
-               <graphic xml:id="Sida9-Edit" url="assets/img/documents/Sida9-Edit.jpg"/>
+               <graphic xml:id="Sida9-Edit" url="assets/img/Sida9-Edit.jpg"/>
             </figure>
             </div>
          
@@ -843,7 +841,7 @@
                   <persName>Jules Schyl </persName>
                   <material> Blandteknik akvarell/blyerts </material>
                </head>
-               <graphic xml:id="Sida17-Edit" url="assets/img/documents/Sida17-Edit.jpg"/>
+               <graphic xml:id="Sida17-Edit" url="assets/img/Sida17-Edit.jpg"/>
             </figure>
           </div>
          
@@ -1024,7 +1022,7 @@
                   <persName> Jules Schyl</persName>
                   <material> Blandteknik akvarell/tusch och gouache</material>
                </head>
-               <graphic xml:id="Sida23-Edit" url="assets/img/documents/Sida23-Edit.jpg"/>
+               <graphic xml:id="Sida23-Edit" url="assets/img/Sida23-Edit.jpg"/>
             </figure>
             
          </div>
@@ -1292,7 +1290,7 @@
                   <persName> Okänd, troligen Jules Schyl</persName>
                   <material> Blandteknik akvarell/tusch </material>
                </head>
-               <graphic xml:id="Sida31-Edit" url="assets/img/documents/Sida31-Edit.jpg"/>
+               <graphic xml:id="Sida31-Edit" url="assets/img/Sida31-Edit.jpg"/>
             </figure>
            </div>
          
