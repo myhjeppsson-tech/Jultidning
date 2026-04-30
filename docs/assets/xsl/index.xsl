@@ -46,7 +46,7 @@
                             <div class="col-sm">
                                 <article id="collection">
                                     <xsl:for-each select="//tei:surface">
-                                     <img class="thumbnail">
+                                     
                                          <xsl:attribute name="src">
                                              <xsl:value-of select="tei:figure/tei:graphic[2]/@url"/>
                                          </xsl:attribute>
@@ -56,7 +56,6 @@
                                          <xsl:attribute name="alt">
                                              <xsl:value-of select="tei:figure/tei:figDesc"/>
                                          </xsl:attribute>
-                                     </img>                              
                                     </xsl:for-each>
                                 </article>
                             </div>
