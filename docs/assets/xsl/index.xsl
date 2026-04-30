@@ -45,7 +45,7 @@
                             <!-- first column: load the image based on the IIIF link in the graphic above -->
                             <div class="col-sm">
                                 <article id="collection">
-                                    <xsl:for-each select="//tei:surface">
+                                    <xsl:for-each select="tei:surface/xml:id/Sida3">
                                      <img>
                                          <xsl:attribute name="src">
                                              <xsl:value-of select="tei:figure/tei:graphic[1]/@url"/>
