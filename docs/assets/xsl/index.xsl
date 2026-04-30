@@ -46,9 +46,10 @@
                             <div class="col-sm">
                                 <article id="collection">
                                     <xsl:for-each select="//tei:surface">
+                                        <xsl:variable name="facs" select="@facs"/>
                                      <img>
                                          <xsl:attribute name="src">
-                                             <xsl:value-of select="tei:figure/tei:graphic[1]/@url"/>
+                                             <xsl:value-of select="tei:figure/tei:graphic[@xml:id=($facs, '3')]/@url"/>
                                          </xsl:attribute>
                                          <xsl:attribute name="title">
                                              <xsl:value-of select="tei:figure/tei:label"/>
