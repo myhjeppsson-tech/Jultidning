@@ -185,7 +185,7 @@
             <label>Framsida</label>
             <figDesc>Bild av framsidan av tidningens omslag</figDesc>
             <graphic xml:id="Sida1-Edit" url="docs/assets/img/Sida1-Edit.jpg"/>
-            <graphic xml:id="Sida1-thumb" url="https://github.com/myhjeppsson-tech/Jultidning/blob/main/docs/assets/img/Sida1-thumb.jpg"/>
+            <graphic xml:id="Sida1-thumb" url="docs/assets/img/Sida1-thumb.jpg"/>
          </figure>
       </surface>
    
