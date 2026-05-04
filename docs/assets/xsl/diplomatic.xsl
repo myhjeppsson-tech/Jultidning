@@ -125,15 +125,15 @@
     process underneath (nested in) tei lb's. Therefore the XSLT processor does not need to look for templates to
     apply to the nodes nested within it.-->
     
-    <xsl:template match="tei:l">
-        <xsl:apply-templates/>
-        <br/>
-    </xsl:template>
-    
     <xsl:template match="tei:lg">
         <div class="stanza">
             <xsl:apply-templates/>
         </div>
+    </xsl:template>
+    
+    <xsl:template match="tei:l">
+        <xsl:apply-templates/>
+        <br/>
     </xsl:template>
     
   
