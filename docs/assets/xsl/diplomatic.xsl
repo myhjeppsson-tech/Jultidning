@@ -202,7 +202,17 @@
     
     <xsl:template match="tei:table">
         <table class="table table-bordered">
-            <xsl:apply-templates/>
+            
+            <xsl:apply-templates select="tei:head"/>
+            
+            <thead>
+                <xsl:apply-templates select="tei:row[@role='label']"/>
+            </thead>
+            
+            <tbody>
+                <xsl:apply-templates select="tei:row[not(@role='label')]"/>
+            </tbody>
+            
         </table>
     </xsl:template>
     
