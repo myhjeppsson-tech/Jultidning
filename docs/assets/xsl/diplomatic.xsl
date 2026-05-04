@@ -124,7 +124,18 @@
     <!-- not: in the previous template there is no <xsl:apply-templates/>. This is because there is nothing to
     process underneath (nested in) tei lb's. Therefore the XSLT processor does not need to look for templates to
     apply to the nodes nested within it.-->
-
+    
+    <xsl:template match="tei:l">
+        <xsl:value-of select="."/>
+        <br/>
+    </xsl:template>
+    
+    <xsl:template match="tei:lg">
+        <div class="stanza">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+    
     <!-- we turn the tei head element (headline) into an html h1 element-->
     <xsl:template match="tei:head">
         <h2>
