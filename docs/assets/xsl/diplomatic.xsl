@@ -98,16 +98,10 @@
                 </main>
                 <footer>
                 <div class="row" id="footer">
-                  <div class="col-sm copyright">
+                  
                       <div>
-                        <a href="https://creativecommons.org/licenses/by/4.0/legalcode">
-                          <img src="assets/img/cc.svg" class="copyright_logo" alt="Creative Commons License"/><img src="assets/img/by.svg" class="copyright_logo" alt="Attribution 4.0 International"/>
-                        </a>
+                         2026 My Hildingsson Jeppsson, Lena Karlsson, Carl Kilstedt, Käbi Petersson.
                       </div>
-                      <div>
-                         2022 Wout Dillen.
-                      </div>
-                    </div>
                 </div>
                 </footer>
                 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
