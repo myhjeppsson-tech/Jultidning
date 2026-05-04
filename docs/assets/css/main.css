@@ -248,3 +248,16 @@ img {
     border: 1px solid black;
     width: 500px;
 }
+
+.stanza {
+    margin-bottom: 1.5em;
+}
+
+.poem {
+    margin-bottom: 2em;
+}
+
+.author {
+    margin-top: 1em;
+    font-style: italic;
+}
