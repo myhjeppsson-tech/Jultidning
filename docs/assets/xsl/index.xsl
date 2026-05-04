@@ -45,7 +45,6 @@
                             <!-- first column: load the image based on the IIIF link in the graphic above -->
                             <div class="col-sm">
                                 <article id="collection">
-                                    <xsl:for-each select="//tei:surface">
                                      <img>
                                          <xsl:attribute name="src">
                                              <xsl:value-of select="//tei:surface[@xml:id='Sida3']/tei:figure/tei:graphic/@url"/>
@@ -57,7 +56,6 @@
                                              <xsl:value-of select="//tei:surface[@xml:id='Sida3']/tei:figure/tei:figDesc"/>
                                          </xsl:attribute>
                                      </img>                              
-                                    </xsl:for-each>
                                 </article>
                             </div>
                             <!-- second column: apply matching templates for anything nested underneath the tei:text element -->
