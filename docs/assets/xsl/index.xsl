@@ -61,18 +61,13 @@
                             <!-- second column: apply matching templates for anything nested underneath the tei:text element -->
                             <div class="col-sm">
                                 <article id="description">
-                                  <p>
-                                    <strong>Om Julljuset:</strong> &#160;
-                                      <a>
-                                          <xsl:attribute name="href">
-                                              <xsl:apply-templates select="//tei:profileDesc//tei:abstract"/>
-                                          </xsl:attribute>
-                                          <xsl:apply-templates select="//tei:profileDesc//tei:msName"/>
-                                      </a>
-                                  </p>    
-                                  <p>
-                                    <xsl:apply-templates select="//tei:ProfileDesc//tei:abstract"/>
-                                  </p>
+                                    
+                                    <p>
+                                        <strong>Om Julljuset:</strong>
+                                    </p>
+                                    
+                                    <xsl:apply-templates select="//tei:profileDesc/tei:abstract/tei:p[position() > 1]"/>
+                                    
                                 </article>
                             </div>
                         </div>
