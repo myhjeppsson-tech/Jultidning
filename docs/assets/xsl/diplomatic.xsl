@@ -126,15 +126,17 @@
     apply to the nodes nested within it.-->
     
     <xsl:template match="tei:l">
-        <xsl:value-of select="."/>
+        <xsl:apply-templates/>
         <br/>
     </xsl:template>
     
     <xsl:template match="tei:lg">
-        <div class="stanza" style="margin-bottom: 1em;">
+        <div class="stanza">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
+    
+  
     
     <!-- we turn the tei head element (headline) into an html h1 element-->
     <xsl:template match="tei:head">
