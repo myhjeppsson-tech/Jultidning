@@ -200,4 +200,38 @@
         </span>
     </xsl:template> 
     
+    <xsl:template match="tei:table">
+        <table class="table table-bordered">
+            <xsl:apply-templates/>
+        </table>
+    </xsl:template>
+    
+    <xsl:template match="tei:row">
+        <tr>
+            <xsl:apply-templates/>
+        </tr>
+    </xsl:template>
+    
+    <xsl:template match="tei:row[@role='label']">
+        <tr>
+            <xsl:for-each select="tei:cell">
+                <th>
+                    <xsl:apply-templates/>
+                </th>
+            </xsl:for-each>
+        </tr>
+    </xsl:template>
+    
+    <xsl:template match="tei:cell">
+        <td>
+            <xsl:apply-templates/>
+        </td>
+    </xsl:template>
+    
+    <xsl:template match="tei:table/tei:head">
+        <caption>
+            <xsl:apply-templates/>
+        </caption>
+    </xsl:template>
+    
 </xsl:stylesheet>
