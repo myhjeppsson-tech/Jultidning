@@ -228,6 +228,14 @@
          </figure>
       </surface>
       
+      <surface xml:id="Sida7"> 
+         <figure>
+            <label>Pastell av Jules Schyl</label>
+            <figDesc>Pastell i blått och vitt</figDesc>
+            <graphic xml:id="Sida7-Edit" url="assets/img/Sida7-Edit.jpg"/>
+         </figure>
+      </surface>
+      
       <surface xml:id="Sida8"> 
          <figure>
             <label>Baksida illustration</label>
@@ -575,13 +583,12 @@
          </lg>
          </div>
          
-         <div>      
+         <div type="page" facs="#Sida7">      
            <figure>
                <head>
                   <persName>Jules Schyl</persName>
                   <material> Pastell</material>
                </head>
-               <graphic xml:id="Sida7-Edit" url="assets/img/Sida7-Edit.jpg"/>
          </figure>
          </div>
          
