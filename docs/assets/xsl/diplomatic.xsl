@@ -131,7 +131,7 @@
     </xsl:template>
     
     <xsl:template match="tei:lg">
-        <div class="stanza">
+        <div class="stanza" style="margin-bottom: 1em;">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
