@@ -3,7 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:html="http://www.w3.org/1999/xhtml" exclude-result-prefixes="xs tei html" version="2.0">
     <xsl:output method="html"/>
-
+    
     <!-- transform the root element (TEI) into an HTML template -->
     <xsl:template match="tei:TEI">
         <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text><xsl:text>&#xa;</xsl:text>
@@ -35,12 +35,12 @@
                     <a href="reading.html">Ordlista</a> |
                     <a href="toplayer.html">Konstverk</a> |
                     <a href="mary.html">Om digitaliseringen</a> |
-                  
+                    
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
                     <div class="container">
-                    <!-- define a row layout with bootstrap's css classes (two columns) -->
+                        <!-- define a row layout with bootstrap's css classes (two columns) -->
                         <div class="row">
                             <div class="col-sm">
                                 <h3>Images</h3>
@@ -97,12 +97,12 @@
                     </div>
                 </main>
                 <footer>
-                <div class="row" id="footer">
-                  
-                      <div>
-                         2026 My Hildingsson Jeppsson, Lena Karlsson, Carl Kilstedt, Käbi Petersson.
-                      </div>
-                </div>
+                    <div class="row" id="footer">
+                        
+                        <div>
+                            2026 My Hildingsson Jeppsson, Lena Karlsson, Carl Kilstedt, Käbi Petersson.
+                        </div>
+                    </div>
                 </footer>
                 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
                 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.3/dist/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
@@ -110,13 +110,13 @@
             </body>
         </html>
     </xsl:template>
-
+    
     <!-- by default all text nodes are printed out, unless something else is defined.
     We don't want to show the metadata. So we write a template for the teiHeader that
     stops the text nodes underneath (=nested in) teiHeader from being printed into our
     html-->
     <xsl:template match="tei:teiHeader"/>
-
+    
     <!-- turn tei linebreaks (lb) into html linebreaks (br) -->
     <xsl:template match="tei:lb">
         <br/>
@@ -125,36 +125,24 @@
     process underneath (nested in) tei lb's. Therefore the XSLT processor does not need to look for templates to
     apply to the nodes nested within it.-->
     
-    <xsl:template match="tei:lg[@type='stanza']">
+    <xsl:template match="tei:l">
+        <xsl:value-of select="."/>
+        <br/>
+    </xsl:template>
+    
+    <xsl:template match="tei:lg">
         <div class="stanza">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
     
-    <xsl:template match="tei:lg[@type='poem']">
-        <div class="poem">
-            <xsl:apply-templates/>
-        </div>
-    </xsl:template>
-    
-    <xsl:template match="tei:l">
-        <xsl:apply-templates/>
-        <br/>
-    </xsl:template>
-    
-  
-    
     <!-- we turn the tei head element (headline) into an html h1 element-->
     <xsl:template match="tei:head">
-        <h2><xsl:apply-templates/></h2>
+        <h2>
+            <xsl:apply-templates/>
+        </h2>
     </xsl:template>
     
-    <xsl:template match="tei:signed">
-        <p class="author">
-            <xsl:apply-templates/>
-        </p>
-    </xsl:template>
-
     <!-- transform tei paragraphs into html paragraphs -->
     <xsl:template match="tei:p">
         <p>
@@ -162,21 +150,21 @@
             <xsl:apply-templates/>
         </p>
     </xsl:template>
-
+    
     <!-- transform tei del into html del -->
     <xsl:template match="tei:del">
         <del>
             <xsl:apply-templates/>
         </del>
     </xsl:template>
-
+    
     <!-- transform tei add into html sup -->
     <xsl:template match="tei:add">
         <sup>
             <xsl:apply-templates/>
         </sup>
     </xsl:template>
-
+    
     <!-- transform tei hi (highlighting) with the attribute @rend="u" into html u elements -->
     <!-- how to read the match? "For all tei:hi elements that have a rend attribute with the value "u", do the following" -->
     <xsl:template match="tei:hi[@rend = 'u']">
@@ -184,22 +172,22 @@
             <xsl:apply-templates/>
         </u>
     </xsl:template>
-
+    
     <!-- transform tei hi (highlighting) with the attribute @rend="sup" into superscript -->
     <xsl:template match="tei:hi[@rend = 'sup']">
         <span style="vertical-align:super; font-size:80%;">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
-
+    
     <!-- transform tei hi (highlighting) with the attribute @rend="u" into html u elements -->
     <xsl:template match="tei:hi[@rend = 'circled']">
         <span style="border:1px solid black;border-radius:50%">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
- 
- 
+    
+    
     <!-- give all metamarks with a @place a class of the same name in the html-->
     <!-- out of the box, the css of this template has classes for 'top-left' and 'top-right' values for metamark[@place]. You can change them in `main.css` if you need to.-->
     <!-- if you want to use other values, be sure to also make corresponding class descriptions in your `main.css` stylesheet. -->
@@ -212,5 +200,4 @@
         </span>
     </xsl:template> 
     
-
 </xsl:stylesheet>
