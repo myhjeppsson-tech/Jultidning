@@ -77,13 +77,9 @@
                 <footer>
                 <div class="row" id="footer">
                   <div class="col-sm copyright">
+                      
                       <div>
-                        <a href="https://creativecommons.org/licenses/by/4.0/legalcode">
-                          <img src="assets/img/cc.svg" class="copyright_logo" alt="Creative Commons License"/><img src="assets/img/by.svg" class="copyright_logo" alt="Attribution 4.0 International"/>
-                        </a>
-                      </div>
-                      <div>
-                         2022 Wout Dillen.
+                          2026 My Hildingsson Jeppsson, Lena Karlsson, Carl Kilstedt, Käbi Petersson.
                       </div>
                     </div>
                 </div>
@@ -136,6 +132,10 @@
         <u>
             <xsl:apply-templates/>
         </u>
+    </xsl:template>
+    
+    <xsl:template match="tei:lb">
+        <br/>
     </xsl:template>
 
     <!-- transform tei hi (highlighting) with the attribute @rend="sup" into superscript -->
