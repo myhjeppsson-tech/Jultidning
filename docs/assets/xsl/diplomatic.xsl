@@ -125,8 +125,14 @@
     process underneath (nested in) tei lb's. Therefore the XSLT processor does not need to look for templates to
     apply to the nodes nested within it.-->
     
-    <xsl:template match="tei:lg">
+    <xsl:template match="tei:lg[@type='stanza']">
         <div class="stanza">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+    
+    <xsl:template match="tei:lg[@type='poem']">
+        <div class="poem">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
@@ -140,9 +146,13 @@
     
     <!-- we turn the tei head element (headline) into an html h1 element-->
     <xsl:template match="tei:head">
-        <h2>
+        <h2><xsl:apply-templates/></h2>
+    </xsl:template>
+    
+    <xsl:template match="tei:signed">
+        <p class="author">
             <xsl:apply-templates/>
-        </h2>
+        </p>
     </xsl:template>
 
     <!-- transform tei paragraphs into html paragraphs -->
