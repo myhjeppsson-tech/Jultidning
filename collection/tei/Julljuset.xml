@@ -231,8 +231,10 @@
       <surface xml:id="Sida7"> 
          <figure>
             <label>Pastell av Jules Schyl</label>
-            <figDesc>Pastell i blått och vitt</figDesc>
-            <graphic xml:id="Sida7-Edit" url="assets/img/Sida7-Edit.jpg"/>
+            <figDesc>Illustration i pastell</figDesc>
+            <byline>Konstnär: Jules Schyl</byline>
+            <note>Material: Pastell</note>
+            <graphic xml:id="Sida7-Edit" url="assets/img/Sida7-Edit.jpg"/> 
          </figure>
       </surface>
       
@@ -241,6 +243,16 @@
             <label>Baksida illustration</label>
             <figDesc>Bild av baksidan av en illustration</figDesc>
             <graphic xml:id="Sida8-Edit" url="assets/img/Sida8-Edit.jpg"/>
+         </figure>
+      </surface>
+      
+      <surface xml:id="Sida9"> 
+         <figure>
+            <label>Pastell av Jules Schyl</label>
+            <figDesc>Illustation i blandteknik</figDesc>
+            <byline>Konstnär: Jules Schyl</byline>
+            <note>Material: Blandteknik torrpastell och akvarell/tusch</note>
+            <graphic xml:id="Sida9-Edit" url="assets/img/Sida9-Edit.jpg"/> 
          </figure>
       </surface>
       
@@ -300,6 +312,16 @@
                </figure>
             </surface>
       
+      <surface xml:id="Sida17"> 
+         <figure>
+            <label>Pastell av Jules Schyl</label>
+            <figDesc>Illustation i blandteknik</figDesc>
+            <byline>Konstnär: Jules Schyl</byline>
+            <note>Blandteknik akvarell/blyerts</note>
+            <graphic xml:id="Sida17-Edit" url="assets/img/Sida17-Edit.jpg"/>
+         </figure>
+      </surface>
+      
       <surface xml:id="Sida18"> 
          <figure>
             <label>Baksida illustration</label>
@@ -339,6 +361,16 @@
                   <graphic xml:id="Sida22-Edit" url="assets/img/Sida22-Edit.jpg"/>
                </figure>
             </surface>
+      
+      <surface xml:id="Sida23"> 
+         <figure>
+            <label>Pastell av Jules Schyl</label>
+            <figDesc>Illustation i blandteknik</figDesc>
+            <byline>Konstnär: Jules Schyl</byline>
+            <note>Blandteknik akvarell/tusch och gouache</note>
+            <graphic xml:id="Sida23-Edit" url="assets/img/Sida23-Edit.jpg"/>
+         </figure>
+      </surface>
       
       <surface xml:id="Sida24"> 
          <figure>
@@ -395,6 +427,16 @@
                   <graphic xml:id="Sida30-Edit" url="assets/img/Sida30-Edit.jpg"/>
                </figure>
             </surface>
+      
+      <surface xml:id="Sida31"> 
+         <figure>
+            <label>Pastell av Jules Schyl</label>
+            <figDesc>Illustation i blandteknik</figDesc>
+            <byline>Konstnär: Okänd </byline>
+            <note>Blandteknik akvarell/tusch</note>
+            <graphic xml:id="Sida31-Edit" url="assets/img/Sida31-Edit.jpg"/>
+         </figure>
+      </surface>
       
       <surface xml:id="Sida32"> 
          <figure>
@@ -583,28 +625,19 @@
          </lg>
          </div>
          
-         <div type="page" facs="#Sida7">      
-           <figure>
-               <head>
-                  <persName>Jules Schyl</persName>
-                  <material> Pastell</material>
-               </head>
-         </figure>
+         <div type="page" facs="#Sida7"> 
+            <pb n="5"/>
+           <note>Illustrerad sida utan transkriberad text</note>
          </div>
          
-         <div>
-            <figure>
-               <head>
-                  <persName> Jules Schyl</persName>
-                  <material> Blandteknik torrpastell och akvarell/tusch</material>
-               </head>
-               <graphic xml:id="Sida9-Edit" url="assets/img/Sida9-Edit.jpg"/>
-            </figure>
-            </div>
+         <div type="page" facs="#Sida9">
+            <pb n="7"/>
+            <note>Illustrerad sida utan transkriberad text</note>
+         </div>
          
          
             <div type="page" facs="#Sida11">
-         <pb n="7"/>
+         <pb n="9"/>
          <head>Några skolminnen</head>
             <p>De sista åren i folkskolan hade jag ofta fått i-
             <lb break="no"/>akttaga vilket uppresande det väckte bland mina kam-
@@ -646,7 +679,7 @@
             
         
            <div type="page" facs="#Sida12">
-          <pb n="8"/>   
+          <pb n="10"/>   
             <p>femininiseras, undervisade i nödfall med samma oförskräckt-
             <lb break="no"/>het i vilket ämne som helst. Dock tror jag icke, att
             <lb/>biologin förmådde entusiasmera honom särskilt. Det
@@ -688,7 +721,7 @@
            
         
            <div type="page" facs="#Sida13">
-          <pb n="9"/>
+          <pb n="11"/>
             <p>allt efter föreseelsens art gå till Far eller Mor för
             <lb/>att få absolution på ett papper.</p>
            
@@ -732,7 +765,7 @@
          
        
           <div type="page" facs="#Sida14">
-         <pb n="10"/>
+         <pb n="12"/>
           <p>ha i allmänhet ett normalt utseende, och konstruktion
           <lb/>utom din Jules. Den röjer en för din ålder enorm
           <lb/>utveckling. “ Härmed var undersökningen, som säker-
@@ -776,7 +809,7 @@
          
        
           <div type="page" facs="#Sida15">
-          <pb n="11"/>
+          <pb n="13"/>
           <p>här. Jag var emellertid icke själv tillstädes då, och
           <lb/>kan sålunda icke konstatera riktigheten av det berätta-
           <lb break="no"/>de. Min sagesman gäller dock icke för att vara nå-
@@ -819,7 +852,7 @@
          
        
           <div type="page" facs="#Sida16">
-          <pb n="12"/>
+          <pb n="14"/>
           <p>na, ögon. -</p>
           
           <p>Ja detta var några spridda drag från skol-
@@ -850,19 +883,14 @@
           <signed>Erik Göransson</signed>
         </div> 
          
-         <div>
-            <figure>
-               <head>
-                  <persName>Jules Schyl </persName>
-                  <material> Blandteknik akvarell/blyerts </material>
-               </head>
-               <graphic xml:id="Sida17-Edit" url="assets/img/Sida17-Edit.jpg"/>
-            </figure>
+         <div type="page" facs="#Sida17">
+            <pb n="15"/>
+            <note>Illustrerad sida utan transkriberad text</note>
           </div>
          
         
            <div type="page" facs="#Sida19">
-           <pb n="14"/>
+           <pb n="17"/>
            <lg type="poem">
            <head>Julnatt</head>
               <lg type="stanza">
@@ -899,7 +927,7 @@
          
         
            <div type="page" facs="#Sida20">
-           <pb n="15"/>
+           <pb n="18"/>
            <head>Den fattiga sömmerskan som
            <lb/>längtade till stjärnorna</head>
            
@@ -944,7 +972,7 @@
         
         
            <div type="page" facs="#Sida21">
-           <pb n="16"/>
+           <pb n="19"/>
            <p>- <said>Ja det är inte så gott att veta. Inte en gång
            <lb/>de lärdaste astronomer känner till den saken. Ack al-
            <lb break="no"/>drig kan någon få reda på det heller.</said></p>
@@ -992,7 +1020,7 @@
       
          <div type="page" facs="#Sida22">
          <div>
-          <pb n="17"/>
+          <pb n="20"/>
           <p>Men när man läst från maten och Katrina
           <lb/>skulle upp till sitt, bröt hon i alla fall ut, full-
           <lb break="no"/>komligt mot sin vilja:
@@ -1035,20 +1063,15 @@
              <signed>Gunnar Fraudenthal.</signed>
           </div>
       </div>
-         <div>
-            <figure>
-               <head>
-                  <persName> Jules Schyl</persName>
-                  <material> Blandteknik akvarell/tusch och gouache</material>
-               </head>
-               <graphic xml:id="Sida23-Edit" url="assets/img/Sida23-Edit.jpg"/>
-            </figure>
-            
+         
+         <div type="page" facs="#Sida23">
+            <pb n="21"/>
+            <note>Illustrerad sida utan transkriberad text</note>            
          </div>
          
       
          <div type="page" facs="#Sida25">
-        <pb n="19"/>
+        <pb n="23"/>
          <lg type="poem">
          <head>Grisen gråter</head>
             <lg type="stanza">
@@ -1097,7 +1120,7 @@
       
       
          <div type="page" facs="#Sida26">
-         <pb n="20"/>
+         <pb n="24"/>
          <lg type="poem">
          <lg type="stanza">
             <l>En visshet kyler jämt min blod:</l>
@@ -1132,7 +1155,7 @@
          
       
          <div type="page" facs="#Sida27">
-        <pb n="21"/>
+        <pb n="25"/>
          <lg type="poem">
           <head>Ode till den
           <lb/>ogifta kvinnan.</head>
@@ -1178,7 +1201,7 @@
             
        
          <div type="page" facs="#Sida28">
-          <pb n="22"/>
+          <pb n="26"/>
           <lg type="poem">
              <lg type="stanza">  
                 <l>O Du!</l>
@@ -1221,7 +1244,7 @@
          
        
          <div type="page" facs="#Sida29">
-         <pb n="23"/>
+         <pb n="27"/>
            <lg type="poem">
                <lg type="stanza"> 
                   <l>O, Du!</l>
@@ -1268,7 +1291,7 @@
                     
       
          <div type="page" facs="#Sida30">
-         <pb n="24"/>
+         <pb n="28"/>
            <lg type="poem">
               <lg type="stanza"> 
                  <l>Därföre:</l>
@@ -1309,19 +1332,14 @@
          <signed>N.O.</signed>  
       </div> 
          
-         <div>
-            <figure>
-               <head>
-                  <persName> Okänd, troligen Jules Schyl</persName>
-                  <material> Blandteknik akvarell/tusch </material>
-               </head>
-               <graphic xml:id="Sida31-Edit" url="assets/img/Sida31-Edit.jpg"/>
-            </figure>
+         <div type="page" facs="#Sida31">
+            <pb n="29"/>
+            <note>Illustrerad sida utan transkriberad text</note> 
            </div>
          
       
          <div type="page" facs="#Sida33">
-        <pb n="26"/>
+        <pb n="31"/>
          <head>En dröm</head>    
          <p>Jag låg väl ombonad i min hyrda säng för
          <lb/>att sova, kanske också drömma. Författaren
@@ -1363,7 +1381,7 @@
          
       
          <div type="page" facs="#Sida34">
-         <pb n="27"/>
+         <pb n="32"/>
          <p>genus tog mig vid handen och sade: “Kom ska
             <lb/>du få se vårt nya samhälle!” Jag följde, och
             <lb/>vi kommo ut på den torra och rena i elekt-
@@ -1406,7 +1424,7 @@
             
      
          <div type="page" facs="#Sida35">
-         <pb n="28"/>          
+         <pb n="33"/>          
            <p>igenom den underbara symfonin. Grundmo-
                <lb break="no"/>tivet i denna var, huruvida manfolken skulle
                <lb/>vara klädda i byxor eller kjol. De flesta
@@ -1451,7 +1469,7 @@
       
       
          <div type="page" facs="#Sida36">
-        <pb n="29"/>
+        <pb n="34"/>
          <p>vid Kommunala Högskolan var genast villig
             <lb/>att redogöra för dessa vad hans skola be-
             <lb break="no"/>träffade. Av största betydelse för släktets fy-
@@ -1494,7 +1512,7 @@
       
       
          <div type="page" facs="#Sida37">
-         <pb n="30"/> 
+         <pb n="35"/> 
          <p>fogat oss i de nya förhållandena för att leda utvecklin-
             <lb break="no"/>gen i rätt riktning. Inseende sanningen i den
             <lb/>nya tidens valspråk “Kunskap är vanmakt”, söka
@@ -1537,7 +1555,7 @@
       
      
         <div type="page" facs="#Sida38">
-       <pb n="31"/> 
+       <pb n="36"/> 
         <p>nen nedåt Småland. Här gjorde han på en mark-
            <lb break="no"/>nad i Värnamo bekantskap med Desideria Clary,
            <lb/>en rik köpmansdotter från Marseille, och en afton-
@@ -1579,7 +1597,7 @@
          
      
         <div type="page" facs="#Sida39">
-       <pb n="32"/>  
+       <pb n="37"/>  
         <p>och brändes staden Lund, som på den tiden
            <lb/>ägde 24 kyrkor, och kloster.</p>
         
@@ -1623,7 +1641,7 @@
          
      
         <div type="page" facs="#Sida40">
-       <pb n="33"/>
+       <pb n="38"/>
         <p>ehuru jag ej var nog inne i barnspråket för
            <lb/>att riktigt kunna följa med. En vänlig barn-
            <lb break="no"/>jungfru kom mig till hjälp och upplyste, att
@@ -1669,7 +1687,7 @@
             
      
         <div type="page" facs="#Sida41">
-       <pb n="34"/>   
+       <pb n="39"/>   
         <lg type="poem">
          <head>19/12 1918</head>
           <lg type="stanza">
@@ -1713,7 +1731,7 @@
                  
     
         <div type="page" facs="#Sida42">
-       <pb n="35"/>   
+       <pb n="40"/>   
         <lg type="poem"> 
            <lg type="stanza">       
               <l>Då får vi byxtyger utan tull,</l>
@@ -1768,7 +1786,8 @@
                 
                  
  
-        <div type="page" facs="#Sida43">
+<div type="page" facs="#Sida43">
+<pb n="41"/>
 <table>
   <head>Höörs föreläsningsförening – Vårterminen 1919</head>
   <row role="label">
