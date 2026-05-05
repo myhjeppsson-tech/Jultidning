@@ -45,9 +45,9 @@
                             <!-- first column: load the image based on the IIIF link in the graphic above -->
                             <div class="col-sm">
                                 <article id="collection">
+                                   
                                     <xsl:for-each select="//tei:surface[@xml:id=('Sida7','Sida9','Sida17','Sida23','Sida31')]">
-                                        <img 
-                                            class="img-fluid"
+                                        <img class="img-full"
                                             src="{tei:figure/tei:graphic/@url}"
                                             title="{tei:figure/tei:label}"
                                             alt="{tei:figure/tei:figDesc}" />
