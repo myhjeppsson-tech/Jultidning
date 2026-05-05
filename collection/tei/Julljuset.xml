@@ -206,7 +206,7 @@
   
       <surface xml:id="Sida4"> 
          <figure>
-            <label>Insida försättsblad</label>
+            <label>Baksida försättsblad</label>
             <figDesc>Bild av insidan av tidningens försättsblad</figDesc>
             <graphic xml:id="Sida4-Edit" url="assets/img/Sida4-Edit.jpg"/>
          </figure>
@@ -562,6 +562,30 @@
    <text>
       <body>
          
+         <div type="page" facs="#Sida1">
+            <pb n="I"/>
+            <gap reason="blank"/>
+         </div>
+         
+         <div type="page" facs="#Sida2">
+            <pb n="II"/>
+            <gap reason="blank"/>
+         </div>
+         
+         <div type="page" facs="#Sida3"> 
+            <pb n="1"/>
+            <head>Julljuset</head>
+            <p>VK 1918
+            <lb/>Utgiven av
+            <lb/>Kamratföreningen V.K.
+            </p>
+         </div>
+         
+         <div type="page" facs="#Sida4">
+            <pb n="2"/>
+            <gap reason="blank"/>
+         </div>
+         
         <div type="page" facs="#Sida5">
         <pb n="3"/>
         <lg type="poem">
@@ -630,11 +654,20 @@
            <note>Illustrerad sida utan transkriberad text</note>
          </div>
          
+         <div type="page" facs="#Sida8">
+            <pb n="6"/>
+            <gap reason="blank"/>
+         </div>
+         
          <div type="page" facs="#Sida9">
             <pb n="7"/>
             <note>Illustrerad sida utan transkriberad text</note>
          </div>
          
+         <div type="page" facs="#Sida10">
+            <pb n="8"/>
+            <gap reason="blank"/>
+         </div>
          
             <div type="page" facs="#Sida11">
          <pb n="9"/>
@@ -888,6 +921,11 @@
             <note>Illustrerad sida utan transkriberad text</note>
           </div>
          
+         <div type="page" facs="#Sida18">
+            <pb n="16"/>
+            <gap reason="blank"/>
+         </div>
+         
         
            <div type="page" facs="#Sida19">
            <pb n="17"/>
@@ -1067,6 +1105,11 @@
          <div type="page" facs="#Sida23">
             <pb n="21"/>
             <note>Illustrerad sida utan transkriberad text</note>            
+         </div>
+         
+         <div type="page" facs="#Sida24">
+            <pb n="22"/>
+            <gap reason="blank"/>
          </div>
          
       
@@ -1336,6 +1379,11 @@
             <pb n="29"/>
             <note>Illustrerad sida utan transkriberad text</note> 
            </div>
+         
+         <div type="page" facs="#Sida32">
+            <pb n="30"/>
+            <gap reason="blank"/>
+         </div>
          
       
          <div type="page" facs="#Sida33">
@@ -1889,7 +1937,7 @@
     <cell>
       <persName>Karl Danelius </persName>, Gårdfarihandlare
     </cell>
-    <cell>Da-Da-ismen i den modärna litteraturen (med…)</cell>
+    <cell>Da-Da-ismen i den modärna litteraturen med(…)</cell>
   </row>
 
 <row>
@@ -1904,8 +1952,15 @@
 </table>
 </div>            
            
-         
+         <div type="page" facs="#Sida44">
+            <pb n="II"/>
+            <gap reason="blank"/>
+         </div>        
   
+         <div type="page" facs="#Sida45">
+            <pb n="I"/>
+            <gap reason="blank"/>
+         </div>
       </body>
    </text>
 </TEI>

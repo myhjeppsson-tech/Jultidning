@@ -43,12 +43,12 @@
                         <!-- define a row layout with bootstrap's css classes (two columns) -->
                         <div class="row">
                             <div class="col-sm">
-                                <h3>Images</h3>
+                                <h3>Bilder</h3>
                             </div>
                             <div class="col-sm">
                             </div>
                             <div class="col-sm">
-                                <h3>Transcription</h3>
+                                <h3>Transkription</h3>
                             </div>
                         </div>
                         <!-- set up an image-text pair for each page in your document, and start a new 'row' for each pair -->
