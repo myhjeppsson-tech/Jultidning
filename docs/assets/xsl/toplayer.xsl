@@ -49,7 +49,7 @@
                                         <xsl:variable name="facs" select="@facs"/>
                                         
                                         <div style="margin-bottom:1rem;">
-                                            <img class="img-fluid"
+                                            <img class="img-full"
                                                 src="{//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:graphic[1]/@url}"
                                                 title="{//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:label}"
                                                 alt="{//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:figDesc}" />
