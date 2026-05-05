@@ -43,7 +43,7 @@
                             
                             <!-- Vänster kolumn: bilder -->
                             <div class="col-md-6">
-                                <article id="collection">
+                                <article id="collection" style="display:flex; flex-direction:column;">
                                     
                                     <xsl:for-each select="//tei:div[@type='page'][position() = (3, 4, 11, 16, 23)]">
                                         <xsl:variable name="facs" select="@facs"/>
