@@ -43,7 +43,7 @@
                         <!-- define a row layout with bootstrap's css classes (two columns) -->
                         <div class="row">
                             <div class="col-sm">
-                                <h3>Bilder</h3>
+                                <h3>Tidningen</h3>
                             </div>
                             <div class="col-sm">
                             </div>
