@@ -41,13 +41,17 @@
                     <div class="container">
                         <!-- define a row layout with bootstrap's css classes (two columns) -->
                         <div class="row">
-                            
+                            <div class="col-sm">   
+                            </div>
+                            <div class="col-sm">
+                            </div>
+                            <div class="col-sm">
+                            </div>
                             <!-- first column: load the image based on the IIIF link in the graphic above -->
                             <div class="col-sm">
                                 <article id="collection">
                                     <xsl:for-each select="//tei:surface[@xml:id=('Sida7','Sida9','Sida17','Sida23','Sida31')]">
                                         <img 
-                                            class="img-fluid"
                                             src="{tei:figure/tei:graphic/@url}"
                                             title="{tei:figure/tei:label}"
                                             alt="{tei:figure/tei:figDesc}" />
