@@ -66,7 +66,7 @@
                                         <strong>Jules Schyl</strong>
                                     </p>
                                     
-                                    <xsl:apply-templates select="//tei:profileDesc/tei:creation"/>
+                                    <xsl:apply-templates select="(//tei:profileDesc/tei:abstract [2])"/>
                                     
                                 </article>
                             </div>
