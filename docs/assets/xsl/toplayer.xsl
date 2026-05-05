@@ -36,73 +36,48 @@
                     <a href="toplayer.html">Konstverk</a> |
                     <a href="mary.html">Om digitaliseringen</a> |
                 </nav>
-                <main>
+                <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
                     <div class="container">
-                        <!-- define a row layout with bootstrap's css classes (two columns with content, and an empty column in between) -->
+                        <!-- define a row layout with bootstrap's css classes (two columns) -->
                         <div class="row">
-                            <div class="col-">
-                                <h3>Images</h3>
+                            
+                            <!-- first column: load the image based on the IIIF link in the graphic above -->
+                            <div class="col-sm">
+                                <article id="collection">
+                                    <img>
+                                        <xsl:attribute name="src">
+                                            <xsl:value-of select="//tei:surface[@xml:id='Sida3']/tei:figure/tei:graphic/@url"/>
+                                        </xsl:attribute>
+                                        <xsl:attribute name="title">
+                                            <xsl:value-of select="//tei:surface[@xml:id='Sida3']/tei:figure/tei:label"/>
+                                        </xsl:attribute>
+                                        <xsl:attribute name="alt">
+                                            <xsl:value-of select="//tei:surface[@xml:id='Sida3']/tei:figure/tei:figDesc"/>
+                                        </xsl:attribute>
+                                    </img>                              
+                                </article>
                             </div>
-                            <div class="col-md">
-                                <h3>Transcription</h3>
+                            <!-- second column: apply matching templates for anything nested underneath the tei:text element -->
+                            <div class="col-sm">
+                                <article id="description">
+                                    
+                                    <p>
+                                        <strong>Ordlista:</strong>
+                                    </p>
+                                    
+                                    <xsl:apply-templates select="//tei:profileDesc/tei:creation"/>
+                                    
+                                </article>
                             </div>
                         </div>
-                        <!-- set up an image-text pair for each page in your document, and start a new 'row' for each pair -->
-                        <xsl:for-each select="//tei:div[@type='page']">
-                            <!-- save the value of each page's @facs attribute in a variable, so we can use it later -->
-                            <xsl:variable name="facs" select="@facs"/>
-                            <div class="row">
-                                <!-- fill the first column with this page's image -->
-                                <div class="col-">
-                                    <article>
-                                        <!-- make an HTML <img> element, with a maximum width of 100 pixels -->
-                                        <img class="thumbnail">
-                                            <!-- give this HTML <img> attribute three more attributes:
-                                                    @src to locate the image file
-                                                    @title for a mouse-over effect
-                                                    @alt for alternative text (in case the image fails to load, 
-                                                        and so people with a visual impairment can still understant what the image displays 
-                                                  
-                                                  in the XPath expressions below, we use the variable $facs (declared above) 
-                                                        so we can use this page's @facs element with to find the corresponding <surface>
-                                                        (because it matches with the <surface's @xml:id) 
-                                            
-                                                  we use the substring-after() function because when we match our page's @facs with the <surface>'s @xml:id,
-                                                        we want to disregard the hashtag in the @facs attribute-->
-                                            
-                                            <xsl:attribute name="src">
-                                                <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:graphic[1]/@url"/>
-                                            </xsl:attribute>
-                                            <xsl:attribute name="title">
-                                                <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:label"/>
-                                            </xsl:attribute>
-                                            <xsl:attribute name="alt">
-                                                <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:figDesc"/>
-                                            </xsl:attribute>
-                                        </img>
-                                    </article>
-                                </div>
-                                <!-- fill the second column with our transcription -->
-                                <div class='col-md'>
-                                    <article class="transcription">
-                                        <xsl:apply-templates select="//tei:text/tei:figure"/>                                     
-                                    </article>
-                                </div>
-                            </div>
-                        </xsl:for-each>
                     </div>
                 </main>
                 <footer>
                 <div class="row" id="footer">
-                  <div class="col-sm copyright">
+                  <div class="col-sm copyright">                     
                       <div>
-                        <a href="https://creativecommons.org/licenses/by/4.0/legalcode">
-                          <img src="assets/img/cc.svg" class="copyright_logo" alt="Creative Commons License"/><img src="assets/img/by.svg" class="copyright_logo" alt="Attribution 4.0 International"/>
-                        </a>
-                      </div>
-                      <div>
-                         2022 Wout Dillen.
+                          2026 My Hildingsson Jeppsson, Lena Karlsson, Carl Kilstedt, Käbi Petersson.
                       </div>
                     </div>
                 </div>

@@ -67,7 +67,7 @@
                                         <strong>Ordlista:</strong>
                                     </p>
                                     
-                                    <xsl:apply-templates select="//tei:profileDesc/tei:creation"/>
+                                    <xsl:apply-templates select="//tei:profileDesc/tei:creation[2]"/>
                                     
                                 </article>
                             </div>
