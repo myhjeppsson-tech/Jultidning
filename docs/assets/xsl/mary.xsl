@@ -63,7 +63,7 @@
                                 <article id="description">
                                     
                                     <p>
-                                        <strong>Om Julljuset:</strong>
+                                        <strong>Om digitaliseringen:</strong>
                                     </p>
                                     
                                     <xsl:apply-templates select="(//tei:profileDesc/tei:abstract[3])"/>
