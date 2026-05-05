@@ -39,33 +39,38 @@
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
                     <div class="container">
-                        <!-- define a row layout with bootstrap's css classes (two columns) -->
                         <div class="row">
-                           
-                            <!-- first column: load the image based on the IIIF link in the graphic above -->
-                            <div class="col-sm">
+                            
+                            <!-- Vänster kolumn: bilder -->
+                            <div class="col-md-6">
                                 <article id="collection">
-                                   
-                                    <xsl:for-each select="//tei:surface[@xml:id=('Sida7','Sida9','Sida17','Sida23','Sida31')]">
-                                        <img class="img-full"
-                                            src="{tei:figure/tei:graphic/@url}"
-                                            title="{tei:figure/tei:label}"
-                                            alt="{tei:figure/tei:figDesc}" />
-                                    </xsl:for-each>                 
+                                    
+                                    <xsl:for-each select="//tei:div[@type='page'][position() = (7, 9, 17, 23, 31)]">
+                                        <xsl:variable name="facs" select="@facs"/>
+                                        
+                                        <div style="margin-bottom:1rem;">
+                                            <img class="img-fluid"
+                                                src="{//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:graphic[1]/@url}"
+                                                title="{//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:label}"
+                                                alt="{//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:figDesc}" />
+                                        </div>
+                                        
+                                    </xsl:for-each>
+                                    
                                 </article>
                             </div>
-                            <!-- second column: apply matching templates for anything nested underneath the tei:text element -->
-                            <div class="col-sm">
+                            
+                            <!-- Höger kolumn: text -->
+                            <div class="col-md-6">
                                 <article id="description">
                                     
-                                    <p>
-                                        <strong>Jules Schyl</strong>
-                                    </p>
+                                    <p><strong>Jules Schyl</strong></p>
                                     
-                                    <xsl:apply-templates select="(//tei:profileDesc/tei:abstract [2])"/>
+                                    <xsl:apply-templates select="(//tei:profileDesc/tei:abstract)[2]"/>
                                     
                                 </article>
                             </div>
+                            
                         </div>
                     </div>
                 </main>
