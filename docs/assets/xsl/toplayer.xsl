@@ -45,7 +45,7 @@
                             <div class="col-md-6">
                                 <article id="collection" style="display:flex; flex-direction:column;">
                                     
-                                    <xsl:for-each select="//tei:div[@type='page'][position() = (3, 4, 11, 16, 23)]">
+                                    <xsl:for-each select="//tei:div[@type='page'][position() = (7, 9, 17, 23, 31)]">
                                         <xsl:variable name="facs" select="@facs"/>
                                         
                                         <div style="margin-bottom:1rem;">
