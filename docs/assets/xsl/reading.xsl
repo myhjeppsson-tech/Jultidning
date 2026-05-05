@@ -48,13 +48,13 @@
                                 <article id="collection">
                                     <img>
                                         <xsl:attribute name="src">
-                                            <xsl:value-of select="//tei:surface[@xml:id='Sida3']/tei:figure/tei:graphic/@url"/>
+                                            <xsl:value-of select="//tei:surface[@xml:id='Sida19']/tei:figure/tei:graphic/@url"/>
                                         </xsl:attribute>
                                         <xsl:attribute name="title">
-                                            <xsl:value-of select="//tei:surface[@xml:id='Sida3']/tei:figure/tei:label"/>
+                                            <xsl:value-of select="//tei:surface[@xml:id='Sida19']/tei:figure/tei:label"/>
                                         </xsl:attribute>
                                         <xsl:attribute name="alt">
-                                            <xsl:value-of select="//tei:surface[@xml:id='Sida3']/tei:figure/tei:figDesc"/>
+                                            <xsl:value-of select="//tei:surface[@xml:id='Sida19']/tei:figure/tei:figDesc"/>
                                         </xsl:attribute>
                                     </img>                              
                                 </article>
