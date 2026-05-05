@@ -66,7 +66,7 @@
                                         <strong>Om Julljuset:</strong>
                                     </p>
                                     
-                                    <xsl:apply-templates select="//tei:profileDesc/tei:abstract/tei:p[position() > 1]"/>
+                                    <xsl:apply-templates select="(//tei:profileDesc/tei:abstract[1])"/>
                                     
                                 </article>
                             </div>

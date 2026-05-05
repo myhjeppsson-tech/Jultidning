@@ -63,7 +63,7 @@
                                 <article id="description">
                                     
                                     <p>
-                                        <strong>Ordlista:</strong>
+                                        <strong>Jules Schyl</strong>
                                     </p>
                                     
                                     <xsl:apply-templates select="//tei:profileDesc/tei:creation"/>
