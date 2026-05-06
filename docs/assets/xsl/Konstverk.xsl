@@ -30,7 +30,7 @@
                     </h1>
                 </header>
                 <nav id="sitenav">
-                    <a href="OmJulljuset.html">Om Julljuset</a> |
+                    <a href="index.html">Om Julljuset</a> |
                     <a href="Julljuset1918.html">Julljuset 1918</a> |
                     <a href="Ordlista.html">Ordlista</a> |
                     <a href="Konstverk.html">Konstverk</a> |
