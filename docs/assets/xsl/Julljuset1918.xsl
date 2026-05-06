@@ -201,10 +201,10 @@
     </xsl:template> 
     
     <xsl:template match="tei:table">
+        
+        <xsl:apply-templates select="tei:head"/>
+        
         <table class="table table-bordered">
-            
-           
-            <xsl:apply-templates select="tei:head"/>
             
             <thead>
                 <xsl:apply-templates select="tei:row[@role='label']"/>
