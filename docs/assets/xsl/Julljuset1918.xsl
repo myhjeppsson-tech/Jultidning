@@ -203,9 +203,8 @@
     <xsl:template match="tei:table">
         <table class="table table-bordered">
             
-            <caption>
+           
             <xsl:apply-templates select="tei:head"/>
-            </caption>
             
             <thead>
                 <xsl:apply-templates select="tei:row[@role='label']"/>
@@ -240,10 +239,6 @@
         </td>
     </xsl:template>
     
-    <xsl:template match="tei:table/tei:head">
-        <caption>
-            <xsl:apply-templates/>
-        </caption>
-    </xsl:template>
+   
     
 </xsl:stylesheet>
