@@ -30,11 +30,11 @@
                     </h1>
                 </header>
                 <nav id="sitenav">
-                    <a href="index.html">Om Julljuset</a> |
-                    <a href="diplomatic.html">Julljuset 1918</a> |
-                    <a href="reading.html">Ordlista</a> |
-                    <a href="toplayer.html">Konstverk</a> |
-                    <a href="mary.html">Om digitaliseringen</a> |
+                    <a href="OmJulljuset.html">Om Julljuset</a> |
+                    <a href="Julljuset1918.html">Julljuset 1918</a> |
+                    <a href="Ordlista.html">Ordlista</a> |
+                    <a href="Konstverk.html">Konstverk</a> |
+                    <a href="OmDigitaliseringen.html">Om digitaliseringen</a> |
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
