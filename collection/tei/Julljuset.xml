@@ -1945,12 +1945,17 @@
 </div>            
            
          <div type="page" facs="#Sida44">
-            <pb n="II"/>
+            <pb n="42"/>
          </div>        
   
          <div type="page" facs="#Sida45">
-            <pb n="I"/>
+            <pb n="II"/>
          </div>
+         
+         <div type="page" facs="#Sida46">
+            <pb n="II"/>
+         </div>
+         
       </body>
    </text>
 </TEI>
