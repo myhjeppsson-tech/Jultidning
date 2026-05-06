@@ -62,9 +62,6 @@
                             <div class="col-sm">
                                 <article id="description">
                                     
-                                    <p>
-                                        <strong>Om Julljuset:</strong>
-                                    </p>
                                     
                                     <xsl:apply-templates select="(//tei:profileDesc/tei:abstract[1])"/>
                                     
@@ -170,11 +167,11 @@
         </span>
     </xsl:template>
 
-    <!-- transform tei hi (highlighting) with the attribute @rend="u" into html u elements -->
-    <xsl:template match="tei:hi[@rend = 'circled']">
-        <span style="border:1px solid black;border-radius:50%">
+    <!-- transform tei hi (highlighting) with the attribute @rend="b" into html strong elements -->
+    <xsl:template match="tei:hi[@rend = 'b']">
+        <strong>
             <xsl:apply-templates/>
-        </span>
+        </strong>
     </xsl:template>
 
 

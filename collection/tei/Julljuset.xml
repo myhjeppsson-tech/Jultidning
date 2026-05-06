@@ -64,7 +64,7 @@
       
       <profileDesc>
          <abstract>
-         <p>Om Julljuset </p>
+         <p><hi rend="b">Om Julljuset:</hi></p>
 
             <p> Julljuset är en årlig jultidning som skapats av Kamratföreningen V.K. i Höör, och årligen utkom mellan 1918 och 1931, eventuellt med uppehåll 1921 och 1926. De skänktes till Höörs kommun av poeten och skribenten Nils Ludvig Olsson någon gång innan hans bortgång 1974, och har under senare år legat bortglömda i bibliotekets magasin tills en vaktmästare återupptäckte dem omkring år 2010. Varje tidning är unik och skriven för hand i skrivstil med illustrationer i anslutning till texterna. Det första numret 1918 har dessutom fem enskilda konstverk inflikade mellan några av sidorna. Julljuset har troligtvis aldrig blivit tryckt. En teori är att den kan ha visats vid föreningens sammankomster kring jul. Utöver någon liten reva, tumavtryck och så kallad “blödning” framför allt av guldfärg som gett avtryck på motsatt sida är tidningarna välbevarade. Tidningen har flera upphovspersoner. I Julljuset 1918 medverkade utöver den lokala Höör-profilen Nils Ludvig exempelvis konstnären Jules Schyl.   </p>
 
@@ -72,9 +72,10 @@
 
           <creation>
              <gloss>
-               <title>Ordlista</title> 
-               <lb/>I texterna förekommer ålderdomliga ord och uttryck som kan vara svåra att förstå med dagens språkbruk. Här kommer några förklaringar. Där det inte står något annat är källorna Svenska Akademiens ordböcker SAOB, SAOL eller SO.
+                <title><hi rend="b">Ordlista</hi></title> 
+              <lb/>I texterna förekommer ålderdomliga ord och uttryck som kan vara svåra att förstå med dagens språkbruk. Här kommer några förklaringar. Där det inte står något annat är källorna Svenska Akademiens ordböcker SAOB, SAOL eller SO.
                (...) = svårtydbart ord.
+               <lb/>
                <lb/>Ottesång = Morgongudstjänst
               <lb/> Hjärtegrund = Själ
               <lb/> Ålder = Epok, period
@@ -146,7 +147,7 @@
          </creation>
         
          <abstract>
-         <p>Konstverk</p>
+            <p><hi rend="b">Konstverk:</hi></p>
             <p>Julljuset 1918 innehåller utöver text och mindre illustrationer även fem separata konstverk.  Även om enbart fyra av dem är signerade av Jules Schyl har de troligtvis samma upphovsman. Målaren, grafikern och tecknaren Viktor Jules Richard Schylow (1893-1977), vilket är hans egentliga namn, föddes i Köpenhamn men är uppvuxen i Höör som son till Ida och Ola “Motor-Ola” Svensson.
                
                Efter konstnärliga studier i Stockholm på Tekniska skolan, till teckningslärare på Högre konstindustriella skola och på Althins målarskola, läste han fram till 1919 på Det Kongelige Danske Kunstakademi i Köpenhamn. Från 1920-talet och framåt arbetade han under många år som teckningslärare i Malmö. 
@@ -162,7 +163,7 @@
         </abstract>
          
          <abstract>
-         <p>Om digitaliseringen</p>
+            <p><hi rend="b">Om digitaliseringen:</hi></p>
             <p>Denna digitalisering är begränsad till det första numret av Julljuset 1918 men förhoppningen är att det är startskottet till att även övriga nummer digitaliseras. Digitalisering har i samarbete med Höörs bibliotek gjorts av My Hildingsson, Lena Karlsson, Carl Kihlstedt och Käbi Pettersson, studenter på delkursen Digitalisering för bevarande och tillgänglighet på Masterprogrammet i Biblioteks- och informationsvetenskap vid  Borås Högskola vårterminen 2026. Kodningen har gjorts i TEI, XML, HTML.
             </p>
          </abstract>
@@ -564,12 +565,10 @@
          
          <div type="page" facs="#Sida1">
             <pb n="I"/>
-            <gap reason="blank"/>
          </div>
          
          <div type="page" facs="#Sida2">
             <pb n="II"/>
-            <gap reason="blank"/>
          </div>
          
          <div type="page" facs="#Sida3"> 
@@ -651,22 +650,19 @@
          
          <div type="page" facs="#Sida7"> 
             <pb n="5"/>
-           <note>Illustrerad sida utan transkriberad text</note>
          </div>
          
          <div type="page" facs="#Sida8">
             <pb n="6"/>
-            <gap reason="blank"/>
+
          </div>
          
          <div type="page" facs="#Sida9">
             <pb n="7"/>
-            <note>Illustrerad sida utan transkriberad text</note>
          </div>
          
          <div type="page" facs="#Sida10">
             <pb n="8"/>
-            <gap reason="blank"/>
          </div>
          
             <div type="page" facs="#Sida11">
@@ -918,12 +914,10 @@
          
          <div type="page" facs="#Sida17">
             <pb n="15"/>
-            <note>Illustrerad sida utan transkriberad text</note>
           </div>
          
          <div type="page" facs="#Sida18">
             <pb n="16"/>
-            <gap reason="blank"/>
          </div>
          
         
@@ -1103,8 +1097,7 @@
       </div>
          
          <div type="page" facs="#Sida23">
-            <pb n="21"/>
-            <note>Illustrerad sida utan transkriberad text</note>            
+            <pb n="21"/>          
          </div>
          
          <div type="page" facs="#Sida24">
@@ -1377,7 +1370,6 @@
          
          <div type="page" facs="#Sida31">
             <pb n="29"/>
-            <note>Illustrerad sida utan transkriberad text</note> 
            </div>
          
          <div type="page" facs="#Sida32">
@@ -1954,12 +1946,10 @@
            
          <div type="page" facs="#Sida44">
             <pb n="II"/>
-            <gap reason="blank"/>
          </div>        
   
          <div type="page" facs="#Sida45">
             <pb n="I"/>
-            <gap reason="blank"/>
          </div>
       </body>
    </text>

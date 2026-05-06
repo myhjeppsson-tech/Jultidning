@@ -62,9 +62,7 @@
                             <div class="col-sm">
                                 <article id="description">
                                     
-                                    <p>
-                                        <strong>Om digitaliseringen:</strong>
-                                    </p>
+                                
                                     
                                     <xsl:apply-templates select="(//tei:profileDesc/tei:abstract[3])"/>
                                     

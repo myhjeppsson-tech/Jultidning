@@ -63,9 +63,7 @@
                             <div class="col-sm">
                                 <article id="description">
                                     
-                                    <p>
-                                        <strong>Ordlista:</strong>
-                                    </p>
+                                  
                                     
                                     <xsl:apply-templates select="(//tei:profileDesc/tei:creation)[2]"/>
                                     
