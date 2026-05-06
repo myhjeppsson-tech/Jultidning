@@ -62,7 +62,6 @@
                             <div class="col-sm">
                                 <article id="description">
                                     
-                                    
                                     <xsl:apply-templates select="(//tei:profileDesc/tei:abstract[1])"/>
                                     
                                 </article>
