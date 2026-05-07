@@ -582,7 +582,6 @@
          
          <div type="page" facs="#Sida4">
             <pb n="2"/>
-            <gap reason="blank"/>
          </div>
          
         <div type="page" facs="#Sida5">
@@ -1102,7 +1101,6 @@
          
          <div type="page" facs="#Sida24">
             <pb n="22"/>
-            <gap reason="blank"/>
          </div>
          
       
@@ -1374,7 +1372,6 @@
          
          <div type="page" facs="#Sida32">
             <pb n="30"/>
-            <gap reason="blank"/>
          </div>
          
       
@@ -1829,7 +1826,7 @@
 <div type="page" facs="#Sida43">
 <pb n="41"/>
 <table>
-  <head>Höörs föreläsningsförening – Vårterminen 1919</head>
+  <head>Höörs föreläsningsförening - Vårterminen 1919</head>
   <row role="label">
     <cell>Dag</cell>
     <cell>Föreläsare</cell>
